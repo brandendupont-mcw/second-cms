@@ -5,12 +5,16 @@
 $theme-image-path: '../../node_modules/uswds/src/img';
 $theme-font-path: '../../node_modules/uswds/src/fonts';
 
+$theme-show-notifications: false;
+
 /*
   The url for the hero image in the source file is not currently prefixed by
   the $theme-image-path above.
 */
 
-$theme-hero-image: '#{$theme-image-path}/hero.png';
+$theme-hero-image: 'https://media-exp1.licdn.com/dms/image/C4E1BAQFXkKCM6RGhfQ/company-background_10000/0/1616798748189?e=2147483647&v=beta&t=M7bWRireoJ4E0BIrCkNFurOH6m83cPgKWln5RMh1eHI';
+
+
 
 // Your custom changes to variables go here
 // Uncomment to see this working
@@ -45,3 +49,5 @@ $theme-hero-image: '#{$theme-image-path}/hero.png';
     display: block;
   }
 }
+
+

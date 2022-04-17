@@ -17,7 +17,7 @@ const Banner = () => (
           </div>
           <div className="grid-col-fill tablet:grid-col-auto">
             <p className="usa-banner__header-text">
-              An official website of the United States government
+            We're working to improve and add to this site.
             </p>
             <p className="usa-banner__header-action" aria-hidden="true">
               Here’s how you know
@@ -28,7 +28,7 @@ const Banner = () => (
             aria-expanded={false}
             className="usa-accordion__button usa-banner__button"
           >
-            <span className="usa-banner__button-text">Here's how you know</span>
+            <span className="usa-banner__button-text">Feedback, questions, or request data?</span>
           </button>
         </div>
       </header>
@@ -46,11 +46,9 @@ const Banner = () => (
             />
             <div className="usa-media-block__body">
               <p>
-                <strong>The .gov means it’s official.</strong>
+                <strong>Let us know.</strong>
                 <br />
-                Federal government websites often end in .gov or .mil. Before
-                sharing sensitive information, make sure you’re on a federal
-                government site.
+                To provide feedback, request additional data or analysis, or ask questions about the site, fill out this form.
               </p>
             </div>
           </div>

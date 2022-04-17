@@ -8,16 +8,14 @@ const Hero = () => (
   <section className="usa-hero">
     <div className="grid-container">
       <div className="usa-hero__callout">
-        <h2 className="usa-hero__heading">
-          <span className="usa-hero__heading--alt">Hero callout:</span>Bring
-          attention to a project priority
-        </h2>
+        <h3 className="usa-hero__heading">
+          <span className="usa-hero__heading--alt">We're Opening</span>1st Judicial District Attorney Data to the Public
+        </h3>
         <p>
-          Support the callout with some short explanatory text. You don’t need
-          more than a couple of sentences.
+        Learn about what data we're releasing and important context about our justice system.
         </p>
-        <a className="usa-button" href="/">
-          Call to action
+        <a className="usa-button" href="/about">
+          Learn More
         </a>
       </div>
     </div>

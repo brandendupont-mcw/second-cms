@@ -17,14 +17,10 @@ const Footer = () => (
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
               <li>Footer link</li>
-              <li>Footer link</li>
-              <li>Footer link</li>
             </ul>
           </div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li>Footer link</li>
-              <li>Footer link</li>
               <li>Footer link</li>
             </ul>
           </div>

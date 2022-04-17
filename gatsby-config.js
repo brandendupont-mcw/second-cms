@@ -3,7 +3,7 @@ module.exports = {
     // Replace the Site URL with your domain, ex. https://example.gov 
     siteUrl: 'https://example.gov',
     author: 'Foo',
-    title: `Agency Name`,
+    title: `First Judicial District Attorney Data Dashboard`,
     description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
     navigation: [
