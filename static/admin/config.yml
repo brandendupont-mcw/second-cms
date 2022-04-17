@@ -4,7 +4,6 @@ backend:
 
 media_folder: static/images
 public_folder: /images
-publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
@@ -15,7 +14,7 @@ collections:
     create: true
     preview_path: 'blog/{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - {
@@ -36,7 +35,7 @@ collections:
     create: true
     preview_path: '{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Sidenav', name: 'sidenav', widget: 'boolean' }
