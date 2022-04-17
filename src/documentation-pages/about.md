@@ -1,9 +1,9 @@
 ---
-title: Document
-sidenav: false
+title: About
+sidenav: False
 ---
 
-# Section heading (h1)
+# About
 
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 

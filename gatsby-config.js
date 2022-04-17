@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     // Replace the Site URL with your domain, ex. https://example.gov 
     siteUrl: 'https://example.gov',
-    author: 'Foo',
+    author: 'Branden DuPont',
     title: `First Judicial District Attorney Data Dashboard`,
     description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
     Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
@@ -11,28 +11,33 @@ module.exports = {
         items: [{ text: 'Home', link: '/' }],
       },
       {
+        title: 'Metrics',
+        items: [
+          { text: 'Referrals', link: '/referral' },
+          { text: 'Filing & Charging', link: '/filing_charging' },
+          { text: 'Case Resolution', link: '/case_resolution' },
+          { text: 'Deferral & Diversion Outcomes', link: '/deferral_and_diversion' },
+          { text: 'Sentencing', link: '/sentencing' },
+          { text: 'Defendant Characteristics', link: '/defendant_characteristics' },
+          { text: 'Serving Victims', link: '/serving_victims' },
+          { text: 'Staffing & Caseload', link: '/staffing_caseload' },
+        ],
+      },
+      {
         items: [{ text: 'Blog', link: '/blog' }],
       },
       {
-        items: [{ text: 'Document', link: '/document' }],
-      },
-      {
         items: [
-          { text: 'Document with sidenav', link: '/document-with-sidenav' },
+          { text: 'Definition', link: '/definitions' },
         ],
       },
       {
-        title: 'Document submenu',
-        items: [
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-        ],
+        items: [{ text: 'About', link: '/about' }],
       },
     ],
     secondaryLinks: [
-      { text: 'Secondary link', link: '/' },
-      { text: 'Another secondary link', link: '/' },
+      { text: 'Homepage', link: 'https://www.jeffco.us/district-attorney' },
+      { text: 'Contact Us', link: 'https://www.jeffco.us/FormCenter/General-Contact-23/Contact-Us-90' },
     ],
 
     /**

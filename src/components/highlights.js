@@ -1,5 +1,6 @@
 import React from 'react';
 import circle from 'uswds/img/circle-124.png';
+import { Link } from 'gatsby';
 
 /*
   Use this section to highlight key elements of your site. Some sites will only have two while others may have six to eight. 
@@ -14,12 +15,10 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Diversion
+             <Link to="/referral" > <a className='usa-link' style={{color:'#00bde3'}}> Referrals</a> </Link> 
             </h3>
             <p>
-              Graphic headings can be used a few different ways, depending on
-              what your landing page is for. Highlight your values, specific
-              program areas, or results.
+            A referral to this office occurs when law enforcement presents an individual suspected of a crime to review for potential charges. This can occur via arrest, cite-and-release, and/or order in. 
             </p>
             
           </div>
@@ -29,12 +28,10 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Cases
+              <Link to="/filing_charging" > <a className='usa-link' style={{color:'#00bde3'}}>Filing and Charging</a> </Link> 
             </h3>
             <p>
-              Keep body text to about 30 words. They can be shorter, but try to
-              be somewhat balanced across all four. It creates a clean
-              appearance with good spacing.
+            After reviewing a case presented for review, prosecutors decide whether to issue charges. A charge is a formal accusation filed by this office that a specific person has committed a specific crime, also referred to as filing a criminal complaint or information. 
             </p>
           </div>
         </div>
@@ -44,29 +41,76 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Indicators
+              <Link to="/case_resolution" > <a className='usa-link' style={{color:'#00bde3'}}>Case Resolution</a> </Link> 
             </h3>
             <p>
-              For anything you want to highlight here, understand what your
-              users know now, and what activity or impression you want from them
-              after they see it.
+            Let's add a quick definition  here.
             </p>
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Sentencing
+            <Link to="/deferral_and_diversion" > <a className='usa-link' style={{color:'#00bde3'}}>Deferral & Diversion Outcomes</a> </Link> 
             </h3>
             <p>
-              In addition to your goal, find out your users’ goals. What do they
-              want to know or do that supports your mission? Use these headings
-              to show those.
+            Let's add a quick definition  here.
             </p>
           </div>
         </div>
       </div>
+      <div className="usa-graphic-list__row grid-row grid-gap">
+        <div className="usa-media-block tablet:grid-col">
+
+          <div className="usa-media-block__body">
+            <h3 className="usa-graphic-list__heading">
+            <Link to="/sentencing" > <a className='usa-link' style={{color:'#00bde3'}}>Sentencing</a> </Link> 
+            </h3>
+            <p>
+            Let's add a quick definition  here.
+            </p>
+            
+          </div>
+          
+        </div>
+        <div className="usa-media-block tablet:grid-col">
+
+          <div className="usa-media-block__body">
+            <h3 className="usa-graphic-list__heading">
+            <Link to="/defendant_characteristics" > <a className='usa-link' style={{color:'#00bde3'}}>Defendant Characteristics</a> </Link> 
+            </h3>
+            <p>
+            Let's add a quick definition  here.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div className="usa-graphic-list__row grid-row grid-gap">
+        <div className="usa-media-block tablet:grid-col">
+
+          <div className="usa-media-block__body">
+            <h3 className="usa-graphic-list__heading">
+            <Link to="/serving_victims" > <a className='usa-link' style={{color:'#00bde3'}}>Serving Victims</a> </Link> 
+            </h3>
+            <p>
+            Let's add a quick definition  here.
+            </p>
+          </div>
+        </div>
+        <div className="usa-media-block tablet:grid-col">
+          <div className="usa-media-block__body">
+            <h3 className="usa-graphic-list__heading">
+            <Link to="/staffing_caseload" > <a className='usa-link' style={{color:'#00bde3'}}>Staffing & Caseload</a> </Link> 
+            </h3>
+            <p>
+            Let's add a quick definition  here. 
+            </p>
+          </div>
+        </div>
+      </div>
+
     </div>
+    
   </section>
 );
 
