@@ -1,13 +1,12 @@
 ---
-title: Hello World
-date: January 14, 2019
-author: Abraham Lincoln
+title: Updated Title
+date: April 17, 2022
+author: Branden DuPont
 ---
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dapibus interdum pellentesque. Integer eu vehicula elit. Sed cursus magna in dui suscipit rhoncus.
 
 Curabitur sed elit viverra, fermentum massa non, hendrerit ex. Vivamus eget mattis tortor, eu elementum sapien. Praesent elementum feugiat nisi venenatis vestibulum. Nulla pretium ipsum orci, ut feugiat arcu facilisis sit amet.
 
 Morbi bibendum est non nibh aliquam, non dictum massa elementum. Nullam vitae auctor erat. Mauris at arcu ut purus sodales porttitor ut sit amet ex. Donec viverra quam nisl, a congue arcu fermentum rhoncus.
 
-![Federalist!](/images/federalist-icon.png 'Federalist!')
+![Federalist!]()
