@@ -1,6 +1,6 @@
 ---
-title: Deferral & Diversion Outcomes
-sidenav: False
+title: Deferral and Diversion Outcomes
+sidenav: false
 ---
 
 # Deferral & Diversion Outcomes
