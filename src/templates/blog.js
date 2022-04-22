@@ -18,9 +18,9 @@ const Blog = ({ data, pageContext }) => {
         className="bg-primary-darker usa-content font-serif-lg padding-y-6"
       >
         <div className="grid-container">
-          <h1 className="text-normal text-white margin-0">Blog</h1>
+          <h1 className="text-normal text-white margin-0">Data Stories</h1>
           <span className="text-base-lighter display-block padding-top-1 text-light">
-            This is a description of the page.
+            Deep dives into the First Judicial District Attorney's office.
           </span>
         </div>
       </div>

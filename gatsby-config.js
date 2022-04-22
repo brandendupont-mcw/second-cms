@@ -24,7 +24,7 @@ module.exports = {
         ],
       },
       {
-        items: [{ text: 'Blog', link: '/blog' }],
+        items: [{ text: 'Data Stories', link: '/blog' }],
       },
       {
         items: [
