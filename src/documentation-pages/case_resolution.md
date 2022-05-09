@@ -4,7 +4,15 @@ sidenav: false
 ---
 # Case Resolution
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+After a case is filed, it can be resolved in a variety of ways, including by dismissal, diversion, deferred judgment/sentencing, plea agreements, or through a verdict at a trial. 
+
+This dashboard presents data on all cases prosecuted by the District Attorney's Office that have reached a final resolution, or a case disposition. Each case is reflected by its top disposition. For example, in most plea agreements, one or more charges will be dismissed, but the case will be reflected by the charge it pled guilty on. The year reflects the year the disposition was reached.
+
+**Why is this important?** It is important to review dispositions to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness. <br>
+
+<br>
+
+<br>
 
 <iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-aAMBL" src="https://datawrapper.dwcdn.net/aAMBL/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="338"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
@@ -28,6 +36,8 @@ The page heading communicates the main focus of the page. Make your page heading
 <br>
 
 ## PPIs
+
+
 
 <iframe title="PPI 3.1 Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-BZ2D4" src="https://datawrapper.dwcdn.net/BZ2D4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script><br>
