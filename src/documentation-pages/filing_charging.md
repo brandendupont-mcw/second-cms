@@ -4,7 +4,11 @@ sidenav: false
 ---
 # Filing and Charging
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+This dashboard presents data on all cases for which a law enforcement agency has filed the case (misdemeanors or traffic) or for which the District Attorney’s office has decided to accept the referral and file the charges (felonies). Each case is represented once, by the top charge filed. The date is based on the date the charges were filed. 
+
+Note: Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual. 
+
+**Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. 
 
 <iframe title="Cases Filed" aria-label="Table" id="datawrapper-chart-9gn81" src="https://datawrapper.dwcdn.net/9gn81/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="342"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
@@ -17,6 +21,12 @@ The page heading communicates the main focus of the page. Make your page heading
 
 <iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-RJG3K" src="https://datawrapper.dwcdn.net/RJG3K/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
+<br>
+
+<br>
+
+<br>
 
 ## PPIs
 
