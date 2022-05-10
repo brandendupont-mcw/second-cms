@@ -6,7 +6,7 @@ sidenav: false
 
 This dashboard presents information about staff capacity, caseload distribution, retention, and staff characteristics.
 
-**Why is this important?** To support office capacity and efficiency by supporting staff recruitment and retention and optimizing workload and caseload distributions.
+**Why is this important?** To show how and why the office is spending its resources and to support staff recruitment.
 
 ## PPIs
 
