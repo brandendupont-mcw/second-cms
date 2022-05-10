@@ -19,7 +19,7 @@ This dashboard presents information on defendant characteristics, including race
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-VtmAC" src="https://datawrapper.dwcdn.net/VtmAC/9/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="433"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-VtmAC" src="https://datawrapper.dwcdn.net/VtmAC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="433"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script><br>
 
 <br>
@@ -55,3 +55,19 @@ This dashboard presents information on defendant characteristics, including race
 <br>
 
 ## PPIs
+
+Below are a set of Prosecutorial Performance Indicators that provide additional context about staffing and caseloads. These indicators help the District Attorney ensure they optimize caseload distributions, staff diversity and retention, and data and clerical support. <br>
+
+<br>
+
+<br>
+
+<iframe title="PPI 4.3 Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-efCar" src="https://datawrapper.dwcdn.net/efCar/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+<br>
+
+<iframe title="PPI 4.5 Escalation in Offending" aria-label="Interactive line chart" id="datawrapper-chart-cCkjs" src="https://datawrapper.dwcdn.net/cCkjs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
