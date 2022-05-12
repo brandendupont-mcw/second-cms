@@ -18,7 +18,12 @@ $theme-hero-image: 'https://media-exp1.licdn.com/dms/image/C4E1BAQFXkKCM6RGhfQ/c
 
 // Your custom changes to variables go here
 // Uncomment to see this working
-// $theme-color-primary-darker: 'black';
+ //$theme-color-primary-darker: 'black';
+ $theme-color-primary: 'violet-30' ;
+ $theme-color-primary-dark:'violet-50'  ;
+ $theme-color-primary-darker:'violet-70'  ;
+ $theme-color-accent-cool:'yellow-20v'  ;
+ 
 
 @import '../../node_modules/uswds/dist/scss/uswds.scss';
 

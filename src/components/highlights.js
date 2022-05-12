@@ -15,7 +15,7 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-             <Link to="/referral" > <a className='usa-link' style={{color:'#00bde3'}}> Referrals</a> </Link> 
+             <Link to="/referral" > <a className='usa-link' style={{color:'white'}}> Referrals</a> </Link> 
             </h3>
             <p>
             A referral to this office occurs when law enforcement presents an individual suspected of a crime to review for potential charges. This can occur via arrest, cite-and-release, and/or order in. 
@@ -28,7 +28,7 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              <Link to="/filing_charging" > <a className='usa-link' style={{color:'#00bde3'}}>Filing and Charging</a> </Link> 
+              <Link to="/filing_charging" > <a className='usa-link' style={{color:'white'}}>Filing and Charging</a> </Link> 
             </h3>
             <p>
             After reviewing a case presented for review, prosecutors decide whether to issue charges. A charge is a formal accusation filed by this office that a specific person has committed a specific crime, also referred to as filing a criminal complaint or information. 
@@ -41,7 +41,7 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              <Link to="/case_resolution" > <a className='usa-link' style={{color:'#00bde3'}}>Case Resolution</a> </Link> 
+              <Link to="/case_resolution" > <a className='usa-link' style={{color:'white'}}>Case Resolution</a> </Link> 
             </h3>
             <p>
             Let's add a quick definition  here.
@@ -51,7 +51,7 @@ const Highlights = () => (
         <div className="usa-media-block tablet:grid-col">
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/deferral_and_diversion" > <a className='usa-link' style={{color:'#00bde3'}}>Deferral & Diversion Outcomes</a> </Link> 
+            <Link to="/deferral_and_diversion" > <a className='usa-link' style={{color:'white'}}>Deferral & Diversion Outcomes</a> </Link> 
             </h3>
             <p>
             Let's add a quick definition  here.
@@ -64,7 +64,7 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/sentencing" > <a className='usa-link' style={{color:'#00bde3'}}>Sentencing</a> </Link> 
+            <Link to="/sentencing" > <a className='usa-link' style={{color:'white'}}>Sentencing</a> </Link> 
             </h3>
             <p>
             Let's add a quick definition  here.
@@ -77,7 +77,7 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/defendant_characteristics" > <a className='usa-link' style={{color:'#00bde3'}}>Defendant Characteristics</a> </Link> 
+            <Link to="/defendant_characteristics" > <a className='usa-link' style={{color:'white'}}>Defendant Characteristics</a> </Link> 
             </h3>
             <p>
             Let's add a quick definition  here.
@@ -90,7 +90,7 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/serving_victims" > <a className='usa-link' style={{color:'#00bde3'}}>Serving Victims</a> </Link> 
+            <Link to="/serving_victims" > <a className='usa-link' style={{color:'white'}}>Serving Victims</a> </Link> 
             </h3>
             <p>
             Let's add a quick definition  here.
@@ -100,7 +100,7 @@ const Highlights = () => (
         <div className="usa-media-block tablet:grid-col">
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/staffing_caseload" > <a className='usa-link' style={{color:'#00bde3'}}>Staffing & Caseload</a> </Link> 
+            <Link to="/staffing_caseload" > <a className='usa-link' style={{color:'white'}}>Staffing & Caseload</a> </Link> 
             </h3>
             <p>
             Let's add a quick definition  here. 
