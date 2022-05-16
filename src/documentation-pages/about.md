@@ -1,24 +1,15 @@
 ---
 title: About
-sidenav: False
+sidenav: false
 ---
-
 # About
 
-The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
+This data dashboard contains information on cases processed by the First District Attorney’s Office, from case referral to sentencing. The dashboard seeks to support:
 
-## Section heading (h2)
+* **Transparency.** Ensuring that the DA’s office is communicating what it is doing and the outcomes of its work.
+* **Efficiency**. Ensuring that the DA’s office is using resources wisely and being good stewards of public funding.
+* **Community Safety and Well-Being**. Ensuring that the DA’s office is addressing serious crime and protecting and serving victims.
+* **Justice and Fairness**. Ensuring that the DA’s office is identifying and prioritizing actions to reduce disparities at points of prosecutorial discretion and to ensure the fair treatment of victims and defendants.
+* **Data-driven Decision-making.** Ensuring that the DA’s office is learning what is going well and where there is room for improvement, ensuring decisions are grounded in systematically collected data.
 
-These headings introduce, respectively, sections and subsections within your body copy. As you create these headings, follow the same guidelines that you use when writing section headings: Be succinct, descriptive, and precise.
-
-### Subsection heading (h3)
-
-The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
-
-Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
-
-#### Subsection heading (h4)
-
-Use the side navigation menu to help your users quickly skip to different sections of your page. The menu is best suited to displaying a hierarchy with one to three levels and, as we mentioned, to display the sub-navigation of a given page.
-
-Read the full documentation on our side navigation on the component page.
+Colorado’s criminal justice system is a collaboration between lawmakers, law enforcement, DAs, judges, and the community. The DA’s office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
