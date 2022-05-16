@@ -4,13 +4,14 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sanction -which may include a fine or community service, probation, jail, community corrections, or prison. The prosector and defense attorneys on the case provide recommendations to the judge, who decides on the ultimate sentence. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include a fine or community service, probation, jail, community corrections, or prison. The prosecutor and defense attorneys on the case provide recommendations to the judge, who decides on the ultimate sentence. 
 
-This dashboard presents information on sentencing, the punishments imposed after a defendant is convicted of a crime. The dashboard displays the most severe sentence imposed on the case. Each case is counted only once. This data represents initial sentences only; sometimes a case may have a subsequent sentence in cases where there are grounds for a motion to reconsider - those are not represented here.
+This dashboard presents information on sentencing. The dashboard displays the most severe sentence imposed on the case. Each case is counted only once. 
 
-**Important note**: This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
+* This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
+* This data represents initial sentences only; sometimes a case may have a subsequent sentence in cases where there are grounds for a motion to reconsider. Those are not represented here.
 
-**Why this is important**: It is important to ensure sentences imposed are minimizing unnecessary punitiveness while appropriately addressing serious crime. <br>
+ **Why this is important**: It is important to ensure sentences imposed minimize unnecessary punitiveness while appropriately addressing serious crime. <br>
 
 <br>
 
