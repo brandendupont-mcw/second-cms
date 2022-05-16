@@ -6,9 +6,14 @@ sidenav: false
 
 A felony referral to the District Attorney's office occurs when law enforcement presents an individual suspected of a felony crime to review for potential charges, generally following an arrest.
 
-This dashboard presents data on felony cases referred by law enforcement agencies to the DA’s office for review. The DA’s office decides whether to file charges - which means a formal accusation that a specific person has committed a specific crime. Each referral is represented once. The date represents when charges were either filed or declined ("no filed") for prosecution.  
+This dashboard presents data on felony cases referred by law enforcement agencies to the DA’s office for review. The DA’s office decides whether to file charges – a formal accusation that a specific person has committed a specific crime – based on the evidence and reasonable likelihood of conviction.  
 
-**Why is this important?** The DA’s office makes decisions based on the cases they receive from law enforcement; they are not responsible for arresting or citing individuals. For felony cases, the DA’s office decides whether to file the case for prosecution. The office may decide not to file a case for a number of reasons, such as acceptance into a pre-charge diversion program, insufficient evidence/investigation by law enforcement, or when the charges did not rise to the level of a crime. <br>
+* Each referral is represented once. 
+* The date represents when charges were either filed or not filed for prosecution.  
+* Misdemeanor cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s office can dismiss misdemeanor cases (see Case Resolution dashboard). 
+* The top charge on declined cases is that identified by law enforcement, which may or may not align with how the DA would have charged the case. Law enforcement arrests and charges based on a probable cause standard of proof, whereas the DA’s office charges based on proof beyond a reasonable doubt.
+
+**Why is this important?** The DA’s office makes decisions based on the cases they receive from law enforcement; they are not responsible for arresting or citing individuals. The office may decide not to file a case for a number of reasons, such as acceptance into a pre-charge diversion program, insufficient evidence/investigation by law enforcement, or when the charges did not rise to the level of a crime.
 
 <br>
 
