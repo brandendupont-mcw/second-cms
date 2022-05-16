@@ -8,7 +8,7 @@ In Colorado, misdemeanor and traffic cases are filed directly with the court by 
 
 This dashboard presents data on all cases for which a law enforcement agency has filed the case (misdemeanors or traffic) or for which the District Attorney’s office has decided to accept the referral and file the charges (felonies). Each case is represented once, by the top charge filed. The date is based on the date the charges were filed. 
 
-Note: Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual. 
+* Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual. 
 
 **Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. Understanding the number and types of cases filed in the office helps to ensure we use those resources efficiently, effectively, and fairly. <br>
 
