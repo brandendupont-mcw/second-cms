@@ -30,6 +30,10 @@ A guide on key terms throughout this site.
 
 **Recidivism:** Defendants who recidivate are those who are arrested or convicted after case resolution. This might include a new law violation or a violation of a defendant’s term of probation.
 
+In this dashboard, recidivism is calculated as follows:
+
+![](/images/266ba9dc-3978-4968-8f5a-9b7deaf1118a_4_5005_c.jpeg)
+
 **Referred:** A case is referred when it is submitted to the District  Attorney’s Office for review. This includes investigations, arrests, warrants, notices to appear, citations, and other requests for prosecution.
 
 **Victim:** A victim is a person who has suffered direct or threatened physical psychological, or financial harm as a result of the commission or attempted commission of a crime.
