@@ -42,6 +42,8 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
+## **\[INSERT Recidivism chart "Outcomes of Non-Incarcerative Sentences"]**
+
 ## PPIs
 
 Below are a set of Prosecutorial Performance Indicators that provide additional context about sentencing. These indicators help the District Attorney ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
