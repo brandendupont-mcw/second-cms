@@ -79,3 +79,8 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <iframe title="PPI 4.5 Escalation in Offending" aria-label="Interactive line chart" id="datawrapper-chart-cCkjs" src="https://datawrapper.dwcdn.net/cCkjs/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+
+## **Notes on race and ethnicity data collection:**
+
+* Data on defendant demographics, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
+* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data.
