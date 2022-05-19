@@ -78,8 +78,6 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
-
 ## Notes 
 
 * Each case is represented once, by the top charge filed. 
