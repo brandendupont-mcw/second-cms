@@ -16,8 +16,6 @@ This dashboard presents information on defendant characteristics, including race
 
 We are working with our law enforcement partners to improve collection practice to better understand their data collection practices and communicate the importance of reliable race and ethnicity information.
 
-
-
 <br>
 
 <br>
@@ -65,6 +63,9 @@ We are working with our law enforcement partners to improve collection practice 
 <br>
 
 <br>
+
+<iframe title="Cases Filed, by Defendant Criminal History, 2021" aria-label="Donut Chart" id="datawrapper-chart-f6py2" src="https://datawrapper.dwcdn.net/f6py2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="462"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 ## PPIs
 
