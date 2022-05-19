@@ -4,17 +4,15 @@ sidenav: false
 ---
 # Defendant Characteristics
 
-This dashboard presents information on defendant characteristics, including race/ethnicity, socioeconomic status. It also presents information on criminal history and trends in offending.
+This section presents information on defendant characteristics, including race/ethnicity, age, and gender. It also presents information on criminal history and trends in offending.
 
 **Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers–such as neighborhood and access to education, employment opportunities, and health resources–can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system–for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed fairly, in light of these differences. 
 
-**Race/Ethnicity Data**
+**What are we doing to ensure that race and ethnicity data are accurate?**
 
-* Data on defendant demographics, including race and ethnicity, is reported to the DA’s office by law enforcement agencies.  Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3)  through fingerprint technology, or (4)  based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250).
-* Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report; meaning that the defendant decides how they are to be identified. Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
-* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data. 
+Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report; meaning that the defendant decides how they are to be identified.
 
-We are working with our law enforcement partners to improve collection practice to better understand their data collection practices and communicate the importance of reliable race and ethnicity information.
+We are working with our law enforcement partners to improve collection practice by… **\[Offices please tailor].**
 
 <br>
 
@@ -63,9 +61,6 @@ We are working with our law enforcement partners to improve collection practice 
 <br>
 
 <br>
-
-<iframe title="Cases Filed, by Defendant Criminal History, 2021" aria-label="Donut Chart" id="datawrapper-chart-f6py2" src="https://datawrapper.dwcdn.net/f6py2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="462"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
 
 ## PPIs
 
