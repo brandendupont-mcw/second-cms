@@ -2,13 +2,11 @@
 title: Deferred Judgement Outcomes
 sidenav: false
 ---
-# Deferred Judgment Outcomes
+# Diversion and Deferral
 
-Deferred judgements are alternatives to traditional prosecution. An individual granted a deferred judgment must complete a probationary period during which they must have no other criminal violation and meet certain conditions, such as paying restitution or completing drug education classes. If programmatic requirements are met, the case will be dismissed.
+This section presents data on cases granted diversion or deferred judgment. Diversion programs and deferred judgements are alternatives to traditional prosecution that attempt to address individuals’ needs. If programmatic requirements are met, the case will be dismissed.
 
-This dashboard presents data on cases granted a deferred judgment (post-plea). In addition, it examines the rate of successful completion, and therefore dismissal, of these cases.
-
-**Why is this important?** Understanding what cases are diverted or deferred and the rate of successful program completion provides information on whether the alternative minimizes unnecessary punitiveness while centering community safety. <br>
+**Why is this important?** Understanding what cases are diverted or deferred and the rate of successful program completion provides information on whether the alternative minimizes unnecessary punitiveness while centering community safety.
 
 <br>
 
