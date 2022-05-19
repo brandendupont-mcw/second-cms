@@ -118,12 +118,12 @@ This definition of violent crime is used in the following indicators:
 
 **Race**: Race is defined as the racial category as determined by law enforcement in the following categories: Hispanic, Black, American Indian, Asian, White, and Other.
 
-The following chart details how race has been categorized on the dashboards:
-
-![](/images/4a05be5b-2033-4869-9f8b-cc106df50967_4_5005_c.jpeg)
-
 ## Data Terms
 
 **Average**: The average of a set of numbers is simply the sum of the numbers divided by the total number of values in the set. For example, suppose we want the average of 24, 55, 17, 87 and 100. Simply find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
 
 **Median:** The median is the value separating the higher half of a data sample, a population, or a probability distribution, from the lower half. In simple terms, it may be thought of as the "middle" value of a data set. For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth number in the sample. The median is a commonly used measure of the properties of a data set in statistics and probability theory.
+
+## Methods
+
+This dashboard links data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
