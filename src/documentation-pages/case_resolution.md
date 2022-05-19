@@ -4,11 +4,9 @@ sidenav: false
 ---
 # Case Resolution
 
-This dashboard presents data on all cases prosecuted by the District Attorney's Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by dismissal, diversion, deferred judgment, plea, or through a verdict at trial. Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
+This section presents data on all cases prosecuted by the District Attorney's Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by dismissal, diversion, deferred judgment, plea, or through a verdict at trial. 
 
-The year reflects the year the disposition was reached.
-
-**Why is this important?** It is important to review dispositions to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness. <br>
+**Why is this important?** It is important to review how cases are resolved to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness.
 
 <br>
 
