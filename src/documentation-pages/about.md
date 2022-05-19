@@ -2,7 +2,7 @@
 title: About
 sidenav: false
 ---
-# About
+# What is this? 
 
 This data dashboard contains information on cases processed by the First District Attorney’s Office, from case referral to sentencing. The dashboard seeks to support:
 
@@ -13,3 +13,7 @@ This data dashboard contains information on cases processed by the First Distric
 * **Data-driven Decision-making.** Ensuring that the DA’s office is learning what is going well and where there is room for improvement, ensuring decisions are grounded in systematically collected data.
 
 Colorado’s criminal justice system is a collaboration between lawmakers, law enforcement, DAs, judges, and the community. The DA’s office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
+
+
+
+# How to use:
