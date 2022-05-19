@@ -14,4 +14,14 @@ The dashboard seeks to support:
 
 Colorado’s criminal justice system is a collaboration between lawmakers, law enforcement, DAs, judges, and the community. The DA’s office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
 
-# How to use:
+# How can I use this dashboard?
+
+You can use this dashboard to understand the work that the District Attorney’s Office does. You can use it to look at look at trends in cases filed and resolved over time, patterns in how defendants are treated, and . The charts will show key decision points and the data stories provide a deep dive into specific issues addressed by the District Attorney’s Office.  
+
+The dashboard is organized in eight sections, many of which mirror the “flow” of a case \[hyperlinked to criminal justice process tab]. No one data point provides “all” the information - it is important to look at different data points in relation to one another. In general, dashboards are good at helping identify what is happening – understanding the “why” behind trends and patterns requires deeper investigation.
+
+# Acknowledgements
+
+This project is a collaborative effort between the [Colorado Evaluation and Action Lab](https://coloradolab.org/) at the University of Denver, [Loyola University Chicago](https://www.luc.edu/), and the national [Prosecutorial Performance Indicators Project](https://prosecutorialperformanceindicators.org/). The project was funded with a grant from the Microsoft Justice Reform Initiative.
+
+\[Insert Logos]
