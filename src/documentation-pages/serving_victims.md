@@ -4,9 +4,11 @@ sidenav: false
 ---
 # Serving Victims
 
-This dashboard presents information about victimization, victim characteristics, and the office’s engagement with victims, witnesses, and the general community.
+This section presents information about victimization, victim characteristics, and the District Attorney’s Office’s engagement with victims, witnesses, and the general community. 
 
-**Why is this important?** Understanding the victim population, providing effective services, and timely engagement helps develop the mutual transparency and trust needed to advance community safety and well-being**.** <br>
+**Why is this important?** Understanding the victim population, providing effective services, and timely engagement helps develop the mutual transparency and trust needed to advance community safety and well-being.
+
+<br>
 
 <br>
 
