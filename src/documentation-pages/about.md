@@ -22,6 +22,6 @@ The dashboard is organized in eight sections, many of which mirror the â€œflowâ€
 
 # Acknowledgements
 
-This project is a collaborative effort between the [Colorado Evaluation and Action Lab](https://coloradolab.org/) at the University of Denver, [Loyola University Chicago](https://www.luc.edu/), and the national [Prosecutorial Performance Indicators Project](https://prosecutorialperformanceindicators.org/). The project was funded with a grant from the Microsoft Justice Reform Initiative.
+This project is a collaborative effort between the 1st District Attorney's Office,  the [Colorado Evaluation and Action Lab](https://coloradolab.org/) at the University of Denver, [Loyola University Chicago](https://www.luc.edu/), and the national [Prosecutorial Performance Indicators Project](https://prosecutorialperformanceindicators.org/). The project was funded with a grant from the Microsoft Justice Reform Initiative.
 
 \[Insert Logos]
