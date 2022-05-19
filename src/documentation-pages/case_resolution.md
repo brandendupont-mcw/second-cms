@@ -17,6 +17,8 @@ This section presents data on all cases prosecuted by the District Attorney's Of
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="Felony Cases Resolved, by Resolution Type" aria-label="Stacked Column Chart" id="datawrapper-chart-OcejH" src="https://datawrapper.dwcdn.net/OcejH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -24,12 +26,16 @@ This section presents data on all cases prosecuted by the District Attorney's Of
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="Misdemeanor Cases Resolved, by Resolution Type" aria-label="Stacked Column Chart" id="datawrapper-chart-HuNcC" src="https://datawrapper.dwcdn.net/HuNcC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -42,12 +48,16 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="PPI 3.4 Conforming to ABA Disposition Time Standards - Felonies" aria-label="Interactive area chart" id="datawrapper-chart-VgiQl" src="https://datawrapper.dwcdn.net/VgiQl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -56,12 +66,16 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="PPI 3.6 Dismissal Timeliness" aria-label="Interactive line chart" id="datawrapper-chart-D0zvI" src="https://datawrapper.dwcdn.net/D0zvI/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -70,11 +84,15 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="PPI 7.5 Deferral Differences by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-DuDjr" src="https://datawrapper.dwcdn.net/DuDjr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}(); </script> <br>
 
 <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -83,12 +101,16 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="PPI 7.6 Plea Differences by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-z6cfl" src="https://datawrapper.dwcdn.net/z6cfl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="300"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -97,11 +119,15 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 <br>
 
 <iframe title="Charging Integrity" aria-label="Interactive line chart" id="datawrapper-chart-DKhqu" src="https://datawrapper.dwcdn.net/DKhqu/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-## Notes 
+## Notes
 
-* ###### **.**
+* The year reflects that of case resolution.
+* Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
+* The charge level represents the most serious charge filed in a case.
