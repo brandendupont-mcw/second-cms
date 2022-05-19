@@ -8,10 +8,6 @@ This dashboard presents information about staff capacity, caseload distribution,
 
 **Why is this important?**  Understanding how we staff our office helps to ensure that the office is spending its resources wisely, has enough people to be effective, and is supporting staff recruitment.
 
-PPIs
-
-Below are a set of Prosecutorial Performance Indicators that provide additional context about staffing and caseloads. These indicators help the District Attorney ensure they optimize caseload distributions and data and clerical support. <br>
-
 <br>
 
 <br>
