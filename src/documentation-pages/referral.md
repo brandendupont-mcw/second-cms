@@ -17,7 +17,7 @@ A felony referral to the District Attorney's Office occurs when law enforcement 
 
 <br>
 
-**Add any reflections or comments on trends, current value, and/or planned activities.**
+**\[Add any reflections or comments on trends, current value, and/or planned activities.]**
 
 <br>
 
@@ -26,7 +26,7 @@ A felony referral to the District Attorney's Office occurs when law enforcement 
 
 <br>
 
-**Add any reflections or comments on trends, current value, and/or planned activities.**
+**\[Add any reflections or comments on trends, current value, and/or planned activities.]**
 
 <br>
 
