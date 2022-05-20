@@ -43,6 +43,15 @@ This section presents data on all cases prosecuted by the District Attorney's Of
 
 Below are a set of Prosecutorial Performance Indicators that provide additional context about case resolutions. These indicators help the District Attorney's office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
 
+<iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-DKhqu" src="https://datawrapper.dwcdn.net/DKhqu/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
+<br>
+
 <iframe title="PPI 3.1 Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-BZ2D4" src="https://datawrapper.dwcdn.net/BZ2D4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -122,9 +131,6 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
-
-<iframe title="Charging Integrity" aria-label="Interactive line chart" id="datawrapper-chart-DKhqu" src="https://datawrapper.dwcdn.net/DKhqu/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
 
 ## Notes
 
