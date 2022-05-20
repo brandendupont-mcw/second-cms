@@ -74,7 +74,7 @@ We are working with our law enforcement partners to improve data collection prac
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about staffing and caseloads. These indicators help the DA's Office reduce disparities in the criminal system and ensure they are treating all individuals fairly. <br>
+Below are a set of indicators that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure they are treating all individuals fairly. <br>
 
 <br>
 
