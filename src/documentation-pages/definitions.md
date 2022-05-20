@@ -118,6 +118,8 @@ This definition of violent crime is used in the following indicators:
 
 **Race**: Race is defined as the racial category as determined by law enforcement in the following categories: Hispanic, Black, American Indian, Asian, White, and Other.
 
+Race and Ethnicity are captured separately in the DA’s case management system. Across the dashboard if the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as American Indian, they are categorized as American Indian regardless of their ethnicity. Individuals identified as having a race of Asian or Other, and an ethnicity of Non-Hispanic, are categorized as Another Race.
+
 ## Data Terms
 
 **Average**: The average of a set of numbers is simply the sum of the numbers divided by the total number of values in the set. For example, suppose we want the average of 24, 55, 17, 87 and 100. Simply find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
