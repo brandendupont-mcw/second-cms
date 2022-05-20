@@ -72,9 +72,9 @@ In this dashboard, recidivism is calculated as follows:
 
 **Plea Dismissal**: It is not uncommon for defendants to have multiple criminal cases going on at the same time. A defendant may be able to resolve such a situation by pleading guilty to some of the cases in exchange for others being dismissed. So, if a defendant pleads guilty to a case in exchange for the dismissal of two others, the case plead to would be categorized as plead guilty, whereas each of the cases dismissed would be categorized as “plea dismissals”.
 
-**Diversion:** Diversion is an alternative solution that can take many forms, but it usually involves a suspension of formal criminal proceedings against a defendant, where after completion of certain conditions (such as treatment that addresses the underlying causes of criminal behavior), the defendant has their charges dismissed.
+**Diversion:** Diversion is an alternative solution that can take many forms, but it usually involves a suspension of formal criminal proceedings against a defendant, where after completion of certain conditions (such as treatment that addresses the underlying causes of criminal behavior), the defendant has their charges dismissed. Diversion takes place pre-plea.
 
-**Deferred Judgment**: A deferred judgment is a temporary guilty plea. The defendant accepts responsibility such as service hours, probation, payment of restitution, or counseling or treatment related to their case. If they comply with the terms, their guilty plea is withdrawn and the case is dismissed. If they do not comply with the terms, then the case is reopened and subsequently sentenced.
+**Deferred Judgment**: A deferred judgment is a temporary guilty plea. The defendant accepts responsibility such as service hours, probation, payment of restitution, or counseling or treatment related to their case. If they comply with the terms, their guilty plea is withdrawn and the case is dismissed. If they do not comply with the terms, then the case is reopened and subsequently sentenced. Deferred Judgment is granted after a defendant takes a plea.
 
 **Plead Guilty**: A defendant pleads guilty when they admit a factual basis for the plea and acknowledges guilt for a charge, sometimes in exchange for a more lenient sentence.
 
