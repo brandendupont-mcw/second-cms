@@ -1,8 +1,8 @@
 ---
-title: Staffing & Caseload
+title: Staffing and Caseload
 sidenav: false
 ---
-# Staffing and Caseload
+# Staffing and Caseloads
 
 This dashboard presents information about staff capacity, caseload distribution, and staff characteristics.
 
