@@ -48,7 +48,7 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
 
-### **Notes:**
+**Notes:**
 
 * Each referral is represented once. 
 * The date represents when charges were either filed or not filed for prosecution.  
