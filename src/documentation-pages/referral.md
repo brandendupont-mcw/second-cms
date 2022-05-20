@@ -32,7 +32,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's office ensure they are maximize government resources by making strategic decisions about which cases to accept for prosecution.  <br>
+Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's Office ensure they are maximize government resources by making strategic decisions about which cases to accept for prosecution.  <br>
 
 <br>
 
