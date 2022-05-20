@@ -44,7 +44,7 @@ In this dashboard, recidivism is calculated as follows:
 
 **Misdemeanor**: Misdemeanors are less serious criminal violations of Colorado state laws, punishable by a sentence of up to 18 months in county jail.  A person convicted of a misdemeanor cannot be sentenced to state prison, unless the misdemeanor sentence is served simultaneously (concurrently) with a felony sentence. In Colorado, misdemeanor offenses are divided into three classes, with Class 3 being the lowest level of misdemeanor and Class 1 the most serious. Misdemeanors cover a wide range of offenses, including serious traffic offenses, alcohol-related traffic offenses such as DUI and DWAI, careless driving resulting in injury or death, domestic violence, 3rd degree assault, 2nd degree forgery, indecent exposure, obstructing a police officer, theft less than $500, resisting arrest, criminal mischief with less than $500 damage, public fighting, prostitution and soliciting for prostitution, and underage drinking. There are also two classes of drug misdemeanors, DM1 and DM2, where the maximum possible punishment is 18 months.
 
-**Petty Offenses**: Petty offenses are the least serious criminal violations of Colorado state laws. Examples of petty offenses are third degree criminal trespass and littering of public or private property.
+**Petty Offenses/Infractions:** Petty offenses are the least serious criminal violations of Colorado state laws. Examples of petty offenses are third degree criminal trespass and littering of public or private property. Infractions relate only to very specific (not all) charges involving use and possession of marijuana and certain traffic violations.  Infractions may be paid without making a court appearance.
 
 ## Charge Types
 
