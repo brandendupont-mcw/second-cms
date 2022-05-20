@@ -23,7 +23,7 @@ const DocumentationPage = ({ data }) => {
             <div class="grid-col-auto"></div>
 
 
-            <main id="main-content" className="usa-layout-docs__main tablet:grid-col-fill maxw-tablet usa-prose"
+            <main id="main-content" className="usa-layout-docs__main  maxw-tablet usa-prose"
               dangerouslySetInnerHTML={{ __html: html }}>
             </main>
           </div>
