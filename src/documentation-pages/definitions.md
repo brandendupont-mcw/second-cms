@@ -82,19 +82,27 @@ A guide on key terms throughout this site.
 
 *Across this dashboard, **incarceration** includes any of the following sentences:*
 
-* **Prison,** or **Department of Corrections,** is a sentence to state prison.
-* **Community Corrections** is a sentence to a community corrections facility, sometimes called a halfway house. 
-* **Jail** is a sentence to local incarceration, generally for misdemeanor cases.
-* **Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
+**Prison,** or **Department of Corrections,** is a sentence to state prison.
+
+**Community Corrections** is a sentence to a community corrections facility, sometimes called a halfway house. 
+
+**Jail** is a sentence to local incarceration, generally for misdemeanor cases.
+
+**Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
 
 ***Non-incarceral** sentences includes any of the following:*
 
-* **Probation** is a sentence to supervision of a defendant involving standard terms and conditions, as well as special conditions imposed by a court. 
-* **Time served** is a sentence of jail time that has already been completed by the defendant during the course of the case. 
-* **Community service** is a sentence to complete a certain number of hours of “useful public service”, generally run by local non-profit organizations.
-* **Fines** are the fixed monetary sanctions imposed by a judge based on the severity of the crime committed and the ability of the offender to pay.
-* **Restitution** is a sentence imposed to pay the victim for damages caused by the crime.
-* **Fees** are charges imposed to cover system costs.
+**Probation** is a sentence to supervision of a defendant involving standard terms and conditions, as well as special conditions imposed by a court. 
+
+**Time served** is a sentence of jail time that has already been completed by the defendant during the course of the case. 
+
+**Community service** is a sentence to complete a certain number of hours of “useful public service”, generally run by local non-profit organizations.
+
+**Fines** are the fixed monetary sanctions imposed by a judge based on the severity of the crime committed and the ability of the offender to pay.
+
+**Restitution** is a sentence imposed to pay the victim for damages caused by the crime.
+
+**Fees** are charges imposed to cover system costs.
 
 ## Other Dashboard Groupings
 
