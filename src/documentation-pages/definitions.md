@@ -131,3 +131,9 @@ This definition of violent crime is used in the following indicators:
 ## Methods
 
 This dashboard links data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
+
+To address issues of small sample size, the following measures were implemented:
+
+1. Some data points are presented annually instead of quarterly.
+2. When the quarterly measure is less than 20, we have taken a three month moving average. 
+3. When the annual number is less than 20, we have excluded the metric.
