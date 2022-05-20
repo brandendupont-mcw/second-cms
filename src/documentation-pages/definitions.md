@@ -6,7 +6,7 @@ sidenav: false
 
 A guide on key terms throughout this site.
 
-## Criminal Legal Terms
+### Criminal Legal Terms
 
 **Arrest**: Law enforcement takes an individual into legal custody in response to the suspicion of an individual’s violation of the law. Law enforcement uses the standard of “probable cause” to determine whether an individual should be arrested, given information provided by witnesses or other evidence.
 
@@ -34,7 +34,7 @@ A guide on key terms throughout this site.
 
 **Victim:** A victim is a person who has suffered direct or threatened physical psychological, or financial harm as a result of the commission or attempted commission of a crime.
 
-## Charge Levels
+### Charge Levels
 
 **Felony**: Felonies are the most serious criminal violations of Colorado state laws (Colorado Revised Statutes), and include robbery, murder, rape, and possession of illegal drugs for sale. In Colorado, felonies are divided into six classes, with Class 6 being the lowest level of felony and Class 1 the most serious, with prison sentences ranging from 18 months to life in prison (or death penalty).  Fines may also be imposed.  There are also four classes of drug felonies, with Class 4 being the lowest, and Class 1 the highest, with prison sentences ranging from six months to 32 years in prison.
 
@@ -42,7 +42,7 @@ A guide on key terms throughout this site.
 
 **Petty Offenses/Infractions:** Petty offenses are the least serious criminal violations of Colorado state laws. Examples of petty offenses are third degree criminal trespass and littering of public or private property. Infractions relate only to very specific (not all) charges involving use and possession of marijuana and certain traffic violations.  Infractions may be paid without making a court appearance.
 
-## Charge Types
+### Charge Types
 
 **Person**: Includes homicide, assault, domestic violence, reckless endangerment, child abuse, kidnapping, human trafficking, false imprisonment, stalking, menacing, extortion, neglect, unlawful termination of pregnancy, violation of order of protection/restraining order, posting private image, harassment, and robbery.
 
@@ -62,7 +62,7 @@ A guide on key terms throughout this site.
 
 **Sentence Enhancer**: Includes aggravated/repeat juvenile offender, habitual criminal, violent crime, and other sentence enhancers.
 
-## Dispositions
+### Dispositions
 
 **Dismissed**:  A case is dismissed when the criminal charges are terminated after the case is filed, either by the court or by the prosecutor. There can be several reasons for why a case is dismissed, including: a lack of evidence or unavailability of a witness as part of a plea agreement. This category also includes cases that are referred to diversion and successfully complete diversion programming.
 
@@ -78,7 +78,7 @@ A guide on key terms throughout this site.
 
 **Acquitted**: A case is acquitted when a judge or jury at trial determines that the defendant is not guilty of the crime for which the individual has been charged.
 
-## Sentences
+### Sentences
 
 *Across this dashboard, **incarceration** includes any of the following sentences:*
 
@@ -104,7 +104,7 @@ A guide on key terms throughout this site.
 
 **Fees** are charges imposed to cover system costs.
 
-## Other Dashboard Groupings
+### Other Dashboard Groupings
 
 **Attempted**: Defendant is charged with engaging in conduct constituting a substantial step towards committing a crime. 
 
@@ -121,7 +121,7 @@ This definition of violent crime is used in the following indicators:
 
 **The Victim Rights Act (VRA):**  A VRA case is one that provides constitutional protections for victims of certain [crimes](https://drive.google.com/file/d/1b9oBvGqYmdXYx2tVnCI-H4JKkz5SFE1X/view?usp=sharing) to be “heard when relevant, informed and present at all critical stages of the criminal justice process”. (Article 11, Section 16a of the Colorado State Constitution.)
 
-## Demographics
+### Demographics
 
 **Ethnicity**: For purposes of these indicators, ethnicity is defined as Hispanic or non-Hispanic.
 
@@ -129,7 +129,7 @@ This definition of violent crime is used in the following indicators:
 
 Race and Ethnicity are captured separately in the DA’s case management system. Across the dashboard if the individual is identified as Hispanic and White, they are categorized as Hispanic. If the individual’s race is logged as Black, they are categorized as Black regardless of their ethnicity.  If the individual’s race is logged as American Indian, they are categorized as American Indian regardless of their ethnicity. Individuals identified as having a race of Asian or Other, and an ethnicity of Non-Hispanic, are categorized as Another Race.
 
-## Data Terms
+### Data Terms
 
 **Average**: The average of a set of numbers is simply the sum of the numbers divided by the total number of values in the set. For example, suppose we want the average of 24, 55, 17, 87 and 100. Simply find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
 
@@ -139,7 +139,7 @@ Race and Ethnicity are captured separately in the DA’s case management system.
 
 **Quintile: ​​** A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data.
 
-## Methods
+### Methods
 
 This dashboard links data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
 
