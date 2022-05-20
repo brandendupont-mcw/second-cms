@@ -109,10 +109,10 @@ sidenav: false
 This definition of violent crime is used in the following indicators:
 
 * Violent Crimes Filed
-* Treating Serious Crime the Same Across Neighborhoods
-* Violent Cases by Defendant’s Criminal History
+* Criminal History and Violent Recidivism
 * Violent Victimization in Low-Income Communities
-* Violent Victimization of Racial/Ethnic Minorities.
+* Violent Victimization of Children
+* Violent Victimization of People of Color
 
 **At-Risk Elders:** Victims who are 70 years of age or older.
 
@@ -128,17 +128,17 @@ Race and Ethnicity are captured separately in the DA’s case management system.
 
 ### Data Terms
 
-**Average**: The average of a set of numbers is simply the sum of the numbers divided by the total number of values in the set. For example, suppose we want the average of 24, 55, 17, 87 and 100. Simply find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
+**Average**: The average of a set of numbers is the sum of the numbers divided by the total number of values in the set. For example, to find the average of 24, 55, 17, 87 and 100, first find the sum of the numbers: 24 + 55 + 17 + 87 + 100 = 283 and divide by 5 to get 56.6.
 
-**Median:** The median is the value separating the higher half of a data sample, a population, or a probability distribution, from the lower half. In simple terms, it may be thought of as the "middle" value of a data set. For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth number in the sample. The median is a commonly used measure of the properties of a data set in statistics and probability theory.
+**Median:** The median is the value separating the higher half of a data sample from the lower half. It may be thought of as the "middle" value of a data set. For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth number in the sample. 
 
 **Outlier:** An outlier is a data point that differs from other observations, is much bigger or much smaller.
 
-**Quintile: ​​** A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data.
+**Quintile: ​​** A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data, while the upper quintile represents the highest fifth of the data.
 
 ### Methods
 
-This dashboard links data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
+This dashboard aggregates data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
 
 To address issues of small sample size, the following measures were implemented:
 
