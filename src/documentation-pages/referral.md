@@ -51,6 +51,5 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 **Notes:**
 
 * Each referral is represented once. 
-* The date represents when charges were either filed or not filed for prosecution.  
 * Misdemeanor cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s office can dismiss misdemeanor cases (see Case Resolution dashboard). 
 * The top charge on declined cases is that identified by law enforcement, which may or may not align with how the DA would have charged the case. Law enforcement arrests and charges based on a probable cause standard of proof, whereas the DA’s office charges based on proof beyond a reasonable doubt.
