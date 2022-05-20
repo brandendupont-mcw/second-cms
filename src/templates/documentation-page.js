@@ -18,10 +18,12 @@ const DocumentationPage = ({ data }) => {
       <SEO title={frontmatter.title} />
       <div className="usa-layout-docs usa-section">
         <div className="grid-container">
-          <div className="grid-row grid-gap">
+          <div className="grid-row">
             {frontmatter.sidenav && <Sidenav />}
+            <div class="grid-col-auto"></div>
 
-            <main id="main-content" className="usa-layout-docs__main desktop:grid-col-9 usa-prose"
+
+            <main id="main-content" className="usa-layout-docs__main tablet:grid-col-fill maxw-tablet usa-prose"
               dangerouslySetInnerHTML={{ __html: html }}>
             </main>
           </div>
