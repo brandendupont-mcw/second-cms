@@ -84,7 +84,7 @@ In this dashboard, recidivism is calculated as follows:
 
 ## Sentences
 
-* The **Department of Corrections** is a sentence to state prison.
+* **Prison,** or **Department of Corrections,** is a sentence to state prison.
 * **Community Corrections** is a sentence to a community corrections facility, sometimes called a halfway house. 
 * **Jail** is a sentence to local incarceration, generally for misdemeanor cases.
 * **Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders.
