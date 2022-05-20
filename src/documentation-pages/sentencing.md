@@ -31,11 +31,20 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <br>
 
 <iframe title="Misdemeanor Sentences Imposed" aria-label="Stacked Column Chart" id="datawrapper-chart-4OmJ7" src="https://datawrapper.dwcdn.net/4OmJ7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
+<br>
+
+<iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-0Y0J6" src="https://datawrapper.dwcdn.net/0Y0J6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
-## **\[INSERT Recidivism chart "Outcomes of Non-Incarcerative Sentences"]**
+
 
 ## Indicators
 
@@ -95,7 +104,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 8.7 Disproportionate Punishment for the Poor - Median Income" aria-label="Interactive line chart" id="datawrapper-chart-GFxh7" src="https://datawrapper.dwcdn.net/GFxh7/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="PPI 8.7 Disproportionate Punishment for the Poor - Median Income" aria-label="Interactive line chart" id="datawrapper-chart-GFxh7" src="https://datawrapper.dwcdn.net/GFxh7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
