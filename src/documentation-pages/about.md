@@ -8,7 +8,7 @@ sidenav: false
 
 The dashboard seeks to support:
 
-* **Transparency.** Ensuring that the DA’s office is communicating what it is doing and the outcomes of its work.
+* **Transparency.** Ensuring that the District Attorney’s Office is communicating what it is doing and the outcomes of its work.
 * **Efficiency.** Ensuring that the DA’s office is using resources wisely and being good stewards of public funding.
 * **Community Safety and Well-Being.** Ensuring that the DA’s office is addressing serious crime and protecting and serving victims.
 * **Justice and Fairness.** Ensuring that the DA’s office is identifying and prioritizing actions to reduce disparities at points of prosecutorial discretion and to ensure the fair treatment of victims and defendants.
