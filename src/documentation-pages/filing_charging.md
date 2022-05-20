@@ -73,5 +73,4 @@ Below are a set of indicators that provide additional context about cases filed.
 ### Notes 
 
 * Each case is represented once, by the top charge filed. 
-* The date is based on the date the charges were filed. 
 * Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
