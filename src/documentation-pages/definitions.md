@@ -80,12 +80,14 @@ A guide on key terms throughout this site.
 
 ## Sentences
 
+*Across this dashboard, **incarceration** includes any of the following sentences:*
+
 * **Prison,** or **Department of Corrections,** is a sentence to state prison.
 * **Community Corrections** is a sentence to a community corrections facility, sometimes called a halfway house. 
 * **Jail** is a sentence to local incarceration, generally for misdemeanor cases.
 * **Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
 
-*Across this dashboard, **incarceration** includes any of the above sentences. Non-incarceral sentences includes any of the following:*
+***Non-incarceral** sentences includes any of the following:*
 
 * **Probation** is a sentence to supervision of a defendant involving standard terms and conditions, as well as special conditions imposed by a court. 
 * **Time served** is a sentence of jail time that has already been completed by the defendant during the course of the case. 
