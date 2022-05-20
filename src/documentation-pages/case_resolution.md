@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Case Resolution
 
-This section presents data on all cases prosecuted by the District Attorney's Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by dismissal, diversion, deferred judgment, plea, or through a verdict at trial. 
+This section presents data on all cases prosecuted by the District Attorney's (DA) Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by dismissal, diversion, deferred judgment, plea, or through a verdict at trial. 
 
 **Why is this important?** It is important to review how cases are resolved to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness.
 
