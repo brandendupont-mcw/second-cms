@@ -57,9 +57,9 @@ In Colorado, misdemeanor (including traffic cases) and petty offenses/infraction
 
 <br>
 
-## PPIs
+## Indicators
 
-Below are a set of Prosecutorial Performance Indicators that provide additional context about cases filed. These indicators help the District Attorney ensure they are prioritizing cases effectively and charging cases appropriately.
+Below are a set of indicators that provide additional context about cases filed. These indicators help the District Attorney ensure they are prioritizing cases effectively and charging cases appropriately.
 
 <br>
 
