@@ -131,15 +131,7 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
-
-
-
-
-
-
-
-
-## Notes:
+### Notes:
 
 * This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
 * This data represents initial sentences only, sometimes a case may have a subsequent sentence in cases where there are grounds for a motion to reconsider. Those are not represented here.
