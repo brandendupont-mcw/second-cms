@@ -41,7 +41,7 @@ This section presents data on all cases prosecuted by the District Attorney's (D
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about case resolutions. These indicators help the District Attorney's office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
+Below are a set of indicators that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
 
 <iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-DKhqu" src="https://datawrapper.dwcdn.net/DKhqu/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
