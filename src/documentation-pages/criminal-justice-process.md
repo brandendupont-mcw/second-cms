@@ -6,7 +6,7 @@ sidenav: false
 
 Colorado’s criminal justice system is a collaboration between lawmakers, law enforcement, prosecutors from the District Attorney’s (DA) Office, private and public defense attorneys, judges, and the community. The DA’s Office prosecutes cases, provides assistance to witnesses and victims of crime, and oversees alternative programming such as diversion and restorative justice.
 
-The  <a href='https://github.com/brandendupont-mcw/bond-court-reform/raw/master/public/CPD-Flowchart-v9.pdf'>CPD Flowchart</a> shows how cases “flow” through the criminal justice system. 
+This  <a href='https://github.com/brandendupont-mcw/bond-court-reform/raw/master/public/CPD-Flowchart-v9.pdf'> Flowchart</a> shows how cases “flow” through the criminal justice system. 
 
 * When there is an incident or alleged crime, law enforcement investigates and determines if a person committed a crime. Incidents involving misdemeanor charges or petty offenses/infractions are directly filed by law enforcement. Incidents involving felony charges are referred to the DA’s Office, which decides whether to file or decline the case. 
 * If there is no arrest the individual receives a summons, a request to appear in court on a certain date. If there is an arrest, the bond will be decided at the bond hearing. Although the prosecutor can provide recommendations, bond is set by a judge, not law enforcement or the district attorney. 
