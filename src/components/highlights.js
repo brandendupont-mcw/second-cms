@@ -31,7 +31,7 @@ const Highlights = () => (
               <Link to="/filing_charging" > <a className='usa-link' style={{color:'white'}}>Charging and Filing</a> </Link> 
             </h3>
             <p>
-            Presents information on all cases for which a law enforcement agency has filed a case (misdemeanors or traffic) or for which the District Attorney’s Office has decided to file the charges (felonies). 
+            Presents information on all cases for which a law enforcement agency has filed a case (misdemeanors and petty offenses/infractions) or for which the District Attorney’s Office has decided to file the charges (felonies).  
             </p>
           </div>
         </div>

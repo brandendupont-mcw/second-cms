@@ -14,20 +14,20 @@ module.exports = {
         items: [{ text: 'Overview', link: '/overview' }],
       },
       {
+        items: [{ text: 'Criminal Justice Process', link: '/criminal-justice-process' }],
+      },
+      {
         title: 'Metrics',
         items: [
           { text: 'Referrals', link: '/referral' },
-          { text: 'Filing and Charging', link: '/filing_charging' },
+          { text: 'Charging and Filing', link: '/filing_charging' },
           { text: 'Case Resolution', link: '/case_resolution' },
-          { text: 'Deferral and Diversion Outcomes', link: '/deferral_and_diversion' },
+          { text: 'Diversion and Deferrals', link: '/deferral_and_diversion' },
           { text: 'Sentencing', link: '/sentencing' },
           { text: 'Defendant Characteristics', link: '/defendant_characteristics' },
           { text: 'Serving Victims', link: '/serving_victims' },
           { text: 'Staffing and Caseload', link: '/staffing_caseload' },
         ],
-      },
-      {
-        items: [{ text: 'Criminal Justice Process', link: '/criminal-justice-process' }],
       },
       {
         items: [{ text: 'Data Stories', link: '/blog' }],
