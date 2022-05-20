@@ -100,7 +100,7 @@ const Highlights = () => (
         <div className="usa-media-block tablet:grid-col">
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/staffing_caseload" > <a className='usa-link' style={{color:'white'}}>Staffing & Caseload</a> </Link> 
+            <Link to="/staffing_caseload" > <a className='usa-link' style={{color:'white'}}>Staffing and Caseload</a> </Link> 
             </h3>
             <p>
             Presents information about the District Attorney’s Office’s staff capacity, caseload distribution, retention, and staff characteristics.

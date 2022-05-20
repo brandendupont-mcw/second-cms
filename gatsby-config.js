@@ -11,20 +11,20 @@ module.exports = {
         items: [{ text: 'Home', link: '/' }],
       },
       {
+        items: [{ text: 'Overview', link: '/overview' }],
+      },
+      {
         title: 'Metrics',
         items: [
           { text: 'Referrals', link: '/referral' },
-          { text: 'Filing & Charging', link: '/filing_charging' },
+          { text: 'Filing and Charging', link: '/filing_charging' },
           { text: 'Case Resolution', link: '/case_resolution' },
-          { text: 'Deferral & Diversion Outcomes', link: '/deferral_and_diversion' },
+          { text: 'Deferral and Diversion Outcomes', link: '/deferral_and_diversion' },
           { text: 'Sentencing', link: '/sentencing' },
           { text: 'Defendant Characteristics', link: '/defendant_characteristics' },
           { text: 'Serving Victims', link: '/serving_victims' },
-          { text: 'Staffing & Caseload', link: '/staffing_caseload' },
+          { text: 'Staffing and Caseload', link: '/staffing_caseload' },
         ],
-      },
-      {
-        items: [{ text: 'Overview', link: '/overview' }],
       },
       {
         items: [{ text: 'Criminal Justice Process', link: '/criminal-justice-process' }],
