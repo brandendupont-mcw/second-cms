@@ -72,9 +72,9 @@ We are working with our law enforcement partners to improve data collection prac
 
 <br>
 
-## PPIs
+## Indicators
 
-Below are a set of Prosecutorial Performance Indicators that provide additional context about staffing and caseloads. These indicators help the District Attorney ensure they optimize caseload distributions, staff diversity and retention, and data and clerical support. <br>
+Below are a set of indicators that provide additional context about staffing and caseloads. These indicators help the DA's Office ensure they optimize caseload distributions, staff diversity and retention, and data and clerical support. <br>
 
 <br>
 
