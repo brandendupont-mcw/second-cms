@@ -88,23 +88,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-<iframe title="Treating Person and Sex Crimes the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-wrzFA" src="https://datawrapper.dwcdn.net/wrzFA/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
 
-<br>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
-<br>
-
-<iframe title="Treating Property Crimes the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-5PS45" src="https://datawrapper.dwcdn.net/5PS45/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="384"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
-
-<br>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
-<br>
 
 <iframe title="PPI 3.5 Minimizing Delays in Case Processing by Limiting Continuances" aria-label="Interactive line chart" id="datawrapper-chart-0Yp13" src="https://datawrapper.dwcdn.net/0Yp13/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
