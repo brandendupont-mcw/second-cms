@@ -124,6 +124,8 @@ This definition of violent crime is used in the following indicators:
 
 **Median:** The median is the value separating the higher half of a data sample, a population, or a probability distribution, from the lower half. In simple terms, it may be thought of as the "middle" value of a data set. For example, in the data set {1, 3, 3, 6, 7, 8, 9}, the median is 6, the fourth number in the sample. The median is a commonly used measure of the properties of a data set in statistics and probability theory.
 
+**Outlier:** An outlier is a data point that differs from other observations, is much bigger or much smaller.
+
 ## Methods
 
 This dashboard links data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
