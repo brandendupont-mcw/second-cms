@@ -8,11 +8,11 @@ sidenav: false
 
 **Arrest**: Law enforcement takes an individual into legal custody in response to the suspicion of an individual’s violation of the law. Law enforcement uses the standard of “probable cause” to determine whether an individual should be arrested, given information provided by witnesses or other evidence.
 
-**Case**: A case is a collection of all charges against a defendant arising out of a single incident. In this Dashboard, cases are classified by their most serious charge (the crime that a defendant is accused of committing). 
-
 **Bail or bond:** The amount of money set by the court for the release of a person accused of a crime. It is designed to assure the person's presence for trial and may contain additional non-monetary conditions of release.
 
 **Bond Hearing**: If in custody a bond hearing is held to provide argument, evidence, or testimony for the Court to use in determining an appropriate amount of bail to be set for a defendant.
+
+**Case**: A case is a collection of all charges against a defendant arising out of a single incident. In this dashboard, cases are classified by their most serious charge (the crime that a defendant is accused of committing). 
 
 **Crime**: An act prohibited by statute.
 
@@ -34,11 +34,11 @@ sidenav: false
 
 ### Charge Levels
 
-**Felony**: Felonies are the most serious criminal violations of Colorado state laws (Colorado Revised Statutes), and include robbery, murder, rape, and possession of illegal drugs for sale. In Colorado, felonies are divided into six classes, with Class 6 being the lowest level of felony and Class 1 the most serious, with prison sentences ranging from 18 months to life in prison (or death penalty).  Fines may also be imposed.  There are also four classes of drug felonies, with Class 4 being the lowest, and Class 1 the highest, with prison sentences ranging from six months to 32 years in prison.
+**Felony**: Felonies are the most serious criminal violations of Colorado state laws (Colorado Revised Statutes), and include crimes such murder, rape, robbery, and manufacture and delivery of illegal drugs. In Colorado, felonies are divided into six classes, with Class 6 being the lowest level of felony and Class 1 the most serious, with prison sentences ranging from 18 months to life in prison (or death penalty). Sentences following conviction for a felony may include fines, probation, probation plus jail, community corrections, and prison. There are also four classes of drug felonies, with Class 4 being the lowest, and Class 1 the highest, with prison sentences ranging from six months to 32 years in prison.
 
-**Misdemeanor**: Misdemeanors are less serious criminal violations of Colorado state laws, punishable by a sentence of up to 18 months in county jail.  A person convicted of a misdemeanor cannot be sentenced to state prison, unless the misdemeanor sentence is served simultaneously (concurrently) with a felony sentence. In Colorado, misdemeanor offenses are divided into three classes, with Class 3 being the lowest level of misdemeanor and Class 1 the most serious. Misdemeanors cover a wide range of offenses, including serious traffic offenses, alcohol-related traffic offenses such as DUI and DWAI, careless driving resulting in injury or death, domestic violence, 3rd degree assault, 2nd degree forgery, indecent exposure, obstructing a police officer, theft less than $500, resisting arrest, criminal mischief with less than $500 damage, public fighting, prostitution and soliciting for prostitution, and underage drinking. There are also two classes of drug misdemeanors, DM1 and DM2, where the maximum possible punishment is 18 months.
+**Misdemeanor**: Misdemeanors are less serious criminal violations of Colorado state laws, punishable by a sentence of up to 18 months in county jail. A person convicted of a misdemeanor cannot be sentenced to state prison, unless the misdemeanor sentence is served simultaneously (concurrently) with a felony sentence. In Colorado, misdemeanor offenses are divided into three classes, with Class 3 being the lowest level of misdemeanor and Class 1 the most serious. Misdemeanors cover a wide range of offenses, including crimes such as serious traffic offenses, alcohol-related traffic offenses (such as DUI and DWAI), careless driving resulting in injury or death, domestic violence, 3rd degree assault, 2nd degree forgery, indecent exposure, obstructing a police officer, theft less than $500, resisting arrest, criminal mischief with less than $500 damage, public fighting, prostitution and soliciting for prostitution, and underage drinking. There are also two classes of drug misdemeanors, DM1 and DM2, where the maximum possible punishment is 18 months.
 
-**Petty Offenses/Infractions:** Petty offenses are the least serious criminal violations of Colorado state laws. Examples of petty offenses are third degree criminal trespass and littering of public or private property. Infractions relate only to very specific (not all) charges involving use and possession of marijuana and certain traffic violations.  Infractions may be paid without making a court appearance.
+**Petty Offenses/Infractions:** Petty offenses are the least serious criminal violations of Colorado state laws. Examples of petty offenses are third degree criminal trespass and littering of public or private property. Infractions relate only to very specific (not all) charges involving use and possession of marijuana and certain traffic violations. Infractions may be paid without making a court appearance.
 
 ### Charge Types
 
@@ -68,7 +68,7 @@ sidenav: false
 
 **Diversion:** Diversion is an alternative solution that can take many forms, but it usually involves a suspension of formal criminal proceedings against a defendant, where after completion of certain conditions (such as treatment that addresses the underlying causes of criminal behavior), the defendant has their charges dismissed. Diversion takes place pre-plea.
 
-**Deferred Judgment**: A deferred judgment is a temporary guilty plea. The defendant accepts responsibility such as service hours, probation, payment of restitution, or counseling or treatment related to their case. If they comply with the terms, their guilty plea is withdrawn and the case is dismissed. If they do not comply with the terms, then the case is reopened and subsequently sentenced. Deferred Judgment is granted after a defendant takes a plea.
+**Deferred Judgment**: A deferred judgment is a temporary guilty plea. The defendant accepts responsibility such as service hours, probation, payment of restitution, or counseling or treatment related to their case. If they comply with the terms, their guilty plea is withdrawn and the case is dismissed. If they do not comply with the terms, then the case is reopened and subsequently sentenced. Deferred judgment is granted after a defendant takes a plea.
 
 **Plead Guilty**: A defendant pleads guilty when they admit a factual basis for the plea and acknowledges guilt for a charge, sometimes in exchange for a more lenient sentence.
 
@@ -98,15 +98,13 @@ sidenav: false
 
 **Fines** are the fixed monetary sanctions imposed by a judge based on the severity of the crime committed and the ability of the offender to pay.
 
-**Restitution** is a sentence imposed to pay the victim for damages caused by the crime.
-
 **Fees** are charges imposed to cover system costs.
 
 ### Other Dashboard Groupings
 
 **Attempted**: Defendant is charged with engaging in conduct constituting a substantial step towards committing a crime. 
 
-**Violent Crime:** Violent Crime, as defined on the Dashboard, includes charges categorized within the Crimes of Violence Statute  (18-1.3-406 ),  or is per se a Crime of Violence per case law. The definition includes attempted charges. Additionally, it includes Child Abuse resulting in Serious Bodily Injury (SBI) or Death.  For escape and extortion, given the wide range of potential charges, those charges are only included as a “violent crime” when the District Attorney has charged the case with a crime of violence sentence enhancer.
+**Violent Crime:** Violent Crime, as defined on the dashboard, includes charges categorized within the Crimes of Violence Statute  (18-1.3-406 ),  or is per se a Crime of Violence per case law. The definition includes attempted charges. Additionally, it includes Child Abuse resulting in Serious Bodily Injury (SBI) or Death.  For escape and extortion, given the wide range of potential charges, those charges are only included as a “violent crime” when the District Attorney has charged the case with a crime of violence sentence enhancer.
 
 This definition of violent crime is used in the following indicators:
 
