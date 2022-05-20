@@ -14,9 +14,9 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-## PPIs
+## Indicators
 
-Below are a set of Prosecutorial Performance Indicators that provide additional context about serving victims. These indicators help the District Attorney ensure they are supporting crime victims with timely outreach, ensuring victims' voices are heard, and preventing future victimization. <br>
+Below are a set of indicators that provide additional context about serving victims. These indicators help the DA's Office ensure they are supporting crime victims with timely outreach, ensuring victims' voices are heard, and preventing future victimization. <br>
 
 <br>
 
