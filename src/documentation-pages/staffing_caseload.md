@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Staffing and Caseloads
 
-This dashboard presents information about staff capacity, caseload distribution, and staff characteristics.
+This section presents information about staff capacity, caseload distribution, and staff characteristics.
 
 **Why is this important?**  Understanding how we staff our office helps to ensure that the office is spending its resources wisely, has enough people to be effective, and is supporting staff recruitment.
 
