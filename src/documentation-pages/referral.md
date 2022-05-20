@@ -51,5 +51,5 @@ Below are a set of indicators that provide additional context about felony refer
 **Notes:**
 
 * Each referral is represented once. 
-* Misdemeanor cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s office can dismiss misdemeanor cases (see Case Resolution dashboard). 
-* The top charge on declined cases is that identified by law enforcement, which may or may not align with how the DA would have charged the case. Law enforcement arrests and charges based on a probable cause standard of proof, whereas the DA’s office charges based on proof beyond a reasonable doubt.
+* Misdemeanor cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s Office can dismiss misdemeanor cases (see Case Resolution dashboard). 
+* Law enforcement arrests and charges are based on a probable cause standard of proof, whereas the DA’s Office charges based on proof beyond a reasonable doubt.
