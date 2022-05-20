@@ -37,9 +37,9 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 ## **\[INSERT Recidivism chart "Outcomes of Non-Incarcerative Sentences"]**
 
-## PPIs
+## Indicators
 
-Below are a set of Prosecutorial Performance Indicators that provide additional context about sentencing. These indicators help the District Attorney ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
+Below are a set of indicators that provide additional context about sentencing. These indicators help the DA's Office ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
 
 <iframe title="PPI 2.4 Reserving Incarceration for Serious Offenders" aria-label="Interactive line chart" id="datawrapper-chart-6IWrS" src="https://datawrapper.dwcdn.net/6IWrS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
