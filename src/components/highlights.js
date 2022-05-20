@@ -9,16 +9,16 @@ import { Link } from 'gatsby';
 const Highlights = () => (
   <section className="usa-graphic-list usa-section usa-section--dark">
     <div className="grid-container">
-    <h1 ><span className="usa-hero__heading--alt">System Level Metrics and Indicators</span></h1>
+    <h1 ><span className="usa-hero__heading--alt margin-bottom-10">System Level Metrics and Indicators</span></h1>
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-             <Link to="/referral" > <a className='usa-link' style={{color:'white'}}> Referrals</a> </Link> 
+             <Link to="/referral" > <a className='usa-link' style={{color:'white'}}> Felony Referrals</a> </Link> 
             </h3>
             <p>
-            A referral to this office occurs when law enforcement presents an individual suspected of a crime to review for potential charges. This can occur via arrest, cite-and-release, and/or order in. 
+            Presents information on felony cases referred by law enforcement to the District Attorney’s Office for prosecution. 
             </p>
             
           </div>
@@ -28,10 +28,10 @@ const Highlights = () => (
 
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              <Link to="/filing_charging" > <a className='usa-link' style={{color:'white'}}>Filing and Charging</a> </Link> 
+              <Link to="/filing_charging" > <a className='usa-link' style={{color:'white'}}>Charging and Filing</a> </Link> 
             </h3>
             <p>
-            After reviewing a case presented for review, prosecutors decide whether to issue charges. A charge is a formal accusation filed by this office that a specific person has committed a specific crime, also referred to as filing a criminal complaint or information. 
+            Presents information on all cases for which a law enforcement agency has filed a case (misdemeanors or traffic) or for which the District Attorney’s Office has decided to file the charges (felonies). 
             </p>
           </div>
         </div>
@@ -44,17 +44,17 @@ const Highlights = () => (
               <Link to="/case_resolution" > <a className='usa-link' style={{color:'white'}}>Case Resolution</a> </Link> 
             </h3>
             <p>
-            Let's add a quick definition  here.
+            Presents information on all cases prosecuted by the District Attorney's Office that have reached a final resolution.
             </p>
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-            <Link to="/deferral_and_diversion" > <a className='usa-link' style={{color:'white'}}>Deferral & Diversion Outcomes</a> </Link> 
+            <Link to="/deferral_and_diversion" > <a className='usa-link' style={{color:'white'}}>Diversion and Deferrals</a> </Link> 
             </h3>
             <p>
-            Let's add a quick definition  here.
+            Presents information on all cases for which the District Attorney’s Office granted alternatives to traditional prosecution: diversion and deferred judgment. 
             </p>
           </div>
         </div>
@@ -67,7 +67,7 @@ const Highlights = () => (
             <Link to="/sentencing" > <a className='usa-link' style={{color:'white'}}>Sentencing</a> </Link> 
             </h3>
             <p>
-            Let's add a quick definition  here.
+            Presents information on all cases prosecuted by the District Attorney’s Office for which a sentence has been imposed following a conviction. 
             </p>
             
           </div>
@@ -80,7 +80,7 @@ const Highlights = () => (
             <Link to="/defendant_characteristics" > <a className='usa-link' style={{color:'white'}}>Defendant Characteristics</a> </Link> 
             </h3>
             <p>
-            Let's add a quick definition  here.
+            Presents information on defendant characteristics, including race/ethnicity, socioeconomic status, and criminal history for cases prosecuted by the District Attorney’s Office.
             </p>
           </div>
         </div>
@@ -93,7 +93,7 @@ const Highlights = () => (
             <Link to="/serving_victims" > <a className='usa-link' style={{color:'white'}}>Serving Victims</a> </Link> 
             </h3>
             <p>
-            Let's add a quick definition  here.
+            Presents information on ways the District Attorney’s Office engages with victims, witnesses, and the general community. 
             </p>
           </div>
         </div>
@@ -103,7 +103,7 @@ const Highlights = () => (
             <Link to="/staffing_caseload" > <a className='usa-link' style={{color:'white'}}>Staffing & Caseload</a> </Link> 
             </h3>
             <p>
-            Let's add a quick definition  here. 
+            Presents information about the District Attorney’s Office’s staff capacity, caseload distribution, retention, and staff characteristics.
             </p>
           </div>
         </div>

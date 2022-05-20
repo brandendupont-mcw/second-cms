@@ -24,15 +24,18 @@ module.exports = {
         ],
       },
       {
+        items: [{ text: 'Overview', link: '/overview' }],
+      },
+      {
+        items: [{ text: 'Criminal Justice Process', link: '/criminal-justice-process' }],
+      },
+      {
         items: [{ text: 'Data Stories', link: '/blog' }],
       },
       {
         items: [
-          { text: 'Definition', link: '/definitions' },
+          { text: 'Technical Notes', link: '/technical-notes' },
         ],
-      },
-      {
-        items: [{ text: 'About', link: '/about' }],
       },
     ],
     secondaryLinks: [
