@@ -126,6 +126,8 @@ This definition of violent crime is used in the following indicators:
 
 **Outlier:** An outlier is a data point that differs from other observations, is much bigger or much smaller.
 
+**Quintile: ​​** A quintile is a statistical value of a data set that represents 20% of a given population, so the lowest quintile represents the lowest fifth of the data.
+
 ## Methods
 
 This dashboard links data from the 1st District Attorney’s Office's Action case management system, stored and shared by the Colorado District Attorneys’ Council (CDAC).
