@@ -10,7 +10,7 @@ This section presents information on defendant characteristics, including race/e
 
 **What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified.
 
-We are working with our law enforcement partners to improve collection practice by… **\[Offices please tailor].**
+We are working with our law enforcement partners to improve data collection practice by… **\[Offices please tailor].**
 
 <br>
 
