@@ -94,11 +94,8 @@ Below are a set of indicators that provide additional context about defendant ch
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
-## **Notes on race and ethnicity data collection:**
+## **Notes:**
 
 * Data on defendant demographics, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data. 
 * In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data. 
-
-## Notes on Criminal History
-
 * The dashboard includes data on criminal history from 2007-2022 from the eight jurisdictions participating in the dashboard pilot. This means that we have historical data on individuals ranging between 10 and 16 years.
