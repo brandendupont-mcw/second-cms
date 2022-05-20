@@ -88,7 +88,7 @@ sidenav: false
 
 **Probation with jail** includes any sentence of jail and probation, as well as inmate/outmate programs, work release, in-home detention, and weekenders. Incarceration
 
-**\*Non-incarceral** sentences includes any of the following:*
+***Non-incarceral** sentences includes any of the following:*
 
 **Probation** is a sentence to supervision of a defendant involving standard terms and conditions, as well as special conditions imposed by a court. 
 
