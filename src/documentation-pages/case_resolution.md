@@ -133,7 +133,7 @@ Below are a set of Prosecutorial Performance Indicators that provide additional 
 
 <br>
 
-## Notes
+### Notes
 
 * The year reflects that of case resolution.
 * Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
