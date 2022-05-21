@@ -16,6 +16,8 @@ sidenav: false
 
 <a name="crime"></a>**Crime**: An act prohibited by statute.
 
+<a name="conviction"></a>**Conviction**: The outcome of criminal case when a  defendant is determined to be guilty of a crime. 
+
 <a name="defendant"></a>**Defendant**: The person against whom a criminal case is pending.
 
 <a name="filing"></a>**Filing a case**: Prosecutors review arrest reports/referrals for each felony case. If the prosecutor determines the evidence supports a good faith belief in conviction beyond a reasonable doubt, the case is filed and continues until resolution.
@@ -78,7 +80,7 @@ sidenav: false
 
 ### Sentences
 
-*Across this dashboard,* <a name="incarceration"></a>***incarceration** includes any of the following sentences:*
+*Across this dashboard,* <a name="incarceration"></a>**\*incarceration** includes any of the following sentences:*
 
 <a name="prison"></a>**Prison,** or **Department of Corrections,** is a sentence to state prison.
 
