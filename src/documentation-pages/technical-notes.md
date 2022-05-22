@@ -46,7 +46,7 @@ sidenav: false
 
 <a name="petty"></a>**Petty Offenses/Infractions:** Petty offenses are the least serious criminal violations of Colorado state laws. Examples of petty offenses are third degree criminal trespass and littering of public or private property. Infractions relate only to very specific (not all) charges involving use and possession of marijuana and certain traffic violations. Infractions may be paid without making a court appearance.
 
-### Charge Types
+### <a name="chargetype"></a>Charge Types
 
 <a name="person"></a>**Person**: Includes homicide, assault, domestic violence, reckless endangerment, child abuse, kidnapping, human trafficking, false imprisonment, stalking, menacing, extortion, neglect, unlawful termination of pregnancy, violation of order of protection/restraining order, posting private image, harassment, and robbery.
 
