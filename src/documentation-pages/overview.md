@@ -16,7 +16,7 @@ The dashboard seeks to support:
 * **Justice and Fairness.** Ensuring that the DA’s Office is identifying and prioritizing actions to reduce disparities at points of prosecutorial discretion and to ensure the fair treatment of victims and defendants.
 * **Data-driven Decision-making.** Ensuring that the DA’s Office is learning what is going well and where there is room for improvement, ensuring decisions are grounded in systematically collected data.
 
-### How can I use this dashboard?
+### How can you use this dashboard?
 
 You can use this dashboard to understand the work that the DA's Office does. You can use it to look at trends in cases filed and resolved over time and patterns in how individuals are treated. The charts show key decision points and the data stories provide a deep dive into specific issues addressed by the DA’s Office.  
 
