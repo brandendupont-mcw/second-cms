@@ -72,9 +72,18 @@ We are working with our law enforcement partners to improve data collection prac
 
 <br>
 
+<iframe title="Cases Filed, by Defendant Criminal History, 2021" aria-label="Donut Chart" id="datawrapper-chart-f6py2" src="https://datawrapper.dwcdn.net/f6py2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
+<br>
+
 ## Indicators
 
-Below are a set of indicators that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure they are treating all individuals fairly. <br>
+Below are a set of indicators that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure we are treating all individuals fairly. <br>
 
 <br>
 
