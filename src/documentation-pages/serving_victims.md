@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Serving Victims
 
-This section presents information about victimization, victim characteristics, and the District Attorney’s (DA) Office’s engagement with victims, witnesses, and the general community. 
+This section presents information about victimization, victim characteristics, and the District Attorney’s (DA) Office’s engagement with <a href="#victim">victims</a>, witnesses, and the general community. 
 
 **Why is this important?** Understanding the victim population, providing effective services, and timely engagement helps develop the mutual transparency and trust needed to advance community safety and well-being.
 
