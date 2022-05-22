@@ -126,6 +126,10 @@ This definition of violent crime is used in the following indicators:
 
 ### Demographics
 
+**Age**: Defendant and victim age is calculated at the time of the case is filed. 
+
+**Gender**: Gender is defined as determined by law enforcement in the following categories: Male, Female, Other.
+
 <a name="ethnicity"></a>**Ethnicity**: For purposes of these indicators, ethnicity is defined as Hispanic or non-Hispanic.
 
 <a name="race"></a>**Race**: Race is defined as the racial category as determined by law enforcement in the following categories: Hispanic, Black, American Indian, Asian, White, and Other.
