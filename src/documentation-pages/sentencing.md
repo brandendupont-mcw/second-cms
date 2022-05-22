@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sentence which may include a fees, fines, community service, probation, jail, community corrections, or prison. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include a <a href="#fees">fees</a>, <a href="#fines">fines</a>, <a href="#communityservice">community service</a>, <a href="#probation">probation</a>, <a href="#jail">jail</a>, <a href="#communitycorrections">community corrections</a>, or <a href="#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
 
 **Why is this important?** It is important to ensure sentences minimize unnecessary punitiveness while appropriately addressing serious crime. In addition, we want to treat all individuals fairly and equitably.
 
