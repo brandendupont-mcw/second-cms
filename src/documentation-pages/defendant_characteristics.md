@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Defendant Characteristics
 
-This section presents information on defendant characteristics, including race/ethnicity, age, and gender. It also presents information on criminal history and trends in offending.
+This section presents information on defendant characteristics, including <a href="/technical-notes#race">race</a>, <a href="/technical-notes#ethnicity">ethnicity</a>, <a href="/technical-notes#age">age</a>, and <a href="/technical-notes#gender">gender</a>. It also presents information on criminal history and trends in offending.
 
 **Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers–such as neighborhood and access to education, employment opportunities, and health resources–can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system–for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed fairly, in light of these differences. 
 
@@ -72,9 +72,18 @@ We are working with our law enforcement partners to improve data collection prac
 
 <br>
 
+<iframe title="Cases Filed, by Defendant Criminal History, 2021" aria-label="Donut Chart" id="datawrapper-chart-f6py2" src="https://datawrapper.dwcdn.net/f6py2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
+<br>
+
 ## Indicators
 
-Below are a set of indicators that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure they are treating all individuals fairly. <br>
+Below are a set of indicators that provide additional context about defendant characteristics. These indicators help the DA's Office reduce disparities in the criminal system and ensure we are treating all individuals fairly. <br>
 
 <br>
 

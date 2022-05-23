@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Charging and Filing
 
-In Colorado, misdemeanor (including traffic cases) and petty offenses/infractions are filed directly with the court by law enforcement. Felony cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to issue. This section presents data on all cases for which a law enforcement agency has filed the case (misdemeanors or petty offenses/infractions) or for which the DA’s Office has decided to accept the referral and file the charges (felonies). 
+In Colorado, misdemeanors and petty offenses/infractions are filed directly with the court by law enforcement. Felony cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to issue. This section presents data on all cases for which a law enforcement agency has filed the case (<a href="/technical-notes#misdemeanor">misdemeanors</a> or <a href="/technical-notes#petty">petty offenses/infractions</a>) or for which the DA’s Office has decided to accept the referral and file the charges (<a href="/technical-notes#felony">felonies</a>). 
 
 **Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. Understanding the number and types of cases filed in the Office helps to ensure we use resources efficiently, effectively, and fairly.
 
@@ -74,3 +74,4 @@ Below are a set of indicators that provide additional context about cases filed.
 
 * Each case is represented once, by the top charge filed. 
 * Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
+* For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.

@@ -4,11 +4,9 @@ sidenav: false
 ---
 # Felony Referrals
 
-<a href="#atag"> I'm an anchor tag</a>
+A felony referral to the District Attorney's (DA) Office occurs when law enforcement presents an individual suspected of a felony crime to review for potential charges, generally following an <a href="/technical-notes#arrest">arrest</a>. This section presents data on <a href="/technical-notes#felony">felony</a> cases referred by law enforcement agencies to the DA’s Office for review. The DA’s Office decides whether to file charges – a formal accusation that a specific person has committed a specific crime – based on the evidence and reasonable likelihood of <a href="/technical-notes#conviction">conviction</a>. 
 
-A felony referral to the District Attorney's (DA) Office occurs when law enforcement presents an individual suspected of a felony crime to review for potential charges, generally following an arrest. This section presents data on felony cases referred by law enforcement agencies to the DA’s Office for review. The DA’s Office decides whether to file charges– a formal accusation that a specific person has committed a specific crime – based on the evidence and reasonable likelihood of conviction. 
-
-**Why is this important?**  The DA’s Office makes decisions based on the cases they receive from law enforcement; they are not responsible for arresting or citing individuals. The office may decide not to file a case for a number of reasons, such as acceptance into a pre-charge diversion program, insufficient evidence/investigation by law enforcement, or when the charges did not rise to the level of a crime.
+**Why is this important?**  The DA’s Office makes decisions based on the <a href="/technical-notes#case">cases</a> they receive from law enforcement; they are not responsible for arresting or citing individuals. The office may decide not to file a case for a number of reasons, such as acceptance into a pre-charge <a href="/technical-notes#diversion">diversion</a> program, insufficient evidence/investigation by law enforcement, or when the charges did not rise to the level of a crime.
 
 <br>
 
@@ -34,7 +32,7 @@ A felony referral to the District Attorney's (DA) Office occurs when law enforce
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's Office ensure they are maximize government resources by making strategic decisions about which cases to accept for prosecution.  <br>
+Below are a set of indicators that provide additional context about felony referrals. These indicators help the DA's Office ensure they maximize government resources by making strategic decisions about which cases to accept for prosecution.<br>
 
 <br>
 
@@ -52,9 +50,6 @@ Below are a set of indicators that provide additional context about felony refer
 
 **Notes:**
 
-
-* Each referral is represented once. 
-* Misdemeanor cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s Office can dismiss misdemeanor cases (see Case Resolution dashboard). 
-* Law enforcement arrests and charges are based on a probable cause standard of proof, whereas the DA’s Office charges based on proof beyond a reasonable doubt.
-
-<a name="atag"></a>
+* Each <a href="/technical-notes#referred">referral</a> is represented once. 
+* <a href="/technical-notes#misdemeanor">Misdemeanor</a> cases are directly charged and filed by the law enforcement agency; the DA does not review these cases for charging. The DA’s Office can dismiss misdemeanor cases (see [Case Resolution](https://colorado-test-cms.netlify.app/case_resolution) dashboard). 
+* Law enforcement arrests and charges are based on a <a href="/technical-notes#probable">probable cause</a> standard of proof, whereas the DA’s Office charges based on proof <a href="/technical-notes#doubt">beyond a reasonable doubt</a>.
