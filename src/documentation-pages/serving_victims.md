@@ -18,7 +18,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="PPI 5.5 Addressing Victimization of the Poor" aria-label="Interactive line chart" id="datawrapper-chart-HmHkq" src="https://datawrapper.dwcdn.net/HmHkq/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -36,7 +36,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-5PS45" src="https://datawrapper.dwcdn.net/5PS45/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="384"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-CQ33c" src="https://datawrapper.dwcdn.net/CQ33c/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="384"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -45,7 +45,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="PPI 5.4 Addressing Violent Victimization of Children" aria-label="Interactive line chart" id="datawrapper-chart-o1opO" src="https://datawrapper.dwcdn.net/o1opO/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Addressing Violent Victimization of Children" aria-label="Interactive line chart" id="datawrapper-chart-EH3sa" src="https://datawrapper.dwcdn.net/EH3sa/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 <br>
@@ -56,7 +56,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-<iframe title="PPI 5.6 Addressing Sexual Assault Victimization" aria-label="Column Chart" id="datawrapper-chart-wECA7" src="https://datawrapper.dwcdn.net/wECA7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="698"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Addressing Sexual Assault Victimization" aria-label="Interactive area chart" id="datawrapper-chart-eNIKy" src="https://datawrapper.dwcdn.net/eNIKy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
