@@ -12,7 +12,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-<iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-BMyLl" src="https://datawrapper.dwcdn.net/BMyLl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="243"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="253"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
@@ -21,7 +21,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-<iframe title="Felony Sentences Imposed" aria-label="Stacked Column Chart" id="datawrapper-chart-tcaFK" src="https://datawrapper.dwcdn.net/tcaFK/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -30,7 +30,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-<iframe title="Misdemeanor Sentences Imposed" aria-label="Stacked Column Chart" id="datawrapper-chart-4OmJ7" src="https://datawrapper.dwcdn.net/4OmJ7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-iik00" src="https://datawrapper.dwcdn.net/iik00/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -38,17 +38,12 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
-
-<iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-0Y0J6" src="https://datawrapper.dwcdn.net/0Y0J6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 ## Indicators
 
 Below are a set of indicators that provide additional context about sentencing. These indicators help the DA's Office ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
 
-<iframe title="PPI 2.4 Reserving Incarceration for Serious Offenders" aria-label="Interactive line chart" id="datawrapper-chart-6IWrS" src="https://datawrapper.dwcdn.net/6IWrS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -57,7 +52,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 8.2 Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-o6IBp" src="https://datawrapper.dwcdn.net/o6IBp/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-PZzEG" src="https://datawrapper.dwcdn.net/PZzEG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -66,7 +61,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 8.2 Deferral as an Alternative to Incarceration for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-8amDe" src="https://datawrapper.dwcdn.net/8amDe/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-LPZzn" src="https://datawrapper.dwcdn.net/LPZzn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -75,7 +70,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 7.7 Incarceration Differences by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-OlwAj" src="https://datawrapper.dwcdn.net/OlwAj/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-eri18" src="https://datawrapper.dwcdn.net/eri18/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -84,7 +79,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 7.7 Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-6KVsX" src="https://datawrapper.dwcdn.net/6KVsX/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-gNZaU" src="https://datawrapper.dwcdn.net/gNZaU/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="369"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -93,7 +88,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 8.7 Disproportionate Punishment for the Poor" aria-label="Interactive line chart" id="datawrapper-chart-vods7" src="https://datawrapper.dwcdn.net/vods7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Income - Defense Attorney Type" aria-label="Bullet Bars" id="datawrapper-chart-V4TpG" src="https://datawrapper.dwcdn.net/V4TpG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -102,7 +97,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 8.7 Disproportionate Punishment for the Poor - Median Income" aria-label="Interactive line chart" id="datawrapper-chart-GFxh7" src="https://datawrapper.dwcdn.net/GFxh7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-z9ErX" src="https://datawrapper.dwcdn.net/z9ErX/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
@@ -111,7 +106,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 8.3 Reducing Reliance on Pretrial Detention" aria-label="Interactive line chart" id="datawrapper-chart-S1RQJ" src="https://datawrapper.dwcdn.net/S1RQJ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Reducing Reliance on Pretrial Detention" aria-label="Interactive line chart" id="datawrapper-chart-vXLt2" src="https://datawrapper.dwcdn.net/vXLt2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -120,7 +115,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 7.4 Pretrial Detention Differences by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-QKbw3" src="https://datawrapper.dwcdn.net/QKbw3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-0qN8D" src="https://datawrapper.dwcdn.net/0qN8D/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="380"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -129,7 +124,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-<iframe title="PPI 7.4 Pretrial Detention Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-KSxW1" src="https://datawrapper.dwcdn.net/KSxW1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-XQAxG" src="https://datawrapper.dwcdn.net/XQAxG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="380"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
