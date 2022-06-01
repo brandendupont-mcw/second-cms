@@ -77,7 +77,7 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**  *Reflections from WG: Although homicides are up in Denver, and these cases are prioritized in the office, overall violent crime is down. We will continue to monitor this indicator closely.*
 
 <br>
 
