@@ -39,6 +39,6 @@ Below are a set of indicators that provide additional context about diversion an
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: This is on track with our expectations. We are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.]*
 
 <br>
