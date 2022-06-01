@@ -32,7 +32,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities ;** *WG Reflections: Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.***]**
+**[Add any reflections or comments on trends, current value, and/or planned activities ;** *WG Reflections: Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.**\*]**
 
 <br>
 
@@ -41,7 +41,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflections: How can we make this more equitable, given systemic factors; [insert reflection on zip code as proxy.***]**
+**[Add any reflections on trends, current value, and/or planned activities;** \*WG Reflections: How can we make this more equitable, given systemic factors; \[insert reflection on zip code as proxy.\*\*\*]\*\*
 
 <br>
 
@@ -50,7 +50,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**\[Add any reflections on trends, current value, and/or planned activities]**
 
 <br>
 
@@ -59,7 +59,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any comments on trends, current value, and/or planned activities; WG Reflection:** We will continue to monitor these numbers. Ideally, we want cases to go down (less abuse), but we also want cases to be filed if they are happening. Some next steps include: examining this in relation to referrals declined; considering the peaks and valleys in relation to when kids are in school (subtract a quarter in terms - incident generally a quarter before it gets filed); considering population growth (but kid numbers are going down).**]**
 
 <br>
 
