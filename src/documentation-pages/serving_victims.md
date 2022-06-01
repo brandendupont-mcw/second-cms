@@ -41,7 +41,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflections: How can we make this more equitable, given systemic factors; [insert reflection on zip code as proxy.***]**
 
 <br>
 
