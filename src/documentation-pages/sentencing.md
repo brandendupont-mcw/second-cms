@@ -57,7 +57,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.***]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.***]**
 
 <br>
 
@@ -66,7 +66,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -93,7 +93,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]***]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]***]**
 
 <br>
 
@@ -102,14 +102,14 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-z9ErX" src="https://datawrapper.dwcdn.net/z9ErX/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -120,7 +120,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -129,7 +129,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -138,7 +138,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
 
 <br>
 
@@ -147,4 +147,4 @@ Below are a set of indicators that provide additional context about sentencing. 
 ### Notes:
 
 * This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
-* This data represents initial sentences only, sometimes a case may have a subsequent sentence in cases where there are grounds for a motion to reconsider. Those are not represented here.
+* This data represents initial sentences only, sometimes a case may have a subsequent sentence in cases because of a revocation of probation or due to a request to modify the sentence. Those subsequent sentences are not represented here.
