@@ -32,7 +32,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections or comments on trends, current value, and/or planned activities ;** *WG Reflections: Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.***]**
 
 <br>
 
