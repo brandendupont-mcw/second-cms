@@ -70,6 +70,6 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We consistently bad rate of conviction and plan to look at this in relation  to other jurisdictions, national trends. We will consider if there are more dismissals because homeless population in Denver; we will compare to our referrals declined]*
 
 <br>
