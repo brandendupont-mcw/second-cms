@@ -84,7 +84,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.***]**
 
 <br>
 
