@@ -57,7 +57,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.***]**
 
 <br>
 
@@ -143,8 +143,6 @@ Below are a set of indicators that provide additional context about sentencing. 
 <br>
 
 ## Below are alternate graphs for pretrial detention, limited to non-traffic cases.
-
-
 
 ### Notes:
 
