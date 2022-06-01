@@ -93,7 +93,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]***]**
 
 <br>
 
