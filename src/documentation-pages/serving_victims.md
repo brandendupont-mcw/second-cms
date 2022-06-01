@@ -50,7 +50,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We have reservations about the reliability of our victim race and ethnicity data and are taking steps to ensure more systematic data collection based on victim self-identification.***]**
 
 <br>
 
