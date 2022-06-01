@@ -66,7 +66,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.***]**
 
 <br>
 
