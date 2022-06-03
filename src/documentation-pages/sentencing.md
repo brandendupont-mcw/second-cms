@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sentence which may include a <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
 
 **Why is this important?** It is important to ensure sentences minimize unnecessary punitiveness while appropriately addressing serious crime. In addition, we want to treat all individuals fairly and equitably.
 
@@ -57,7 +57,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.***]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.**\*]**
 
 <br>
 
@@ -84,7 +84,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases***.]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases**\*.]**
 
 <br>
 
@@ -93,7 +93,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]***]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]**\*]**
 
 <br>
 
