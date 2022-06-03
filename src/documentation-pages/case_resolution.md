@@ -48,7 +48,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities, for e.g.** *We want this number to be low to ensure accurate initial charging decisions based on the facts of the case ]*
 
 <br>
 
@@ -57,7 +57,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.***]**
+**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.**\*]**
 
 <br>
 
@@ -66,7 +66,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.***]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.**\*]**
 
 <br>
 
