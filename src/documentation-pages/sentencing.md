@@ -57,7 +57,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to increase the percentage of cases reserved for serious offenses...****WG Reflection**: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.**\*]**
 
 <br>
 
