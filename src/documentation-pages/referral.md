@@ -17,7 +17,7 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities for the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities.** *For e.g. :  In general, we want an increase in percent of cases initially filed as misdemeanors relative to the percent later plead to misdemeanors.***]**
 
 <br>
 
