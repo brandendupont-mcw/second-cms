@@ -75,7 +75,9 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: In general, COVID-19 increased the length of cases. In Fall 2021, when trials resumed, many pending cases were resolved by choosing to take a plea rather than go to trial, accounting for the decline in the length of cases at that time.  Case length depends on many factors, including the judge and type of case, however prosecutors do have power to resolve cases more quickly. We are further examining this by courtroom.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To further decrease the time to resolution, our office plans to xxxx.***;** 
+
+**\*WG Reflection:** In general, COVID-19 increased the length of cases. In Fall 2021, when trials resumed, many pending cases were resolved by choosing to take a plea rather than go to trial, accounting for the decline in the length of cases at that time.  Case length depends on many factors, including the judge and type of case, however prosecutors do have power to resolve cases more quickly. We are further examining this by courtroom.**\*]**
 
 <br>
 
