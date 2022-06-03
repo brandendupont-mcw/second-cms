@@ -32,7 +32,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities ;** *WG Reflections: Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to decrease differences between zip codes.****WG Reflections:** Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.**\*]**
 
 <br>
 
@@ -41,7 +41,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** \*WG Reflections: How can we make this more equitable, given systemic factors; \[insert reflection on zip code as proxy.\*\*\*]\*\*
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to decrease differences between zip codes.* \*WG Reflections: How can we make this more equitable, given systemic factors; \[insert reflection on zip code as proxy.\*\*\*]\*\*
 
 <br>
 
@@ -50,7 +50,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We have reservations about the reliability of our victim race and ethnicity data and are taking steps to ensure more systematic data collection based on victim self-identification.***]**
+**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We have reservations about the reliability of our victim race and ethnicity data and are taking steps to ensure more systematic data collection based on victim self-identification.**\*]**
 
 <br>
 
