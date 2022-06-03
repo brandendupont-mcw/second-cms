@@ -104,7 +104,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To improve dismissal timeliness, our office plans to xxxx***]**
 
 <br>
 
