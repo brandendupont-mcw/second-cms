@@ -44,7 +44,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.***]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.**\*]**
 
 <br>
 
@@ -57,7 +57,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g  Our aim is to increase the percentage of cases reserved for serious offenses...****WG Reflection**: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** \*for e.g  Our aim is to increase the percentage of cases reserved for serious offenses...\***\*WG Reflection**: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.**\*]**
 
 <br>
 
@@ -66,7 +66,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections/goal setting on the above PPI,** for e.g  We aim to see an increase in community corrections… **]**
 
 <br>
 
@@ -75,7 +75,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;**  e.g   We aim to see an increase in deferrals relative to the number of traditional probation sentences.]
 
 <br>
 
@@ -93,7 +93,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]**\*]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** for e.g We would like to see a reduction in incarceration differences by race/ethnicity.WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]**\*]**
 
 <br>
 
@@ -102,14 +102,14 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *for e.g. We would like to see a reduction in incarceration differences by socioeconomic status.***]**
 
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-z9ErX" src="https://datawrapper.dwcdn.net/z9ErX/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="424"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities on the above PPI;** *for e.g. We would like to see a reduction in incarceration differences by socioeconomic status.* **]**
 
 <br>
 
@@ -120,7 +120,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to reduce the percent detained pretrial. As a next step we are reviewing xxx***]**
 
 <br>
 
@@ -129,7 +129,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections and/or planned activities;** *for e.g. We would like to see a reduction in differences of pretrial detention by race/ethnicity. To more closely monitor our office will xx***]**
 
 <br>
 
@@ -138,7 +138,7 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 <br>
 
-**\[Add any reflections on trends, current value, and/or planned activities on the above PPI]**
+**[Add any reflections and/or planned activities;** *for e.g. We would like to see a reduction in differences of pretrial detention by race/ethnicity. To more closely monitor our office will xx***]**
 
 <br>
 
