@@ -94,7 +94,7 @@ Below are a set of indicators that provide additional context about defendant ch
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections on trends, current value, and/or planned activities** *for e.g. We aim to decrease this trend by xxx***]**
 
 <br>
 
@@ -103,7 +103,7 @@ Below are a set of indicators that provide additional context about defendant ch
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections, current value, and/or planned activities,** *for e.g. We aim to minimize the risk of escalation by focusing on xxx***]**
 
 <br>
 
