@@ -23,7 +23,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections or goal setting on the above PPI** *For e.g. We aim to reduce differences in violent victimization by race/ethnicity. To better understand the causes of these differences we are further examining by xxx***]**
 
 <br>
 
@@ -32,7 +32,7 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to decrease differences between zip codes.****WG Reflections:** Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.**\*]**
+**[Add any reflections on trends, current value, and/or planned activities,** \*for e.g. Our aim is to decrease differences between zip codes.\***\*WG Reflections:** Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.**\*]**
 
 <br>
 
