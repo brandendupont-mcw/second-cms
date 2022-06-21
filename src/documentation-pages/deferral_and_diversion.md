@@ -42,3 +42,21 @@ Below are a set of indicators that provide additional context about diversion an
 **[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI;** *WG Reflection: This is on track with our expectations. We are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.]*
 
 <br>
+
+<iframe title="Percent of Deferred Judgments with Successful Completion" aria-label="Interactive area chart" id="datawrapper-chart-jzE1Y" src="https://datawrapper.dwcdn.net/jzE1Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI***]*
+
+<br>
+
+<iframe title="Recidivism After Deferred Judgment" aria-label="Interactive line chart" id="datawrapper-chart-fbJGP" src="https://datawrapper.dwcdn.net/fbJGP/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI***]*
+
+<br>
