@@ -18,6 +18,8 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
+<a name="violent victimization POC"></a> 
+
 <iframe title="Violent Victimization of People of Color" aria-label="Interactive line chart" id="datawrapper-chart-5w4DY" src="https://datawrapper.dwcdn.net/5w4DY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -53,6 +55,8 @@ Below are a set of indicators that provide additional context about serving vict
 **[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We have reservations about the reliability of our victim race and ethnicity data and are taking steps to ensure more systematic data collection based on victim self-identification.**\*]**
 
 <br>
+
+<a name="violent victimization children"></a> 
 
 <iframe title="Addressing Violent Victimization of Children" aria-label="Interactive line chart" id="datawrapper-chart-EH3sa" src="https://datawrapper.dwcdn.net/EH3sa/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
