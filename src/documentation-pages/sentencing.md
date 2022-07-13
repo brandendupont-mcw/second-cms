@@ -35,7 +35,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+**[Add any reflections or comments on trends, current value, and/or planned activities; consider adding a note about** <a href="/technical-notes#legislative">legislative</a> **changes as applicable ]**
 
 <br>
 
