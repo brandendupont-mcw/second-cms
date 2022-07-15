@@ -95,6 +95,8 @@ Below are a set of indicators that provide additional context about sentencing. 
 
 **[Add any reflections on trends, current value, and/or planned activities on the above PPI;** for e.g We would like to see a reduction in incarceration differences by race/ethnicity.WG*Reflection: During COVID, de-prioritized cases were either not prosecuted or were dismissed. Therefore the increase in the percentage of cases incarcerated but decrease in total number of cases, may indicate a focus on more serious misdemeanor cases.]**\*]**
 
+<a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
+
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Defense Attorney Type" aria-label="Bullet Bars" id="datawrapper-chart-V4TpG" src="https://datawrapper.dwcdn.net/V4TpG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -145,6 +147,8 @@ Below are a set of indicators that provide additional context about pretrial det
 <br>
 
 **[Add any reflections and/or planned activities;** *for e.g. We would like to see a reduction in differences of pretrial detention by race/ethnicity. To more closely monitor our office will xx**\*]**
+
+<a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
