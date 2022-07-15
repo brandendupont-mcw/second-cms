@@ -74,12 +74,16 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
+<!--
+
 <iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-HdJNz" src="https://datawrapper.dwcdn.net/HdJNz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 \[Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]  
+
+\-->
 
 <br>
 
@@ -109,12 +113,18 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
+<!--
+
 <iframe title="Felony Dismissal Timeliness" aria-label="Interactive line chart" id="datawrapper-chart-xJVSt" src="https://datawrapper.dwcdn.net/xJVSt/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 \[This metric includes cases that are dismissed upon acceptance into diversion.]
+
+\-->
+
+<!--
 
 <br>
 
@@ -123,9 +133,11 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. “In general, we would like to decrease the number of hearings to avoid prolonged case processing. As a next step our office plans to xxxx]*
+\[In general, we would like to decrease the number of hearings to avoid prolonged case processing]
 
 <br>
+
+\-->
 
 ### Notes
 
