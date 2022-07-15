@@ -61,7 +61,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[There are well-recognized difficulties in collecting accurate race and ethnicity data.  One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
+\[The Denver DA's Office's goal is to achieve equity in plea outcomes across defendants defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
 
 <br>
 
@@ -70,7 +70,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.**\*]**
+\[The Denver DA's Office's goal is to achieve equity in plea outcomes across defendants defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
 
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
