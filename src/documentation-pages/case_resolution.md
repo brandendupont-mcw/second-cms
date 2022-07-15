@@ -19,7 +19,7 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-\*\*\\[Add any reflections or comments on trends, current value, and/or planned activities]\*\*
+\\*\\*\\\[Add any reflections or comments on trends, current value, and/or planned activities]\\*\\*
 
 <br>
 
@@ -30,8 +30,6 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-
-
 <br>
 
 <!-- <iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -39,9 +37,9 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+\*\*\\[Add any reflections or comments on trends, current value, and/or planned activities]\*\*
 
-**\-->**
+\*\*\-->\*\*
 
 <br>
 
@@ -63,7 +61,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.**\*]**
+\[There are well-recognized difficulties in collecting accurate race and ethnicity data. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
 
 <br>
 
