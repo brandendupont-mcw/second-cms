@@ -12,43 +12,49 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-<!--<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t97qQ" src="https://datawrapper.dwcdn.net/t97qQ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<!--
+
+<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t97qQ" src="https://datawrapper.dwcdn.net/t97qQ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+\*\*\\[Add any reflections or comments on trends, current value, and/or planned activities]\*\*
 
-<br>-->
+<br>
+
+\-->
 
 <iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-tl8vr" src="https://datawrapper.dwcdn.net/tl8vr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 
 <br>
 
-<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<!-- <iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 **\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
+**\-->**
+
 <br>
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
+Below are a set of indicators that provide additional context about case resolutions. These indicators help the Denver DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
 
 <iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-ZD5RF" src="https://datawrapper.dwcdn.net/ZD5RF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities, for e.g.** *We want this number to be low to ensure accurate initial charging decisions based on the facts of the case ]*
+\[While there are several reasons a felony may resolve as a misdemeanor, a low percentage of felonies resolved as misdemeanors can be an indicator of accurate initial charging decisions.]
 
 <br>
 
