@@ -61,7 +61,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[There are well-recognized difficulties in collecting accurate race and ethnicity data. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
+\[There are well-recognized difficulties in collecting accurate race and ethnicity data.  One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
 
 <br>
 
