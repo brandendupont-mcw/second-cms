@@ -68,6 +68,8 @@ Below are a set of indicators that provide additional context about case resolut
 
 **[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We would like to see more equity in plea outcomes across defendants regardless of race or ethnicity and are taking steps to work with our law enforcement partners to have more confidence in our defendant race and ethnicity data.**\*]**
 
+<a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
+
 <br>
 
 <iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-HdJNz" src="https://datawrapper.dwcdn.net/HdJNz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
