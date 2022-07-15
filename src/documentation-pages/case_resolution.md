@@ -61,7 +61,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[The Denver DA's Office's goal is to achieve equity in plea outcomes across defendants defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
+\[The Denver DA's Office's goal is to achieve equity in plea outcomes across defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
 
 <br>
 
@@ -70,7 +70,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[The Denver DA's Office's goal is to achieve equity in plea outcomes across defendants defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
+\[The Denver DA's Office's goal is to achieve equity in plea outcomes across defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
 
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
@@ -81,11 +81,11 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. To further decrease the time to resolution, our office plans to xxxx.**\*;** 
-
-**\*WG Reflection:** In general, COVID-19 increased the length of cases. In Fall 2021, when trials resumed, many pending cases were resolved by choosing to take a plea rather than go to trial, accounting for the decline in the length of cases at that time.  Case length depends on many factors, including the judge and type of case, however prosecutors do have power to resolve cases more quickly. We are further examining this by courtroom.**\*]**
+\[Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]  
 
 <br>
+
+<!--
 
 <iframe title="Conforming to ABA Time Standards - Felonies" aria-label="Interactive area chart" id="datawrapper-chart-Vn8pm" src="https://datawrapper.dwcdn.net/Vn8pm/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
@@ -96,12 +96,18 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
+\-->
+
+<!--
+
 <iframe title="Conforming to ABA Time Standards - Misdemeanors" aria-label="Interactive area chart" id="datawrapper-chart-ZNYiM" src="https://datawrapper.dwcdn.net/ZNYiM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 **[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx**\*]**
+
+**\-->**
 
 <br>
 
