@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Case Resolution
 
-This section presents data on all cases prosecuted by the District Attorney's (DA) Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/technical-notes#dismissed">dismissal</a>, <a href="/technical-notes#diversion">diversion</a>, <a href="/technical-notes#deferred">deferred judgment</a>, <a href="/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/technical-notes#acquitted">acquittal</a> or <a href="/technical-notes#foundguilty">guilty</a> verdict at trial. 
+This section presents data on all cases prosecuted by the Denver District Attorney's (DA) Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/technical-notes#dismissed">dismissal</a>, <a href="/technical-notes#diversion">diversion</a>, <a href="/technical-notes#deferred">deferred judgment</a>, <a href="/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/technical-notes#acquitted">acquittal</a> or <a href="/technical-notes#foundguilty">guilty</a> verdict at trial. 
 
 **Why is this important?** It is important to review how cases are resolved to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness.
 
