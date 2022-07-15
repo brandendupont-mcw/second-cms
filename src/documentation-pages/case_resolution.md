@@ -37,9 +37,7 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-\*\*\\[Add any reflections or comments on trends, current value, and/or planned activities]\*\*
-
-\*\*\-->\*\*
+-->
 
 <br>
 
