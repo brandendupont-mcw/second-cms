@@ -8,7 +8,7 @@ This section presents information on defendant characteristics, including <a hre
 
 **Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers–such as neighborhood and access to education, employment opportunities, and health resources–can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system–for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed equitably, in light of these differences. 
 
-**What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified. We support our law enforcement partner's efforts to collect more accurate race and ethnicity data.
+**What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified. We encourage and support our law enforcement partner's efforts to collect more accurate race and ethnicity data.
 
 <br>
 
@@ -19,7 +19,7 @@ This section presents information on defendant characteristics, including <a hre
 
 <br>
 
-The Denver DA's Office recognizes that while, most people are either male or female, some do not fit in to the categories of "male" or "female." However, current data collection processes to don account for such non-binary definitions. We will encourage and work with our law enforcement partners and other criminal justice stakeholders to collect more inclusive data.
+The Denver DA's Office recognizes that while most people are either male or female, some do not fit into these categories. Current data collection processes to don account for such non-binary definitions. We will encourage and work with our law enforcement partners and other criminal justice stakeholders to collect more inclusive data.
 
 <br>
 
@@ -28,16 +28,14 @@ The Denver DA's Office recognizes that while, most people are either male or fem
 
 <br>
 
-
+The Denver DA's Office recognizes that while most people are either male or female, some do not fit into these categories. Current data collection processes do not account for such non-binary definitions. We will encourage and work with our law enforcement partners and our criminal justice stakeholder to collect more inclusive data.
 
 <br>
 
 <iframe title="Number of Cases Filed, by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-cAq9G" src="https://datawrapper.dwcdn.net/cAq9G/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
