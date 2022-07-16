@@ -54,12 +54,18 @@ This section presents information on defendant characteristics, including <a hre
 
 <br>
 
+<!--
+
 <iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-taMiC" src="https://datawrapper.dwcdn.net/taMiC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-**\[This metric includes data only from the eight judicial district attorney's officers participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor dos it include data from outside the state of Colorado.]**
+**\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]**
 
 <br>
+
+\-->
+
+<!--
 
 ## Indicators
 
@@ -72,20 +78,22 @@ Below are a set of indicators that provide additional context about defendant ch
 <iframe title="Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-9j76Y" src="https://datawrapper.dwcdn.net/9j76Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-**[Add any reflections on trends, current value, and/or planned activities** *for e.g. We aim to decrease this trend by xxx**\*]**
+**\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]**
 
 <br>
+
+\-->
+
+<!--
 
 <iframe title="Escalation in Criminal Behavior" aria-label="Interactive line chart" id="datawrapper-chart-UD5GC" src="https://datawrapper.dwcdn.net/UD5GC/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-**[Add any reflections, current value, and/or planned activities,** *for e.g. We aim to minimize the risk of escalation by focusing on xxx**\*]**
+**\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]**
 
 <br>
+
+\-->
 
 ## **Notes:**
 
