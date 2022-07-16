@@ -15,9 +15,7 @@ This section presents information on defendant characteristics, including <a hre
 <iframe title="Number of Cases Filed, by Defendant Gender" aria-label="Interactive line chart" id="datawrapper-chart-WqXyE" src="https://datawrapper.dwcdn.net/WqXyE/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-\[The Denver DA's Office recognizes that while most people are either male or female, some do not fit into these categories. Current data collection processes to don account for such non-binary definitions. We will encourage and work with our law enforcement partners and other criminal justice stakeholders to collect more inclusive data.]
+**\[The Denver DA's Office recognizes that while most people are either male or female, some do not fit into these categories. Current data collection processes to don account for such non-binary definitions. We will encourage and work with our law enforcement partners and other criminal justice stakeholders to collect more inclusive data.]**
 
 <br>
 
@@ -51,16 +49,8 @@ This section presents information on defendant characteristics, including <a hre
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
-
-<br>
-
 <iframe title="Cases Filed, by Defendant Age 2021" aria-label="Donut Chart" id="datawrapper-chart-E9DZe" src="https://datawrapper.dwcdn.net/E9DZe/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
-
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
 
 <br>
 
