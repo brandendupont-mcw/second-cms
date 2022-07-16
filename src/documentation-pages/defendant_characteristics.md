@@ -6,11 +6,9 @@ sidenav: false
 
 This section presents information on defendant characteristics, including <a href="/technical-notes#race">race</a>, <a href="/technical-notes#ethnicity">ethnicity</a>, <a href="/technical-notes#age">age</a>, and <a href="/technical-notes#gender">gender</a>. It also presents information on criminal history and trends in offending.
 
-**Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers–such as neighborhood and access to education, employment opportunities, and health resources–can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system–for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed fairly, in light of these differences. 
+**Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers–such as neighborhood and access to education, employment opportunities, and health resources–can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system–for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed equitably, in light of these differences. 
 
-**What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified.
-
-We are working with our law enforcement partners to improve data collection practice by… **\[Offices please tailor].**
+**What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified. We support our law enforcement partner's efforts to collect accurate race and ethnicity data.
 
 <br>
 
