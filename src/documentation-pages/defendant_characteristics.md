@@ -8,7 +8,7 @@ This section presents information on defendant characteristics, including <a hre
 
 **Why is this important?** Not all individuals are equally likely to come into contact with the justice system. Systemic drivers–such as neighborhood and access to education, employment opportunities, and health resources–can impact involvement. In addition, based on wealth, some defendants may be better positioned to get “out” of the system–for example, to pay bail, afford private counsel, or access treatment. Effective prosecution strategies should consider ways to ensure that cases are processed equitably, in light of these differences. 
 
-**What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified. We support our law enforcement partner's efforts to collect accurate race and ethnicity data.
+**What are we doing to ensure that race and ethnicity data are accurate?** Collecting accurate race, ethnicity, and gender data is critical to achieving equity and fairness in the justice system. It is best practice to collect race, ethnicity, and gender data via self-report, meaning that the defendant decides how they are identified. We support our law enforcement partner's efforts to collect more accurate race and ethnicity data.
 
 <br>
 
@@ -19,7 +19,7 @@ This section presents information on defendant characteristics, including <a hre
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+The Denver DA's Office recognizes that while, most people are either male or female, some do not fit in to the categories of "male" or "female." However, current data collection processes to don account for such non-binary definitions. We will encourage and work with our law enforcement partners and other criminal justice stakeholders to collect more inclusive data.
 
 <br>
 
@@ -28,7 +28,7 @@ This section presents information on defendant characteristics, including <a hre
 
 <br>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+
 
 <br>
 
