@@ -17,7 +17,7 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-\[Prosecutors have a responsibility to screen cases thoroughly and charge cases accurately.]
+\[At this time the Denver DA's Office is unable to produce data for declined felony referrals. We are working to collect and publish this data.]
 
 <br>
 
