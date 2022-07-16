@@ -55,6 +55,8 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
+<!--
+
 <iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-W8ikS" src="https://datawrapper.dwcdn.net/W8ikS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -63,6 +65,8 @@ Below are a set of indicators that provide additional context about cases filed.
 \[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
+
+\-->
 
 <a name="violent crimes filed"></a> 
 
