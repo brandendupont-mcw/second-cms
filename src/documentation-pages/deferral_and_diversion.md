@@ -50,7 +50,7 @@ Below are a set of indicators that provide additional context about diversion an
 
 <br>
 
-**\[This metric does not appear accurate and does not include data past Q1 2020.]**
+\*\*\\[This metric does not appear accurate and does not include data past Q1 2020.]\*\*
 
 <br>
 
@@ -59,8 +59,6 @@ Below are a set of indicators that provide additional context about diversion an
 <iframe title="Recidivism After Deferred Judgment" aria-label="Interactive line chart" id="datawrapper-chart-fbJGP" src="https://datawrapper.dwcdn.net/fbJGP/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-**[Add any reflections or comments on trends, current value, and/or planned activities on the above PPI***]*
+**\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado.]**
 
 <br>
