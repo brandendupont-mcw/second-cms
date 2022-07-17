@@ -24,7 +24,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.
+\[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.]
 
 <br>
 
@@ -33,7 +33,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-iik00" src="https://datawrapper.dwcdn.net/iik00/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.
+\[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.]
 
 <br>
 
@@ -42,7 +42,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-yGJrV" src="https://datawrapper.dwcdn.net/yGJrV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.
+\[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.]
 
 <br>
 
@@ -50,14 +50,14 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about sentencing. These indicators help the DA's Office ensure they are ensuring fairness in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
+Below are a set of indicators that provide additional context about sentencing. These indicators help the Denver DA's Office ensure we are seeking equitable outcomes in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
 
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
+\[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate. Our goal is to increase the percentage of custodial sentences for serious offenses. We believe the percentage of incarceration for serious offenses is lower than expected. We are further examining this data point to understand how much of the “other” is for repeat defendants or due to probation revocations.]
 
-**[Add any reflections on trends, current value, and/or planned activities,** \*for e.g  Our aim is to increase the percentage of cases reserved for serious offenses...\***\*WG Reflection**: The percentage of incarceration for serious offenses is lower than expected. We are further examining to understand how much of the “other” is for repeat defendants or due to probation revocations.**\*]**
+<br>
 
 <br>
 
