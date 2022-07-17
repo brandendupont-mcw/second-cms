@@ -15,7 +15,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="253"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-\[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.]
+**\[Due to a change in the Denver DA's case management system in August of 2021, data prior to the fourth quarter of 2021 may not be accurate.]**
 
 <br>
 
