@@ -17,7 +17,7 @@ Below are a set of indicators that provide additional context about felony refer
 
 <br>
 
-\[At this time the Denver DA's Office is unable to produce data for declined felony referrals. We are working to collect and publish this data.]
+**\[At this time the Denver DA's Office is unable to produce data for declined felony referrals. We are working to collect and publish this data.]**
 
 <br>
 
