@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. The prosecutor and defense attorney on the case provide recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. Prosecutors and defense attorneys can negotiate plea bargains or make sentencing recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
 
 **Why is this important?** It is important to ensure sentences minimize unnecessary punitiveness while appropriately addressing serious crime. In addition, we want to treat all individuals fairly and equitably.
 
@@ -15,7 +15,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="253"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+\[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.]
 
 <br>
 
@@ -24,27 +24,27 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
+[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.
 
-**\[Add any reflections or comments on trends, current value, and/or planned activities]**
+<br>
 
 <br>
 
 <iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-iik00" src="https://datawrapper.dwcdn.net/iik00/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
+[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.
 
-**[Add any reflections or comments on trends, current value, and/or planned activities; consider adding a note about** <a href="/technical-notes#legislative">legislative</a> **changes as applicable ]**
+<br>
 
 <br>
 
 <iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-yGJrV" src="https://datawrapper.dwcdn.net/yGJrV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
+[Due to a change in the Denver DA's case management system, data prior to the fourth quarter of 2021 may not be accurate.
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g   We aim to prioritize community-based sentences and ensure individuals’ future success.**\*]**
+<br>
 
 <br>
 
