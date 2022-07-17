@@ -23,27 +23,31 @@ Below are a set of indicators that provide additional context about serving vict
 <iframe title="Violent Victimization of People of Color" aria-label="Interactive line chart" id="datawrapper-chart-5w4DY" src="https://datawrapper.dwcdn.net/5w4DY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
 
-**[Add any reflections or goal setting on the above PPI** *For e.g. We aim to reduce differences in violent victimization by race/ethnicity. To better understand the causes of these differences we are further examining by xxx**\*]**
+
+**[The Denver DA's Office's Goal is to reduce differences in victimization by race/ethnicity.** **There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]**
+
+<br>
 
 <br>
 
 <iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
+**\[The Denver DA's Office's Goal is to reduce differences in victimization by zip code. Here zip code is a proxy for socioeconomic status. However, gentrification may affect this metric.]**
 
-**[Add any reflections on trends, current value, and/or planned activities,** \*for e.g. Our aim is to decrease differences between zip codes.\***\*WG Reflections:** Denver is rapidly gentrifying which will impact these differences; Outcomes are sometimes out of our control (e.g. ability to show up in court, evidence, Witness cooperation, videos available in wealthier neighborhoods); Reason codes for dismissals would be illuminating.**\*]**
+<br>
 
 <br>
 
 <iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-CQ33c" src="https://datawrapper.dwcdn.net/CQ33c/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to decrease differences between zip codes.* \*WG Reflections: How can we make this more equitable, given systemic factors; \[insert reflection on zip code as proxy.\*\*\*]\*\*
+
+**\[The Denver DA's Office's Goal is to reduce differences in victimization by zip code. Here zip code is a proxy for socioeconomic status. However, gentrification may affect this metric.]**
+
+<br>
 
 <br>
 
