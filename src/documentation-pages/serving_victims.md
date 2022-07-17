@@ -50,11 +50,9 @@ Below are a set of indicators that provide additional context about serving vict
 <iframe title="Case Dismissal Differences by Victim Race/Ethnicity" aria-label="Bullet Bars" id="datawrapper-chart-IAgvm" src="https://datawrapper.dwcdn.net/IAgvm/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-
-
 **\[The Denver DA's Office's Goal is to reduce differences in victimization by race/ethnicity. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]**
 
-<br>
+
 
 <br>
 
