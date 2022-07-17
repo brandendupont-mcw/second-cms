@@ -23,8 +23,6 @@ Below are a set of indicators that provide additional context about serving vict
 <iframe title="Violent Victimization of People of Color" aria-label="Interactive line chart" id="datawrapper-chart-5w4DY" src="https://datawrapper.dwcdn.net/5w4DY/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-
-
 **[The Denver DA's Office's Goal is to reduce differences in victimization by race/ethnicity.** **There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]**
 
 <br>
@@ -43,8 +41,6 @@ Below are a set of indicators that provide additional context about serving vict
 <iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-CQ33c" src="https://datawrapper.dwcdn.net/CQ33c/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-
-
 **\[The Denver DA's Office's Goal is to reduce differences in victimization by zip code. Here zip code is a proxy for socioeconomic status. However, gentrification may affect this metric.]**
 
 <br>
@@ -54,9 +50,11 @@ Below are a set of indicators that provide additional context about serving vict
 <iframe title="Case Dismissal Differences by Victim Race/Ethnicity" aria-label="Bullet Bars" id="datawrapper-chart-IAgvm" src="https://datawrapper.dwcdn.net/IAgvm/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
 
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We have reservations about the reliability of our victim race and ethnicity data and are taking steps to ensure more systematic data collection based on victim self-identification.**\*]**
+
+**\[The Denver DA's Office's Goal is to reduce differences in victimization by race/ethnicity. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]**
+
+<br>
 
 <br>
 
@@ -67,17 +65,11 @@ Below are a set of indicators that provide additional context about serving vict
 
 <br>
 
-**[Add any comments on trends, current value, and/or planned activities; WG Reflection:** We will continue to monitor these numbers. Ideally, we want cases to go down (less abuse), but we also want cases to be filed if they are happening. Some next steps include: examining this in relation to referrals declined; considering the peaks and valleys in relation to when kids are in school (subtract a quarter in terms - incident generally a quarter before it gets filed); considering population growth (but kid numbers are going down).**]**
-
-<br>
-
 <br>
 
 <iframe title="Addressing Sexual Assault Victimization" aria-label="Interactive area chart" id="datawrapper-chart-eNIKy" src="https://datawrapper.dwcdn.net/eNIKy/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
-
-**[Add any reflections on trends, current value, and/or planned activities;** *WG Reflection: We consistently bad rate of conviction and plan to look at this in relation  to other jurisdictions, national trends. We will consider if there are more dismissals because homeless population in Denver; we will compare to our referrals declined]*
 
 <br>
