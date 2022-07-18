@@ -37,8 +37,6 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
--->
-
 <br>
 
 ## Indicators
