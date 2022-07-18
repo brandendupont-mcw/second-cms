@@ -19,7 +19,7 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-\\*\\*\\\[Add any reflections or comments on trends, current value, and/or planned activities]\\*\\*
+\\\*\\\*\\\\[Add any reflections or comments on trends, current value, and/or planned activities]\\\*\\\*
 
 <br>
 
@@ -48,9 +48,9 @@ Below are a set of indicators that provide additional context about case resolut
 <iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-ZD5RF" src="https://datawrapper.dwcdn.net/ZD5RF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
 \[While there are several reasons a felony may resolve as a misdemeanor, a low percentage of felonies resolved as misdemeanors can be an indicator of accurate initial charging decisions.]
+
+<br>
 
 <br>
 
@@ -81,7 +81,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]  
+\\[Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]  
 
 \-->
 
@@ -94,7 +94,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections or comments on trends, current value, and/or planned activities;** *WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.**\*]**
+\*\*\[Add any reflections or comments on trends, current value, and/or planned activities;\*\* \*WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.\*\*\\*]\*\*
 
 <br>
 
@@ -107,9 +107,9 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *For e.g. “To better meet the ABA time standards, our office plans to xxxx**\*]**
+\*\*\[Add any reflections on trends, current value, and/or planned activities,\*\* \*For e.g. “To better meet the ABA time standards, our office plans to xxxx\*\*\\*]\*\*
 
-**\-->**
+\*\*\-->\*\*
 
 <br>
 
@@ -120,7 +120,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[This metric includes cases that are dismissed upon acceptance into diversion.]
+\\[This metric includes cases that are dismissed upon acceptance into diversion.]
 
 \-->
 
@@ -133,7 +133,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\[In general, we would like to decrease the number of hearings to avoid prolonged case processing]
+\\[In general, we would like to decrease the number of hearings to avoid prolonged case processing]
 
 <br>
 
