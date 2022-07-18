@@ -118,8 +118,6 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-**[Add any reflections on trends, current value, and/or planned activities,** *for e.g. Our aim is to reduce the percent detained pretrial. As a next step we are reviewing xxx**\*]**
-
 <br>
 
 <iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-0qN8D" src="https://datawrapper.dwcdn.net/0qN8D/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -127,16 +125,12 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-**[Add any reflections and/or planned activities;** *for e.g. We would like to see a reduction in differences of pretrial detention by race/ethnicity. To more closely monitor our office will xx**\*]**
-
 <br>
 
 <iframe title="Pretrial Detention Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-XQAxG" src="https://datawrapper.dwcdn.net/XQAxG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
-
-**[Add any reflections and/or planned activities;** *for e.g. We would like to see a reduction in differences of pretrial detention by race/ethnicity. To more closely monitor our office will xx**\*]**
 
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
