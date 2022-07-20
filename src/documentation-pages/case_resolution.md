@@ -19,7 +19,6 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-
 <iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-tl8vr" src="https://datawrapper.dwcdn.net/tl8vr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -33,6 +32,9 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 <br>
 
 <br>
+
+<iframe title="Misdemeanor Cases Resolved, by Disposition Type (Copy)" aria-label="Stacked Column Chart" id="datawrapper-chart-3mqRS" src="https://datawrapper.dwcdn.net/3mqRS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 ## Indicators
 
@@ -67,13 +69,12 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-
 <iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-HdJNz" src="https://datawrapper.dwcdn.net/HdJNz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
-\\\[Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]  
+\\[Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]  
 
 \-->
 
@@ -86,7 +87,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\\*\\*\\[Add any reflections or comments on trends, current value, and/or planned activities;\\*\\* \\*WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.\\*\\*\\\*]\\*\\*
+\\\*\\\*\\\[Add any reflections or comments on trends, current value, and/or planned activities;\\\*\\\* \\\*WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.\\\*\\\*\\\\*]\\\*\\\*
 
 <br>
 
@@ -99,9 +100,9 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\\*\\*\\[Add any reflections on trends, current value, and/or planned activities,\\*\\* \\*For e.g. “To better meet the ABA time standards, our office plans to xxxx\\*\\*\\\*]\\*\\*
+\\\*\\\*\\\[Add any reflections on trends, current value, and/or planned activities,\\\*\\\* \\\*For e.g. “To better meet the ABA time standards, our office plans to xxxx\\\*\\\*\\\\*]\\\*\\\*
 
-\\*\\*\-->\\*\\*
+\\\*\\\*\-->\\\*\\\*
 
 <br>
 
@@ -112,7 +113,7 @@ Below are a set of indicators that provide additional context about case resolut
 
 <br>
 
-\\\[This metric includes cases that are dismissed upon acceptance into diversion.]
+\\\\[This metric includes cases that are dismissed upon acceptance into diversion.]
 
 \-->
 
@@ -123,7 +124,7 @@ Below are a set of indicators that provide additional context about case resolut
 <iframe title="Minimizing Delays in Felony Case Processing by Limiting Hearings" aria-label="Interactive line chart" id="datawrapper-chart-VIxBZ" src="https://datawrapper.dwcdn.net/VIxBZ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\[In general, we would like to decrease the number of hearings to avoid prolonged case processing]
+\\\[In general, we would like to decrease the number of hearings to avoid prolonged case processing]
 
 <br>
 
@@ -133,6 +134,6 @@ Below are a set of indicators that provide additional context about case resolut
 
 ### Notes
 
-\* Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
-\* The charge level represents the most serious charge filed in a case.
+\\* Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
+\\* The charge level represents the most serious charge filed in a case.
 * Warrants are excluded (for all cases identified as a warrant).
