@@ -15,7 +15,7 @@ This section presents information on defendant characteristics, including <a hre
 <iframe title="Number of Cases Filed, by Defendant Gender" aria-label="Interactive line chart" id="datawrapper-chart-WqXyE" src="https://datawrapper.dwcdn.net/WqXyE/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\[The Denver DA's Office recognizes that while most people are either male or female, some do not fit into these categories. Current data collection processes to don account for such non-binary definitions. We will encourage and work with our law enforcement partners and other criminal justice stakeholders to collect more inclusive data.]
+The Denver DA's Office recognizes that not all individuals identify with binary male and female categories. Current data collection processes do not account for such non-binary definitions. We encourage our law enforcement partners and other criminal justice stakeholders collect more inclusive data.
 
 <br>
 
@@ -59,7 +59,7 @@ This section presents information on defendant characteristics, including <a hre
 <iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-taMiC" src="https://datawrapper.dwcdn.net/taMiC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\*\\*\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\*\\*
+\\\*\\\*\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\*\\\*
 
 <br>
 
@@ -78,7 +78,7 @@ Below are a set of indicators that provide additional context about defendant ch
 <iframe title="Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-9j76Y" src="https://datawrapper.dwcdn.net/9j76Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\*\\*\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\*\\*
+\\\*\\\*\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\*\\\*
 
 <br>
 
@@ -89,7 +89,7 @@ Below are a set of indicators that provide additional context about defendant ch
 <iframe title="Escalation in Criminal Behavior" aria-label="Interactive line chart" id="datawrapper-chart-UD5GC" src="https://datawrapper.dwcdn.net/UD5GC/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\*\\*\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\*\\*
+\\\*\\\*\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\*\\\*
 
 <br>
 
