@@ -87,6 +87,10 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 <br>
 
+Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
+
+<br>
+
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
