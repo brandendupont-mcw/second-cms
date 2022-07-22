@@ -42,6 +42,10 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 <iframe title="Misdemeanor Cases Resolved, by Disposition Type (Copy)" aria-label="Stacked Column Chart" id="datawrapper-chart-3mqRS" src="https://datawrapper.dwcdn.net/3mqRS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
+<br>
+
+<br>
+
 ## Indicators
 
 Below are a set of indicators that provide additional context about case resolutions. These indicators help the Denver DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. <br>
@@ -91,7 +95,7 @@ Our goal is to improve efficiency by resolving cases as soon as possible. While 
 
 <br>
 
-\\\\*\\\\*\\\\[Add any reflections or comments on trends, current value, and/or planned activities;\\\\*\\\\* \\\\*WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.\\\\*\\\\*\\\\\*]\\\\*\\\\*
+\\\\\*\\\\\*\\\\\[Add any reflections or comments on trends, current value, and/or planned activities;\\\\\*\\\\\* \\\\\*WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.\\\\\*\\\\\*\\\\\\*]\\\\\*\\\\\*
 
 <br>
 
@@ -104,9 +108,9 @@ Our goal is to improve efficiency by resolving cases as soon as possible. While 
 
 <br>
 
-\\\\*\\\\*\\\\[Add any reflections on trends, current value, and/or planned activities,\\\\*\\\\* \\\\*For e.g. “To better meet the ABA time standards, our office plans to xxxx\\\\*\\\\*\\\\\*]\\\\*\\\\*
+\\\\\*\\\\\*\\\\\[Add any reflections on trends, current value, and/or planned activities,\\\\\*\\\\\* \\\\\*For e.g. “To better meet the ABA time standards, our office plans to xxxx\\\\\*\\\\\*\\\\\\*]\\\\\*\\\\\*
 
-\\\\*\\\\*\-->\\\\*\\\\*
+\\\\\*\\\\\*\-->\\\\\*\\\\\*
 
 <br>
 
