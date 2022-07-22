@@ -82,8 +82,9 @@ Though violent crime - as defined by the Colorado Prosecutorial Dashboards proje
 
 <br>
 
-<br>
+Notes
 
+<br>
 
 Each case is represented once, by the top charge filed. 
 Warrants are excluded (for all cases identified as a warrant).
