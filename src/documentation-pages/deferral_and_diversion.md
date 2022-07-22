@@ -10,10 +10,6 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 <br>
 
-## \*PLACE HOLDER FOR DIVERSION CHARTS\*
-
-<br>
-
 <br>
 
 <iframe title="Number of Felony Cases Receiving Deferred Judgment, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-z6db6" src="https://datawrapper.dwcdn.net/z6db6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -23,12 +19,14 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about diversion and deferred judgments. These indicators help the DA's Office ensure they are providing alternatives to traditional prosecution effectively and fairly.
+Below are a set of indicators that provide additional context about deferred judgments. These indicators help the DA's Office ensure they are providing alternatives to traditional prosecution effectively and fairly.
 
 <iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-l2U22" src="https://datawrapper.dwcdn.net/l2U22/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+</script> 
 
-\[The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
+<br>
+
+The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
 <br>
 
@@ -37,7 +35,7 @@ Below are a set of indicators that provide additional context about diversion an
 <iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-cbcBh" src="https://datawrapper.dwcdn.net/cbcBh/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\[The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.]
+The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
@@ -50,7 +48,7 @@ Below are a set of indicators that provide additional context about diversion an
 
 <br>
 
-\\*\\*\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\*\\*
+\\\*\\\*\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\*\\\*
 
 <br>
 
@@ -59,6 +57,6 @@ Below are a set of indicators that provide additional context about diversion an
 <iframe title="Recidivism After Deferred Judgment" aria-label="Interactive line chart" id="datawrapper-chart-fbJGP" src="https://datawrapper.dwcdn.net/fbJGP/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado.]
+This metric includes data only from the eight Judicial District Attorney's offices participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado.
 
 <br>
