@@ -84,7 +84,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases.]
+Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases. <br>
 
 <br>
 
@@ -94,8 +94,6 @@ Our goal is to improve efficiency by resolving cases as soon as possible. While 
 </script> <br>
 
 <br>
-
-\\\\\*\\\\\*\\\\\[Add any reflections or comments on trends, current value, and/or planned activities;\\\\\*\\\\\* \\\\\*WG Reflection: We often do not have a first hearing within the 120 days recommended by the ABA standards, and length of case varies based on the type of case. As a next step the office will discuss appropriate case lengths (based on type of case) and what can be done to help reduce case lengths.\\\\\*\\\\\*\\\\\\*]\\\\\*\\\\\*
 
 <br>
 
@@ -108,9 +106,6 @@ Our goal is to improve efficiency by resolving cases as soon as possible. While 
 
 <br>
 
-\\\\\*\\\\\*\\\\\[Add any reflections on trends, current value, and/or planned activities,\\\\\*\\\\\* \\\\\*For e.g. “To better meet the ABA time standards, our office plans to xxxx\\\\\*\\\\\*\\\\\\*]\\\\\*\\\\\*
-
-\\\\\*\\\\\*\-->\\\\\*\\\\\*
 
 <br>
 
