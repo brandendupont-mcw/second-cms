@@ -22,7 +22,7 @@ The Denver DA's Office recognizes that not all individuals identify with binary 
 <iframe title="Cases Filed, by Defendant Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-Dl0Yl" src="https://datawrapper.dwcdn.net/Dl0Yl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="428"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\[The Denver DA's Office recognizes that while most people are either male or female, some do not fit into these categories. Current data collection processes do not account for such non-binary definitions. We will encourage and work with our law enforcement partners and our criminal justice stakeholder to collect more inclusive data.]
+The Denver DA's Office recognizes that not all individuals identify with binary male and female categories. Current data collection processes do not account for such non-binary definitions. We encourage our law enforcement partners and other criminal justice stakeholders collect more inclusive data.
 
 <br>
 
