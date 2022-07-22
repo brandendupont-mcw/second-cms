@@ -6,8 +6,6 @@ sidenav: false
 
 ### **Why did we develop this dashboard?**
 
-**\[Insert video/letter etc.]**
-
 The dashboard seeks to support:
 
 * **Transparency.** Ensuring that the Denver DA’s Office is communicating what it is doing and the outcomes of its work.
