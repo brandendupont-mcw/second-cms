@@ -132,8 +132,6 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-## Below are alternate graphs for pretrial detention, limited to non-traffic cases.
-
 ### Notes:
 
 * This data reflects only those cases where a sentence was ultimately imposed. Cases that resulted in diversion, an outright dismissal, or some other resolution, are not reflected here. 
