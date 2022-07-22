@@ -64,7 +64,7 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
-\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
@@ -78,14 +78,14 @@ Below are a set of indicators that provide additional context about cases filed.
 <br>
 
 
-\[Though violent crime - as defined by the Colorado Prosecutorial Dashboards project - is relatively stable since 2017, some violent offenses recently have increased. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 vehicular homicide cases.In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.]
+hough violent crime - as defined by the Colorado Prosecutorial Dashboards project - is relatively stable since 2017, some violent offenses recently have increased. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 vehicular homicide cases.In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.
 
 <br>
 
 <br>
 
 
-\* Each case is represented once, by the top charge filed. 
-\* Warrants are excluded (for all cases identified as a warrant).
-\* Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
-\* For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
+\\* Each case is represented once, by the top charge filed. 
+\\* Warrants are excluded (for all cases identified as a warrant).
+\\* Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
+\\* For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
