@@ -9,7 +9,7 @@ const Footer = () => (
           <div className="tablet:grid-col">
             <div className="logo-links">
               <a className="footer-logo media_link" href="https://www.denverda.org/">
-                <img src={'https://www.denverda.org/wp-content/uploads/2018/01/Denver-DA-Logo.png'} width="100" alt="Agency logo" />
+                <img src={'https://www.denverda.org/wp-content/uploads/2018/01/Denver-DA-Logo.png'} width="200" alt="Agency logo" />
               </a>
             </div>
           </div>
