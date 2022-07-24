@@ -8,20 +8,21 @@ const Footer = () => (
         <div className="grid-row padding-3">
           <div className="tablet:grid-col">
             <div className="logo-links">
-              <a className="footer-logo media_link" href="https://18f.gsa.gov">
-                <img src={logo} width="50" alt="Agency logo" />
+              <a className="footer-logo media_link" href="https://www.denverda.org/">
+                <img src={'https://www.denverda.org/wp-content/uploads/2018/01/Denver-DA-Logo.png'} width="100" alt="Agency logo" />
               </a>
             </div>
           </div>
           <div className="tablet:grid-col"></div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li>Footer link</li>
+              <li> <a href='https://www.denverda.org/'>Homepage</a></li>
             </ul>
           </div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li>Footer link</li>
+         
+              <li> <a href='https://www.denverda.org/'>Contact Us</a></li>
             </ul>
           </div>
         </div>

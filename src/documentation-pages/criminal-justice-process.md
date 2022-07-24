@@ -8,6 +8,10 @@ Colorado’s criminal justice system is a collaboration between lawmakers, law e
 
 This  <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'> Flowchart</a> shows how cases “flow” through the criminal justice system. 
 
+<a  href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg/view?usp=sharing'><img src='https://loyolaccj.org/criminal-justice-process.png' width='375px' alt="Logo" /></a>
+
+<br></br>
+
 * When there is an incident or alleged crime, law enforcement investigates and determines if a person committed a crime. Incidents involving <a href="/technical-notes#misdemeanor">misdemeanor</a> charges or <a href="/technical-notes#petty">petty offenses/infractions</a> are directly filed by law enforcement. Incidents involving <a href="/technical-notes#felony">felony</a> charges are referred to the DA’s Office, which decides whether to file or decline the case. 
 * In Denver, there are two separate prosecutorial agencies. The Denver District Attorney and the Denver City Attorney. Generally, the Denver District Attorney prosecutes state felonies and misdemeanors, and the Denver City Attorney, prosecutes municipal violations.  
 * If there is no arrest, the individual receives a summons - a request to appear in court on a certain date. If there is an <a href="/technical-notes#arrest">arrest</a>, the <a href="/technical-notes#bail">bond</a> will be decided at the bond hearing. Although the prosecutor can provide recommendations, bond is set by a judge, not by law enforcement or the DA's Office. 
