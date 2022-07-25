@@ -80,7 +80,7 @@ Below are a set of indicators that provide additional context about cases filed.
 <br>
 
 
-Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by the Colorado Prosecutorial Dashboards project - appears relatively consistent since 2017, some violent offenses recently have increased dramatically. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 Vehicular Homicide Cases. In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.
+Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by the Colorado Prosecutorial Dashboards project - appears relatively consistent, some violent offenses recently have increased. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 Vehicular Homicide Cases. In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.
 
 <br>
 
