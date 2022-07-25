@@ -21,17 +21,18 @@ This  <a href='https://drive.google.com/file/d/10HwZcGTyM-EVg8tFvGdS-QcpV86kmSNg
 
 ### What does the DA’s Office do?
 
-* Screens and decides whether to charge felony cases referred from law enforcement.
-* Appears in court on behalf of the People of the State of Colorado.
+* Submits requests to the court to issue warrants for arrest. 
 * Makes recommendations for bond.
+* Screens and decides whether to charge felony cases referred from law enforcement.
 * Conducts outreach and provides resources to victims.
 * Screens defendants for diversion or other alternatives to prosecution.
+* Prepares and litigates the case at pre-trial motions, hearings, and trials.
 * Dismisses or amends charges after filing.
 * Makes plea offers.
 * Makes sentencing recommendations.
 
 ### What does the DA’s Office not do?
 
-* Arrests individuals. Law enforcement arrests and, upon probable cause for an offense, refers arrestees to the DA for prosecution.
-* Sets bond. The judge makes the decision on the bond set. 
+* Arrests individuals. Law enforcement arrests and refers individuals upon probable cause of offense.
+* Sets bond. The judicial officer makes the decision on the bond set.
 * Imposes sentences. The judge imposes a sentence following conviction.
