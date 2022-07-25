@@ -17,8 +17,6 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 <br>
 
-<br>
-
 <iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-tl8vr" src="https://datawrapper.dwcdn.net/tl8vr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -136,7 +134,7 @@ In general, we would like to decrease the number of hearings to avoid prolonged 
 --!>
 
 
-**Notes**
+\*\*Notes\*\*
 
 <br>
 
