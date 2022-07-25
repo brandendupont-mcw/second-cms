@@ -8,7 +8,7 @@ A felony referral to the Denver District Attorney's (DA) Office occurs when law 
 
 **Why is this important?**  The Denver DA’s Office makes decisions based on the <a href="/technical-notes#case">cases</a> they receive from law enforcement; they are not responsible for arresting or citing individuals. The office may decide not to file a case for a number of reasons, such as insufficient evidence or investigation by law enforcement, when the charges did not rise to the level of a crime, or acceptance into a  <a href="/technical-notes#diversion">diversion</a> program.
 
-**The Denver DA's Office is working to collect and publish data for declined felony referrals. Please revisit this site in the future.**
+**The Denver DA's Office is working to collect and publish data for felony referrals. Please revisit this site in the future.**
 
 <!---
 
