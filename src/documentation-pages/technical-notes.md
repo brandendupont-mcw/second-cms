@@ -169,5 +169,3 @@ This dashboard aggregates data from the 1st District Attorney’s Office's Actio
 1. Some data points are presented annually instead of quarterly.
 2. When the quarterly measure is less than 20, we have taken a three month moving average. 
 3. When the annual number is less than 20, we have excluded the metric.
-
-**\[This link provides the data of our sample size (the “n”) for each chart.]**
