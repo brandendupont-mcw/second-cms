@@ -55,6 +55,22 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
+<a name="violent crimes filed"></a> 
+
+<iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-heb3w" src="https://datawrapper.dwcdn.net/heb3w/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by the Colorado Prosecutorial Dashboards project is relatively consistent, certain violent offenses increased recently. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 Vehicular Homicide cases. In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.
+
+### Notes 
+
+* Each case is represented once, by the top charge filed. 
+* Warrants are excluded (for all cases identified as a warrant).
+* Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
+* For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
+
 <!--
 
 <iframe title="Prioritizing Cases with the Greatest Public Safety Returns" aria-label="Interactive line chart" id="datawrapper-chart-W8ikS" src="https://datawrapper.dwcdn.net/W8ikS/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
@@ -64,31 +80,8 @@ Below are a set of indicators that provide additional context about cases filed.
 
 <br>
 
-\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
-\--!>
-
-<a name="violent crimes filed"></a> 
-
-<iframe title="Violent Crimes Filed" aria-label="Interactive line chart" id="datawrapper-chart-heb3w" src="https://datawrapper.dwcdn.net/heb3w/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
-
-<br>
-
-<br>
-
-
-Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by the Colorado Prosecutorial Dashboards project is relatively consistent, certain violent offenses increased recently. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 Vehicular Homicide cases. In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.
-
-<br>
-
-<br>
-
-Notes:
-
-Each case is represented once, by the top charge filed. 
-Warrants are excluded (for all cases identified as a warrant).
- Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
-For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
+--!>
