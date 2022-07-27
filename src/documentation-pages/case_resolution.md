@@ -86,16 +86,16 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases. <br>
 
-<br>
+### Notes
+
+* Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
+* The charge level represents the most serious charge filed in a case.
+* Warrants are excluded (for all cases identified as a warrant).
 
 <!---
 
 <iframe title="Conforming to ABA Time Standards - Felonies" aria-label="Interactive area chart" id="datawrapper-chart-Vn8pm" src="https://datawrapper.dwcdn.net/Vn8pm/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
-
-<br>
 
 --->
 
@@ -104,10 +104,7 @@ Our goal is to improve efficiency by resolving cases as soon as possible. While 
 <iframe title="Conforming to ABA Time Standards - Misdemeanors" aria-label="Interactive area chart" id="datawrapper-chart-ZNYiM" src="https://datawrapper.dwcdn.net/ZNYiM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-
-<br>
+--->
 
 <!--
 
@@ -129,15 +126,4 @@ This metric includes cases that are dismissed upon acceptance into diversion.
 
 In general, we would like to decrease the number of hearings to avoid prolonged case processing.
 
-<br>
-
-<br>
-
 --!>
-
-
-### Notes
-
-* Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
-* The charge level represents the most serious charge filed in a case.
-* Warrants are excluded (for all cases identified as a warrant).
