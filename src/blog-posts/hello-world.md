@@ -24,7 +24,7 @@ In designing the Adult Diversion Program, it was very important to District Atto
 that the program keep accurate demographic data to ensure that the racial and ethnic
 backgrounds of the program participants reflect Denver’s population in the criminal justice
 system. As you can see from the dashboard, the racial and ethnic backgrounds of both the adult
-and juvenile program participants is reflective of the racial and ethnic population in city’s
+and juvenile program participants are reflective of the racial and ethnic population in city’s
 criminal justice system.
 
 
@@ -33,8 +33,9 @@ It is worth noting that approximately 50% of both adult and juvenile clients rec
 health and/or substance use treatment as part of the diversion programs and upon successful
 program completion all participants avoided having a criminal record. The program assists
 successful participants in having their records sealed (adults) or expunged (juveniles).
-Because of the success of the Adult Diversion Program, the office obtained several grants to
-expand. In 2023, the juvenile program will support a Gang Prevention Coordinator position who
+Because of the success of the Adult Diversion Program, and through collaborative partnerships
+with various city agencies, the office obtained several grants to expand. Starting in the 2022-
+2023 school year, the juvenile program will support a Gang Prevention Coordinator position who
 will be present in the Denver Public Schools to help direct young people away from criminal
 activity and support healthy lifestyles.
 
