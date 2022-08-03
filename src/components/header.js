@@ -6,9 +6,9 @@ const Header = ({ children, siteTitle }) => (
   <header className="usa-header usa-header--extended" role="banner">
     <div className="usa-navbar">
       <div className="usa-logo" id="extended-logo">
-        <em className="usa-logo__text">
-          <Link to="/" title="Home" aria-label="Home">
-            {siteTitle}
+        <em className="usa-logo__text desktop:width-tablet" >
+          <Link to="/"  title="Home" aria-label="Home">
+          Denver District Attorney’s Office<br></br> Data Dashboard
           </Link>
         </em>
       </div>

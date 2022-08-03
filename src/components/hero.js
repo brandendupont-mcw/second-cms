@@ -10,7 +10,7 @@ const Hero = () => (
     <div className="grid-container">
       <div className="usa-hero__callout">
         <h3 className="usa-hero__heading" style={{color:'white'}}>
-          <span className="usa-hero__heading--alt">We're Opening</span> Denver District Attorney’s Data to the Public
+          <span className="usa-hero__heading--alt"></span> The Denver District Attorney’s Office Data is Open to Explore
         </h3>
         <p>
         Learn about what data we're releasing and important context about our justice system.
