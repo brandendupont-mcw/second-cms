@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Charging and Filing
 
-In Colorado, misdemeanors and petty offenses/infractions are filed directly with the court by law enforcement. Felony cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to issue. This section presents data on all cases for which a law enforcement agency has filed the case (<a href="/technical-notes#misdemeanor">misdemeanors</a> or <a href="/technical-notes#petty">petty offenses/infractions</a>) or for which the DA’s Office has decided to accept the referral and file the charges (<a href="/technical-notes#felony">felonies</a>). 
+In Colorado, misdemeanors (including traffic cases) are filed directly with the court by law enforcement. Felony cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to file. This section presents data on all cases for which a law enforcement agency has filed the case (<a href="/technical-notes#misdemeanor">misdemeanors</a>) or for which the DA’s Office has decided to accept the referral and file the charges (<a href="/technical-notes#felony">felonies</a>). 
 
 **Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. Understanding the number and types of cases filed in the Office helps to ensure we use resources efficiently, effectively, and fairly.
 
@@ -80,7 +80,7 @@ Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by t
 
 <br>
 
-\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
