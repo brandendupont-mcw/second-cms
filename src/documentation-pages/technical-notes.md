@@ -56,7 +56,7 @@ sidenav: false
 
 <a name="dui"></a>**DUI**:  Includes Driving Under the Influence of Alcohol (DUI), Driving Under the Influence of Drugs (DUID), Driving While Ability Impaired by Alcohol (DWAI), and Driving While Ability Impaired by Drugs (DWAID) charges.
 
-<a name="sex"></a>**Sex Offense**: Includes sexual assault, sexual contact, sexual exploitation, incest, enticement, internet luring, sexual human trafficking, prostitution charges, indecent exposure and public indecency, and some invasion of privacy charges. 
+<a name="sex"></a>**Sex Offense**:  Includes sexual assault (including sexual assault on a child and sexual assault on a child by one in a position of trust), sexual contact, sexual exploitation, incest, enticement, internet luring, sexual human trafficking, prostitution charges, indecent exposure and public indecency, and some invasion of privacy charges. 
 
 <a name="traffic"></a>**Traffic**: Includes careless driving, driver’s license violations, driving under restraint, driving without insurance, leaving the scene of an accident, reckless driving, and other vehicle/traffic charges.
 
@@ -117,7 +117,6 @@ sidenav: false
 This definition of violent crime is used in the following indicators:
 
 * <a href="/filing_charging#violent crimes filed">Violent Crimes Filed</a>
-* <a href="/defendant_characteristics#violent recidivism">Violent Recidivism</a>
 * <a href="/serving_victims#violent victimization children">Violent Victimization of Children</a>
 * <a href="/serving_victims#violent victimization POC">Violent Victimization of People of Color</a>
 
