@@ -50,7 +50,7 @@ Due to a change in the Denver DA's case management system in August of 2021, we 
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about sentencing. These indicators help the Denver DA's Office ensure we are seeking equitable outcomes in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
+Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about sentencing. These indicators help the Denver DA's Office ensure we are seeking equitable outcomes in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
 
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
