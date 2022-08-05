@@ -19,7 +19,7 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about deferred judgments. These indicators help the DA's Office ensure they are providing alternatives to traditional prosecution effectively and fairly.
+Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about deferred judgments. These indicators help the DA's Office ensure they are providing alternatives to traditional prosecution effectively and fairly.
 
 <iframe title="Deferred Judgment Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-l2U22" src="https://datawrapper.dwcdn.net/l2U22/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> 
@@ -48,7 +48,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-\\\*\\\*\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\*\\\*
+\\\\*\\\\*\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\*\\\\*
 
 <br>
 
