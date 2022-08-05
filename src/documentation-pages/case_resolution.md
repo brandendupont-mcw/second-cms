@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Case Resolution
 
-This section presents data on all cases prosecuted by the Denver District Attorney's (DA) Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/technical-notes#dismissed">dismissal</a>, <a href="/technical-notes#diversion">diversion</a>, <a href="/technical-notes#deferred">deferred judgment</a>, <a href="/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/technical-notes#acquitted">acquittal</a> or <a href="/technical-notes#foundguilty">guilty</a> verdict at trial. 
+This section presents data on all cases prosecuted by the DA's Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/technical-notes#dismissed">dismissal</a>, <a href="/technical-notes#diversion">diversion</a>, <a href="/technical-notes#deferred">deferred judgment</a>, <a href="/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/technical-notes#acquitted">acquittal</a> or <a href="/technical-notes#foundguilty">guilty</a> verdict at trial. 
 
 **Why is this important?** It is important to review how cases are resolved to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness.
 
@@ -33,7 +33,7 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about case resolutions. These indicators help the Denver DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
+Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
 
 <br>
 
@@ -49,7 +49,7 @@ While there are many reasons a felony may resolve as a misdemeanor, a low percen
 <iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-MiGmv" src="https://datawrapper.dwcdn.net/MiGmv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
+The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver DA's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
 <br>
 
