@@ -33,7 +33,7 @@ This section presents data on all cases prosecuted by the Denver District Attorn
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about case resolutions. These indicators help the Denver DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
+Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about case resolutions. These indicators help the Denver DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
 
 <br>
 
