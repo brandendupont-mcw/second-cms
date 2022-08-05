@@ -51,7 +51,7 @@ In Colorado, <a href="/technical-notes#misdemeanor">misdemeanors</a> (including 
 
 ## Indicators
 
-Below are a set of indicators that provide additional context about cases filed. These indicators help the Denver DA's Office ensure we are prioritizing cases effectively and charging cases appropriately.
+Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about cases filed. These indicators help the Denver DA's Office ensure we are prioritizing cases effectively and charging cases appropriately.
 
 <br>
 
@@ -80,7 +80,7 @@ Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by t
 
 <br>
 
-\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
