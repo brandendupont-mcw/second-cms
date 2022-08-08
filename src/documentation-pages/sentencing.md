@@ -55,7 +55,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a>  that pr
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-Due to a change in the Denver DA's case management system in August of 2021, we have more confidence after the fourth quarter of 2021. Our goal is to increase the percentage of custodial sentences for serious offenses. We believe the percentage of incarceration for serious offenses is lower than expected. We are further examining this data point to understand how much of the “other” is for repeat defendants or due to probation revocations.
+Our goal is to increase the percentage of custodial sentences for serious offenses. We are further examining the data within the category “Percent involving other offenses” to understand if this is due to repeat defendants or due to probation revocations.
 
 <br>
 
