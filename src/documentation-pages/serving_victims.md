@@ -50,9 +50,13 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
+<br>
+
 ## Indicators
 
 Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about serving victims. These indicators help the DA's Office ensure they are supporting crime victims with timely outreach, ensuring victims' voices are heard, and preventing future victimization. <br>
+
+<br>
 
 <br>
 
@@ -65,10 +69,12 @@ The Denver DA's Office's goal is to reduce differences in victimization by race/
 
 <br>
 
+<br>
+
 <iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-The Denver DA's Office's goal is to reduce differences in victimization by zip code. The zip code on this indicator is a proxy for socioeconomic status. However, gentrification may affect this metric.
+The Office goal is to reduce differences in victimization by socioeconomic status. We use zip code as a proxy for socioeconomic status. However, gentrification may affect this metric.
 
 <br>
 
@@ -77,7 +83,7 @@ The Denver DA's Office's goal is to reduce differences in victimization by zip c
 <iframe title="Treating Property Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-CQ33c" src="https://datawrapper.dwcdn.net/CQ33c/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-The Denver DA's Office's goal is to reduce differences in victimization by zip code. The zip code on this indicator is a proxy for socioeconomic status. However, gentrification may affect this metric.
+The Denver DA's Office's goal is to reduce differences in victimization by zip code. Here zip code is a proxy for socioeconomic status. However, gentrification may affect this metric.
 
 <br>
 
