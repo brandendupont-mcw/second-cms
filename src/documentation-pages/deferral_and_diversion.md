@@ -33,7 +33,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a>  that pr
 
 <br>
 
-The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
+Our goal is to achieve equity in plea outcomes among all defendants regardless of race and/or ethnicity. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support the efforts of our law enforcement partners to continually find ways to more accurately collect race and ethnicity data.
 
 <br>
 
@@ -55,7 +55,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-\\\\\\*\\\\\\*\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\*\\\\\\*
+\\\\\\\*\\\\\\\*\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\*\\\\\\\*
 
 <br>
 
