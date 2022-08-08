@@ -40,7 +40,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a>  that pr
 <iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-ZD5RF" src="https://datawrapper.dwcdn.net/ZD5RF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-While there are many reasons a felony may resolve as a misdemeanor, a low percentage of felonies resolved as misdemeanors can be an indicator of accurate initial charging decisions.
+There are many reasons a felony may resolve as a misdemeanor. For example, as a case progresses more information may come to light, a victim may refuse to testify, and/or eyewitnesses may be discovered through further investigation.  Each factor influences the final disposition of a case. A low percentage of felonies resolved as misdemeanors can be an indicator of accurate initial charging decisions.
 
 <br>
 
@@ -49,7 +49,7 @@ While there are many reasons a felony may resolve as a misdemeanor, a low percen
 <iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-MiGmv" src="https://datawrapper.dwcdn.net/MiGmv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver DA's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
+Our goal is to achieve equity in plea outcomes for all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Office supports the efforts of our law enforcement partners to continually find ways to more accurately collect race and ethnicity data.
 
 <br>
 
@@ -71,7 +71,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-Our goal is to improve efficiency by resolving cases as soon as possible. While there are many reasons why a case may not resolve in a timely manner, many of which are not in their control, there are some things prosecutors can do to efficiently resolve cases. <br>
+Our goal is to improve efficiency by resolving cases as soon as possible. The are many reasons why a case may not resolve in a timely manner such as a victim or eyewitness may refuse to testify, more evidence may become available, general delays in court proceedings and other reasons that may be outside of our control. We are always looking for ways to shorten the time it takes to resolve a case. <br>
 
 ### Notes
 
