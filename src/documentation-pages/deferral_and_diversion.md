@@ -12,6 +12,13 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 <br>
 
+<iframe title="Number of Diversion Cases Accepted, by Year" aria-label="Stacked Column Chart" id="datawrapper-chart-nBONZ" src="https://datawrapper.dwcdn.net/nBONZ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
+
+<br>
+
 <iframe title="Number of Felony Cases Receiving Deferred Judgment, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-z6db6" src="https://datawrapper.dwcdn.net/z6db6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
@@ -48,7 +55,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-\\\\*\\\\*\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\*\\\\*
+\\\\\*\\\\\*\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\*\\\\\*
 
 <br>
 
