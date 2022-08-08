@@ -8,13 +8,13 @@ sidenav: false
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vcYGG_PyB4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The dashboard seeks to support:
+In developing this dashboard, we seek to provide the community with insight in to our work through:
 
-* **Transparency.** Ensuring that the DA’s Office is communicating what it is doing and the outcomes of its work.
-* **Efficiency.** Ensuring that the DA’s Office is using resources wisely and being good stewards of public funding.
-* **Community Safety and Well-Being.** Ensuring that the DA’s Office is addressing serious crime and protecting and serving victims.
-* **Justice and Fairness.** Ensuring that the DA’s Office is identifying and prioritizing actions to reduce disparities at points of prosecutorial discretion and to ensure the fair treatment of victims and defendants.
-* **Data-driven Decision-making.** Ensuring that the DA’s Office is learning what is going well and where there is room for improvement, ensuring decisions are grounded in systematically collected data.
+* **Transparency.** Ensuring that we are providing visibility into the processes, procedures and outcomes of our work to the community.
+* **Efficiency.** Ensuring that we are using resources wisely and being good stewards of public funding.
+* **Community Safety and Well-Being.** Ensuring that we are addressing serious crime and protecting and serving the community and victims of crime.
+* **Justice and Fairness.** Ensuring that at each point of prosecutorial discretion, all decisions are fair, balanced and unbiased for all victims and defendants.
+* **Data-driven Decision-making.** Ensuring that we use data to make improvements to the Office processes and procedures.
 
 ### How can you use this dashboard?
 
