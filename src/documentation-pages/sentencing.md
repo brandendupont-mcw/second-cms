@@ -46,8 +46,6 @@ Due to a change in the Denver DA's case management system in August of 2021, we 
 
 <br>
 
-<br>
-
 ## Indicators
 
 Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about sentencing. These indicators help the DA's Office ensure we are seeking equitable outcomes in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
@@ -55,7 +53,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a>  that pr
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-Our goal is to increase the percentage of custodial sentences for serious offenses. We are further examining the data within the category “Percent involving other offenses” to understand if this is due to repeat defendants or due to probation revocations.
+Due to a change in the Denver DA's case management system in August of 2021, we have more confidence after the fourth quarter of 2021. Our goal is to increase the percentage of custodial sentences for serious offenses. We believe the percentage of incarceration for serious offenses is lower than expected. We are further examining this data point to understand how much of the “other” is for repeat defendants or due to probation revocations.
 
 <br>
 
@@ -91,8 +89,6 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
 
-<br>
-
 <a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
@@ -106,10 +102,6 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 <iframe title="Felony Incarceration Differences by Defendant Income - Median Household Income" aria-label="Bullet Bars" id="datawrapper-chart-z9ErX" src="https://datawrapper.dwcdn.net/z9ErX/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
-
-<br>
 
 ## **Pretrial Detention Indicators**
 
