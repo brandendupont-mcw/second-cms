@@ -62,7 +62,7 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a>  that pr
 
 <br>
 
-Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by the Colorado Prosecutorial Dashboards project is relatively consistent, certain violent offenses increased recently. In 2021 the Denver DA's Office filed 72 homicide cases including 58 Murder in the First Degree cases, 4 Manslaughter cases, and 10 Vehicular Homicide cases. In addition, in 2021 the Denver DA's Office filed 96 Attempted First Degree Murder cases.  We will continue to monitor this indicator closely.
+Though <a href="/technical-notes#violentcrime">violent crime</a> is relatively consistent year-over-year, certain violent offenses have increased in recent years. Our office will continue to monitor this trend.
 
 ### Notes 
 
@@ -80,7 +80,7 @@ Though <a href="/technical-notes#violentcrime">violent crime</a> as defined by t
 
 <br>
 
-\\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
