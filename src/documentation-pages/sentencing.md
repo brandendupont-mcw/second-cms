@@ -24,7 +24,7 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-Due to a change in the Denver DA's case management system in August of 2021, we have more confidence in data after the fourth quarter of 2021.
+A new case management system was implemented in August 2021. Due to this change, please refer to the fourth quarter 2021 section for the most accurate reflection of the data.
 
 <br>
 
