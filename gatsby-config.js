@@ -39,7 +39,7 @@ module.exports = {
       },
     ],
     secondaryLinks: [
-      { text: 'Homepage', link: 'https://www.denverda.org/' },
+      { text: 'Denver DA Homepage', link: 'https://www.denverda.org/' },
       { text: 'Contact Us', link: 'https://www.denverda.org/contact-us/' },
     ],
 
