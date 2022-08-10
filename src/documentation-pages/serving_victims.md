@@ -17,7 +17,7 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-<iframe title="Cases Filed, by Victim Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-k3c6h" src="https://datawrapper.dwcdn.net/k3c6h/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Victim Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-k3c6h" src="https://datawrapper.dwcdn.net/k3c6h/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -31,7 +31,7 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-<iframe title="Cases Filed, by Victim Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-TKhxa" src="https://datawrapper.dwcdn.net/TKhxa/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Victim Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-TKhxa" src="https://datawrapper.dwcdn.net/TKhxa/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -45,7 +45,7 @@ This section presents information about victimization, victim characteristics, a
 
 <br>
 
-<iframe title="Cases Filed, by Victim Age 2021" aria-label="Donut Chart" id="datawrapper-chart-vTIbv" src="https://datawrapper.dwcdn.net/vTIbv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Victim Age 2021" aria-label="Donut Chart" id="datawrapper-chart-vTIbv" src="https://datawrapper.dwcdn.net/vTIbv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="460"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -71,7 +71,7 @@ The Denver DA's Office's goal is to reduce differences in victimization by race/
 
 <br>
 
-<iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="590"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 The Office goal is to reduce differences in victimization by socioeconomic status. We use zip code as a proxy for socioeconomic status. However, gentrification may affect this metric.
