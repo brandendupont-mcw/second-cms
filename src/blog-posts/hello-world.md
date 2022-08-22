@@ -34,6 +34,4 @@ Moreover, both programs boast impressive recidivism rates:  3% for adults and 5
 
 Because of the success of the Adult Diversion Program, and through collaborative partnerships with various city agencies, the office obtained several grants to expand. Starting in the 2022-2023 school year, the juvenile program will support a Gang Prevention Coordinator position who will be present in the Denver Public Schools to help direct young people away from criminal activity and support healthy lifestyles. 
 
-We are very proud of these diversion programs and believe they are an excellent alternative to the traditional system. These programs prevent future crime and definitely help people make better choices in their lives that keep them from further contact with the criminal justice system. 
-
-![Federalist!]()
+We are very proud of these diversion programs and believe they are an excellent alternative to the traditional system. These programs prevent future crime and definitely help people make better choices in their lives that keep them from further contact with the criminal justice system.
