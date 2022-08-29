@@ -19,21 +19,21 @@ This section presents data on cases granted diversion or deferred judgment. <a h
 
 <br>
 
-<iframe title="Individuals Diverted, by Race/Ethnicity" aria-label="Multiple Donuts" id="datawrapper-chart-5a3y3" src="https://datawrapper.dwcdn.net/5a3y3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="296"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Individuals Diverted, by Race/Ethnicity" aria-label="Multiple Donuts" id="datawrapper-chart-4k78c" src="https://datawrapper.dwcdn.net/4k78c/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="390"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 <br>
 
-<iframe title="Number of Juveniles Diverted, by Age (2017-2021)" aria-label="Column Chart" id="datawrapper-chart-SWgPS" src="https://datawrapper.dwcdn.net/SWgPS/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Juveniles Diverted, by Age (2017-2021)" aria-label="Column Chart" id="datawrapper-chart-8wMmh" src="https://datawrapper.dwcdn.net/8wMmh/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
 
 <br>
 
-<iframe title="Number of Adults Diverted, by Age (2019-2021) " aria-label="Column Chart" id="datawrapper-chart-qdIRD" src="https://datawrapper.dwcdn.net/qdIRD/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Adults Diverted, by Age (2019-2021)" aria-label="Column Chart" id="datawrapper-chart-yLkrO" src="https://datawrapper.dwcdn.net/yLkrO/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -83,7 +83,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-\\\\\\\\\\\*\\\\\\\\\\\*\\\\\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\\\\\*\\\\\\\\\\\*
+\\\\\\\\\\\\*\\\\\\\\\\\\*\\\\\\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\\\\\\*\\\\\\\\\\\\*
 
 <br>
 
