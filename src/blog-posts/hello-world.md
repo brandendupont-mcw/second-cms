@@ -1,5 +1,5 @@
 ---
-title: Diversion
+title: The Growth of Denver's Diversion Programming
 date: July 28, 2022
 author: Carolyn Tyler
 ---
@@ -14,7 +14,7 @@ When she became DA, the office had a Juvenile Diversion Program, but not one for
 
 <br>
 
-In designing the Adult Diversion Program, it was very important to District Attorney McCann that the program keep accurate demographic data to ensure that the racial and ethnic backgrounds of the program participants reflect Denver’s population in the criminal justice system. As you can see from the dashboard, the racial and ethnic backgrounds of both the adult and juvenile program participants are reflective of the racial and ethnic population in city’s criminal justice system. 
+In designing the Adult Diversion Program, it was very important to District Attorney McCann that the program keep accurate demographic data to ensure that the racial and ethnic backgrounds of the program participants reflect Denver’s population in the criminal justice system. The dashboard helps us monitor whether we are meeting our longstanding goal of having diversion programs reflect the racial and ethnic population in the city’s criminal justice system.  It is imperative that these programs operate with inclusivity every step of the way and our dashboard enables improved transparency and monitoring of our efforts.
 
 <br>
 
@@ -35,3 +35,5 @@ Moreover, both programs boast impressive recidivism rates:  3% for adults and 5
 Because of the success of the Adult Diversion Program, and through collaborative partnerships with various city agencies, the office obtained several grants to expand. Starting in the 2022-2023 school year, the juvenile program will support a Gang Prevention Coordinator position who will be present in the Denver Public Schools to help direct young people away from criminal activity and support healthy lifestyles. 
 
 We are very proud of these diversion programs and believe they are an excellent alternative to the traditional system. These programs prevent future crime and definitely help people make better choices in their lives that keep them from further contact with the criminal justice system.
+
+For more about Denver’s diversion programs [read our annual report](https://www.denverda.org/about/) for the latest information.
