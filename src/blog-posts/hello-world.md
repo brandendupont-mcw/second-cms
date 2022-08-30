@@ -1,5 +1,5 @@
 ---
-title: Diversion
+title: The Growth of Denver's Diversion Programming
 date: July 28, 2022
 author: Carolyn Tyler
 ---
@@ -14,16 +14,26 @@ When she became DA, the office had a Juvenile Diversion Program, but not one for
 
 <br>
 
-In designing the Adult Diversion Program, it was very important to District Attorney McCann that the program keep accurate demographic data to ensure that the racial and ethnic backgrounds of the program participants reflect Denver’s population in the criminal justice system. As you can see from the dashboard, the racial and ethnic backgrounds of both the adult and juvenile program participants are reflective of the racial and ethnic population in city’s criminal justice system. 
+In designing the Adult Diversion Program, it was very important to District Attorney McCann that the program keep accurate demographic data to ensure that the racial and ethnic backgrounds of the program participants reflect Denver’s population in the criminal justice system. The dashboard helps us monitor whether we are meeting our longstanding goal of having diversion programs reflect the racial and ethnic population in the city’s criminal justice system.  It is imperative that these programs operate with inclusivity every step of the way and our dashboard enables improved transparency and monitoring of our efforts.
 
-\[Insert diversion race/ethnicity graph]
+<br>
+
+<iframe title="Individuals Diverted, by Race/Ethnicity" aria-label="Multiple Donuts" id="datawrapper-chart-5a3y3" src="https://datawrapper.dwcdn.net/5a3y3/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="296"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
 
 Moreover, both programs boast impressive recidivism rates:  3% for adults and 5% for juveniles. Recidivism is completed one year and three years after a client successfully terminates from Diversion.  If there is a new misdemeanor or felony conviction at the one or three year mark it is counted as a new charge.   It is worth noting that approximately 50% of both adult and juvenile clients received mental health and/or substance use treatment as part of the diversion programs and upon successful program completion all participants avoided having a criminal record. The program assists successful participants in having their records sealed (adults) or expunged (juveniles).
 
-\[Insert success rates graph]
+<br>
+
+<iframe title="Successful Diversion Completions" aria-label="Table" id="datawrapper-chart-J4AHJ" src="https://datawrapper.dwcdn.net/J4AHJ/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="160"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script> <br>
+
+<br>
 
 Because of the success of the Adult Diversion Program, and through collaborative partnerships with various city agencies, the office obtained several grants to expand. Starting in the 2022-2023 school year, the juvenile program will support a Gang Prevention Coordinator position who will be present in the Denver Public Schools to help direct young people away from criminal activity and support healthy lifestyles. 
 
-We are very proud of these diversion programs and believe they are an excellent alternative to the traditional system. These programs prevent future crime and definitely help people make better choices in their lives that keep them from further contact with the criminal justice system. 
+We are very proud of these diversion programs and believe they are an excellent alternative to the traditional system. These programs prevent future crime and definitely help people make better choices in their lives that keep them from further contact with the criminal justice system.
 
-![Federalist!]()
+For more about Denver’s diversion programs [read our annual report](https://www.denverda.org/about/) for the latest information.
