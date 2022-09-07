@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Sentencing
 
-After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/technical-notes#fees">fees</a>, <a href="/technical-notes#fines">fines</a>, <a href="/technical-notes#communityservice">community service</a>, <a href="/technical-notes#probation">probation</a>, <a href="/technical-notes#jail">jail</a>, <a href="/technical-notes#communitycorrections">community corrections</a>, or <a href="/technical-notes#prison">prison</a>. Prosecutors and defense attorneys can negotiate plea bargains or make sentencing recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
+After an individual is found guilty of a crime, a judge imposes a sentence which may include <a href="/2nd/technical-notes#fees">fees</a>, <a href="/2nd/technical-notes#fines">fines</a>, <a href="/2nd/technical-notes#communityservice">community service</a>, <a href="/2nd/technical-notes#probation">probation</a>, <a href="/2nd/technical-notes#jail">jail</a>, <a href="/2nd/technical-notes#communitycorrections">community corrections</a>, or <a href="/2nd/technical-notes#prison">prison</a>. Prosecutors and defense attorneys can negotiate plea bargains or make sentencing recommendations to the judge, who decides on the ultimate sentence. This section presents information on sentencing by the most severe sentence imposed on the case. 
 
 **Why is this important?** It is important to ensure sentences minimize unnecessary punitiveness while appropriately addressing serious crime. In addition, we want to treat all individuals fairly and equitably.
 
@@ -48,7 +48,7 @@ Due to a change in the Denver DA's case management system in August of 2021, we 
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about sentencing. These indicators help the DA's Office ensure we are seeking equitable outcomes in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
+Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  that provide additional context about sentencing. These indicators help the DA's Office ensure we are seeking equitable outcomes in the type and severity of sentences imposed, reducing unnecessary pretrial detention, and avoiding unwarranted incarceration without compromising public safety. <br>
 
 <iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
@@ -89,7 +89,7 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
 
-<a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
+<a href="/2nd/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
@@ -134,7 +134,7 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
 
-<a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
+<a href="/2nd/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
