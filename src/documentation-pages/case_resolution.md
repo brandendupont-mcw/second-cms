@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Case Resolution
 
-This section presents data on all cases prosecuted by the DA's Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/technical-notes#dismissed">dismissal</a>, <a href="/technical-notes#diversion">diversion</a>, <a href="/technical-notes#deferred">deferred judgment</a>, <a href="/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/technical-notes#acquitted">acquittal</a> or <a href="/technical-notes#foundguilty">guilty</a> verdict at trial. 
+This section presents data on all cases prosecuted by the DA's Office that have reached a final resolution (a case disposition). Cases can be resolved in a variety of ways, including by <a href="/2nd/technical-notes#dismissed">dismissal</a>, <a href="/2nd/technical-notes#diversion">diversion</a>, <a href="/2nd/technical-notes#deferred">deferred judgment</a>, <a href="/2nd/technical-notes#pleadguilty">guilty plea</a>, or by <a href="/2nd/technical-notes#acquitted">acquittal</a> or <a href="/2nd/technical-notes#foundguilty">guilty</a> verdict at trial. 
 
 **Why is this important?** It is important to review how cases are resolved to ensure we are addressing serious crime effectively while minimizing unnecessary punitiveness.
 
@@ -33,7 +33,7 @@ This section presents data on all cases prosecuted by the DA's Office that have 
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
+Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
 
 <br>
 
@@ -60,7 +60,7 @@ Our goal is to achieve equity in plea outcomes for all defendants. There are wel
 
 The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
-<a href="/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
+<a href="/2nd/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
 
 <br>
 
