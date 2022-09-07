@@ -4,7 +4,7 @@ sidenav: false
 ---
 # Charging and Filing
 
-In Colorado, <a href="/technical-notes#misdemeanor">misdemeanors</a> (including <a href="/technical-notes#traffic">traffic</a> cases) are filed directly with the court by law enforcement. <a href="/technical-notes#felony">Felony</a> cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to file. This section presents data on all cases for which a law enforcement agency has filed the case (misdemeanors) or for which the DA’s Office has decided to accept the referral and file the charges (felonies). 
+In Colorado, <a href="/2nd/technical-notes#misdemeanor">misdemeanors</a> (including <a href="/2nd/technical-notes#traffic">traffic</a> cases) are filed directly with the court by law enforcement. <a href="/2nd/technical-notes#felony">Felony</a> cases are first reviewed by the District Attorney's (DA) Office before filing. After reviewing and accepting a felony case, prosecutors decide what type of charges to file. This section presents data on all cases for which a law enforcement agency has filed the case (misdemeanors) or for which the DA’s Office has decided to accept the referral and file the charges (felonies). 
 
 **Why is this important?** To support community safety, we want to be able to maximize limited resources by focusing on serious crime while minimizing unnecessary punitiveness. Understanding the number and types of cases filed in the Office helps to ensure we use resources efficiently, effectively, and fairly.
 
@@ -51,7 +51,7 @@ In Colorado, <a href="/technical-notes#misdemeanor">misdemeanors</a> (including 
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about cases filed. These indicators help the DA's Office ensure we are prioritizing cases effectively and charging cases appropriately.
+Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  that provide additional context about cases filed. These indicators help the DA's Office ensure we are prioritizing cases effectively and charging cases appropriately.
 
 <br>
 
@@ -67,14 +67,14 @@ Below are a set of <a href="/technical-notes#indicators">indicators</a>  that pr
 
 <br>
 
-Though <a href="/technical-notes#violentcrime">violent crime</a> is relatively consistent year-over-year, certain violent offenses have increased in recent years. Our office will continue to monitor this trend.
+Though <a href="/2nd/technical-notes#violentcrime">violent crime</a> is relatively consistent year-over-year, certain violent offenses have increased in recent years. Our office will continue to monitor this trend.
 
 ### Notes 
 
 * Each case is represented once, by the top charge filed. 
 * Warrants are excluded (for all cases identified as a warrant).
 * Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
-* For definitions of <a href="/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
+* For definitions of <a href="/2nd/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
 
 <!--
 
@@ -85,7 +85,7 @@ Though <a href="/technical-notes#violentcrime">violent crime</a> is relatively c
 
 <br>
 
-\\\\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\\\\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
