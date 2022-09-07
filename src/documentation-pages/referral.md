@@ -14,12 +14,12 @@ A felony referral to the  DA's Office occurs when law enforcement presents an in
 
 ## Indicators
 
-Below are a set of <a href="/technical-notes#indicators">indicators</a>  that provide additional context about felony referrals. These indicators help the Denver DA's Office ensure we maximize government resources by making strategic decisions about which cases to accept for prosecution. 
+Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  that provide additional context about felony referrals. These indicators help the Denver DA's Office ensure we maximize government resources by making strategic decisions about which cases to accept for prosecution. 
 
 <iframe title="Avoiding Unnecessary Felony Charges at Filing" aria-label="Interactive line chart" id="datawrapper-chart-qZJl6" src="https://datawrapper.dwcdn.net/qZJl6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\\\\\[The Denver DA's Office is working to collect and publish data for declined felony referrals. Please revisit this site in the future.]
+\\\\\\\[The Denver DA's Office is working to collect and publish data for declined felony referrals. Please revisit this site in the future.]
 
 <br>
 
