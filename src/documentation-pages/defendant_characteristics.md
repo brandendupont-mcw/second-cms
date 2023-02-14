@@ -26,8 +26,8 @@ The Denver DA's Office recognizes that not all individuals identify with binary 
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity" aria-label="Interactive line chart" id="datawrapper-chart-cAq9G" src="https://datawrapper.dwcdn.net/cAq9G/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-Ik6Ug" src="https://datawrapper.dwcdn.net/Ik6Ug/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 The Denver DA's Office's goal is to achieve equity in filing decisions across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
@@ -35,10 +35,8 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2021" aria-label="Donut Chart" id="datawrapper-chart-H7xpC" src="https://datawrapper.dwcdn.net/H7xpC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
-
-<br>
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" aria-label="Donut Chart" id="datawrapper-chart-he4c1" src="https://datawrapper.dwcdn.net/he4c1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="495" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 The Denver DA's Office's goal is to achieve equity in filing decisions across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
@@ -53,7 +51,7 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Age" aria-label="Interactive line chart" id="datawrapper-chart-qJerH" src="https://datawrapper.dwcdn.net/qJerH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Defendant Age" aria-label="Interactive line chart" id="datawrapper-chart-qJerH" src="https://datawrapper.dwcdn.net/qJerH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
@@ -68,7 +66,7 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 <iframe title="Cases Filed, by Defendant Criminal History 2021" aria-label="Donut Chart" id="datawrapper-chart-taMiC" src="https://datawrapper.dwcdn.net/taMiC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="442"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*
+\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*
 
 <br>
 
@@ -87,7 +85,7 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 <iframe title="Violent Recidivism" aria-label="Interactive area chart" id="datawrapper-chart-9j76Y" src="https://datawrapper.dwcdn.net/9j76Y/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*
+\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*
 
 <br>
 
@@ -98,7 +96,7 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 <iframe title="Escalation in Criminal Behavior" aria-label="Interactive line chart" id="datawrapper-chart-UD5GC" src="https://datawrapper.dwcdn.net/UD5GC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\*
+\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\[This metric includes data only from the eight judicial district attorney's officer participating in the Colorado Prosecutorial Dashboards project (the 1st, 2nd, 5th, 6th, 7th, 8th, 18th and 20th). This metric does not include data from outside these jurisdictions nor does it include data from outside the state of Colorado. We understand this is an important data point that the public wants to know about. Once there are fewer limitations on the this data we plan to make it public.]\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*
 
 <br>
 
@@ -107,4 +105,4 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 ## **Notes:**
 
 * Data on <a href="/2nd/technical-notes#demographics">defendant demographics</a>, including race and ethnicity, is reported to the DA’s Office by law enforcement agencies. Law enforcement currently captures this data through various mechanisms: (1) by linking to prior criminal history records, (2) by scanning a Colorado ID or driver’s license, (3) through fingerprint technology, or (4) based on the officer’s “perceived demographic information of the person contacted” (as required by HB21-1250). Officer assumptions have the potential to lead to inaccurate or inconsistent data.
-* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data.
+* In benchmarking against the Colorado Division of Criminal Justice we found that individuals identified as Hispanic are underreported in our data; therefore, we use the defendant’s last name to help identify their ethnicity.
