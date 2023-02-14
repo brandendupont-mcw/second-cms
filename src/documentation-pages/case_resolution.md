@@ -46,8 +46,8 @@ There are many reasons a felony may resolve as a misdemeanor. For example, as a 
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-MiGmv" src="https://datawrapper.dwcdn.net/MiGmv/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-d20Y5" src="https://datawrapper.dwcdn.net/d20Y5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 Our goal is to achieve equity in plea outcomes for all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Office supports the efforts of our law enforcement partners to continually find ways to more accurately collect race and ethnicity data.
 
@@ -55,14 +55,12 @@ Our goal is to achieve equity in plea outcomes for all defendants. There are wel
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-dY3Di" src="https://datawrapper.dwcdn.net/dY3Di/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-JC2F5" src="https://datawrapper.dwcdn.net/JC2F5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
 The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
 <a href="/2nd/defendant_characteristics#R/E indicators">Click Here</a> for more information about race and ethnicity data collection and limitations.
-
-<br>
 
 <br>
 
@@ -78,6 +76,8 @@ Our goal is to improve efficiency by resolving cases as soon as possible. The ar
 * Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
 * The charge level represents the most serious charge filed in a case.
 * Warrants are excluded (for all cases identified as a warrant).
+* Cases disposed with a disposition reason “deceased defendant” are excluded from case resolution related charts.
+* Hearings that occurred after case resolution (for e.g., if a defendant was on probation or returned to court for some reason after the case was disposed) are excluded from the average number of hearings per case. 
 
 <!---
 
