@@ -73,20 +73,10 @@ Our goal is to increase the percentage of custodial sentences for serious offens
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Bullet Bars" id="datawrapper-chart-eri18" src="https://datawrapper.dwcdn.net/eri18/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="425"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
-
-<br>
-
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-H8unK" src="https://datawrapper.dwcdn.net/H8unK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="547" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
-
-<br>
-
-<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Bullet Bars" id="datawrapper-chart-gNZaU" src="https://datawrapper.dwcdn.net/gNZaU/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="425"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
 
 <br>
 
@@ -122,22 +112,10 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-<br>
-
-<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-8O3kN" src="https://datawrapper.dwcdn.net/8O3kN/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="525"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script><br>
-
-<br>
-
 <iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-uP394" src="https://datawrapper.dwcdn.net/uP394/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="544" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
-
-<br>
-
-<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Grouped Bars" id="datawrapper-chart-VGCAT" src="https://datawrapper.dwcdn.net/VGCAT/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="535"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
 
 <br>
 
