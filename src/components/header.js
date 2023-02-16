@@ -8,7 +8,7 @@ const Header = ({ children, siteTitle }) => (
       <div className="usa-logo" id="extended-logo">
         <em className="usa-logo__text desktop:width-tablet" >
           <Link to="/"  title="Home" aria-label="Home">
-          Denver Judicial District Attorney <br></br> Data Dashboard
+          Denver District Attorney <br></br> Data Dashboard
           </Link>
         </em>
       </div>
