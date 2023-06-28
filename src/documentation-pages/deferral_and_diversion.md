@@ -85,7 +85,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\*
+\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\*
 
 <br>
 
@@ -95,3 +95,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 </script> <br>
 
 <br>
+
+#### N﻿otes:
+
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD2).
