@@ -71,6 +71,7 @@ Though <a href="/2nd/technical-notes#violentcrime">violent crime</a> is relative
 
 ### Notes 
 
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD2).
 * Each case is represented once, by the top charge filed. 
 * Warrants are excluded (for all cases identified as a warrant).
 * Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
@@ -85,7 +86,7 @@ Though <a href="/2nd/technical-notes#violentcrime">violent crime</a> is relative
 
 <br>
 
-\\\\\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
+\\\\\\\\\\\\\\\\[Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.]
 
 <br>
 
