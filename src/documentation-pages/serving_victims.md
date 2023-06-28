@@ -111,3 +111,7 @@ The Denver DA's Office's goal is to reduce differences in case dismissals by rac
 <br>
 
 <br>
+
+#### N﻿otes:
+
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD2).
