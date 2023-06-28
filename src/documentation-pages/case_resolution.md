@@ -73,6 +73,7 @@ Our goal is to improve efficiency by resolving cases as soon as possible. The ar
 
 ### Notes
 
+* Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD2).
 * Each case is reflected by its top disposition. For example, if a charge on a case is dismissed as a part of plea negotiations and another charge on the case is plead guilty, the case will be reflected here as a “plead guilty.”
 * The charge level represents the most serious charge filed in a case.
 * Warrants are excluded (for all cases identified as a warrant).
