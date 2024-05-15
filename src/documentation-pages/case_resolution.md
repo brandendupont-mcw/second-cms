@@ -44,19 +44,17 @@ There are many reasons a felony may resolve as a misdemeanor. For example, as a 
 
 <br>
 
-<br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-d20Y5" src="https://datawrapper.dwcdn.net/d20Y5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-d20Y5" src="https://datawrapper.dwcdn.net/d20Y5/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script><br>
 
 Our goal is to achieve equity in plea outcomes for all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Office supports the efforts of our law enforcement partners to continually find ways to more accurately collect race and ethnicity data.
 
 <br>
 
-<br>
-
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-JC2F5" src="https://datawrapper.dwcdn.net/JC2F5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="612" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Grouped Bars" id="datawrapper-chart-JC2F5" src="https://datawrapper.dwcdn.net/JC2F5/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script><br>
 
 The Denver DA's Office's goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. The Denver District Attorney's Office supports efforts by our law enforcement partners to more accurately collect race and ethnicity data.
 
@@ -66,8 +64,6 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-HdJNz" src="https://datawrapper.dwcdn.net/HdJNz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
 
 Our goal is to improve efficiency by resolving cases as soon as possible. The are many reasons why a case may not resolve in a timely manner such as a victim or eyewitness may refuse to testify, more evidence may become available, general delays in court proceedings and other reasons that may be outside of our control. We are always looking for ways to shorten the time it takes to resolve a case. <br>
 
