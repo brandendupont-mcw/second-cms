@@ -39,8 +39,7 @@ The Denver DA's Office's goal is to reduce differences in victimization by race/
 
 <br>
 
-<iframe title="Treating Person and Sex Offense Cases the Same across Neighborhoods" aria-label="Bullet Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="610"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Person and Sex Offense Dismissals Across Socioeconomic Status" aria-label="Grouped Bars" id="datawrapper-chart-pnFf1" src="https://datawrapper.dwcdn.net/pnFf1/20/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="619" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script><br>
 
 The Office goal is to reduce differences in victimization by socioeconomic status. We use zip code as a proxy for socioeconomic status. However, gentrification may affect this metric.
 
