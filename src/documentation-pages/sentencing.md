@@ -10,16 +10,8 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-<br>
-
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="290"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script><br>
-
-<br>
-
-<br>
-
-<br>
 
 <iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
@@ -28,14 +20,10 @@ A new case management system was implemented in August 2021. Due to this change,
 
 <br>
 
-<br>
-
 <iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-iik00" src="https://datawrapper.dwcdn.net/iik00/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 Due to a change in the Denver DA's case management system in August of 2021, we have more confidence in data after the fourth quarter of 2021.
-
-<br>
 
 <br>
 
@@ -57,31 +45,23 @@ Our goal is to increase the percentage of custodial sentences for serious offens
 
 <br>
 
-<br>
-
 <iframe title="Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-PZzEG" src="https://datawrapper.dwcdn.net/PZzEG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-<br>
 
 <br>
 
 <iframe title="Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-LPZzn" src="https://datawrapper.dwcdn.net/LPZzn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
-<br>
-
-<br>
-
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-H8unK" src="https://datawrapper.dwcdn.net/H8unK/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="547" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
 
 <br>
 
 <iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-VZqkP" src="https://datawrapper.dwcdn.net/VZqkP/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="547" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
 
@@ -93,8 +73,6 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 </script> <br>
 
 **Public Defender Qualification**: In Colorado, incarcerated defendants are automatically appointed a public defender for as long as they remain in custody. Out-of-custody defendants must apply and meet federal indigence requirements to qualify for a public defender. Therefore, there is the potential for public defenders to be representing individuals accused of more serious crimes.
-
-<a name="felony incarceration"></a>
 
 <br>
 
@@ -120,7 +98,7 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 <br>
 
 <iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants (Copy)" aria-label="Grouped Bars" id="datawrapper-chart-C2X91" src="https://datawrapper.dwcdn.net/C2X91/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="544" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
+</script><br>
 
 Our goal is to achieve equity in plea outcomes across all defendants. There are well-recognized difficulties in collecting accurate race and ethnicity data. One should keep these difficulties in mind when reviewing metrics which include race and/or ethnicity. We support efforts by our law enforcement partners to more accurately collect race and ethnicity data. 
 
