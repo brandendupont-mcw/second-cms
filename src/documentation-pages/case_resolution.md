@@ -29,8 +29,6 @@ This section presents data on all cases prosecuted by the DA's Office that have 
 
 <br>
 
-<br>
-
 ## Indicators
 
 Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  that provide additional context about case resolutions. These indicators help the DA's Office ensure they are achieving outcomes efficiently, effectively, and fairly. 
@@ -43,8 +41,6 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 There are many reasons a felony may resolve as a misdemeanor. For example, as a case progresses more information may come to light, a victim may refuse to testify, and/or eyewitnesses may be discovered through further investigation.  Each factor influences the final disposition of a case. A low percentage of felonies resolved as misdemeanors can be an indicator of accurate initial charging decisions.
 
 <br>
-
-
 
 <iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-d20Y5" src="https://datawrapper.dwcdn.net/d20Y5/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script><br>
