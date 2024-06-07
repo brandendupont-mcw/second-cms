@@ -11,12 +11,11 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 <br>
 
 <iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="290"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script><br>
+</script><br><﻿br>
 
-<iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> <br>
+<iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Columns" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
 
-A new case management system was implemented in August 2021. Due to this change, please refer to the fourth quarter 2021 section for the most accurate reflection of the data.
+<﻿br><﻿br>A new case management system was implemented in August 2021. Due to this change, please refer to the fourth quarter 2021 section for the most accurate reflection of the data.
 
 <br>
 
