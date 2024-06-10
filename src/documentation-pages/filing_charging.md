@@ -18,17 +18,15 @@ In Colorado, <a href="/2nd/technical-notes#misdemeanor">misdemeanors</a> (includ
 
 <br>
 
+<br>
+
 <iframe title="Number of Cases Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-dosa8" src="https://datawrapper.dwcdn.net/dosa8/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>  <br>
-
-
 
 <br>
 
 <iframe title="Number of Cases Filed, by Charge Level" aria-label="Interactive line chart" id="datawrapper-chart-hK3mk" src="https://datawrapper.dwcdn.net/hK3mk/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
-
-
 
 <br>
 
@@ -39,16 +37,12 @@ In Colorado, <a href="/2nd/technical-notes#misdemeanor">misdemeanors</a> (includ
 
 <br>
 
-
-
 <br>
 
 <iframe title="Number of Cases Filed, by Charge Type" aria-label="Column Chart" id="datawrapper-chart-BNAk1" src="https://datawrapper.dwcdn.net/BNAk1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="352"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script> <br>
 
 <br>
-
-
 
 <br>
 
@@ -58,22 +52,16 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 
 <br>
 
-
-
 <br>
 
 <iframe title="Violent Crimes Filed, by Year" aria-label="Interactive line chart" id="datawrapper-chart-AooS5" src="https://datawrapper.dwcdn.net/AooS5/10/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script><br>
 
 <br>
 
-
-
 <br>
 
 <iframe title="Violent Crimes Filed, by Quarter" aria-label="Interactive line chart" id="datawrapper-chart-heb3w" src="https://datawrapper.dwcdn.net/heb3w/21/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="439" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script> <br><br>
-
-
 
 <br>
 
@@ -88,8 +76,6 @@ Though <a href="/2nd/technical-notes#violentcrime">violent crime</a> is relative
 * For definitions of <a href="/2nd/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
 
 <iframe title="Percent of Cases Filed as Felonies" aria-label="Interactive line chart" id="datawrapper-chart-W8ikS" src="https://datawrapper.dwcdn.net/W8ikS/14/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script> 
-
-
 
 <br>
 
