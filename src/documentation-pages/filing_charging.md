@@ -65,6 +65,14 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 
 Though <a href="/2nd/technical-notes#violentcrime">violent crime</a> is relatively consistent year-over-year, certain violent offenses have increased in recent years. Our office will continue to monitor this trend.
 
+<br><br>
+
+<iframe title="Percent of Cases Filed as Felonies" aria-label="Interactive line chart" id="datawrapper-chart-W8ikS" src="https://datawrapper.dwcdn.net/W8ikS/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script> 
+
+<br><br>
+Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.
+
 ### Notes 
 
 * Underlying data counts for each chart can be accessed through [this link](https://github.com/dstemenluc/CCJ.Colorado/tree/main/JD2).
@@ -72,9 +80,3 @@ Though <a href="/2nd/technical-notes#violentcrime">violent crime</a> is relative
 * Warrants are excluded (for all cases identified as a warrant).
 * Cases do not map directly to criminal incidents. One incident can result in multiple arrests and cases – or multiple incidents could result in the arrest and prosecution of a single individual.
 * For definitions of <a href="/2nd/technical-notes#chargetype">charge types</a> included in the dashboard, see the full list in Technical Notes.
-
-<iframe title="Percent of Cases Filed as Felonies" aria-label="Interactive line chart" id="datawrapper-chart-W8ikS" src="https://datawrapper.dwcdn.net/W8ikS/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="446" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
-</script> 
-
-<br><br>
-Generally, we want to see an increase in percent of felony filings as compared to misdemeanor filings. Factors outside our control may impact the quantity of felony cases, including legislative charge reclassifications. This indicator provides insight on increases in felony crime, enforcement patterns by police, and how our office is prioritizing cases. We will continue to monitor this indicator in relation to referrals declined.
