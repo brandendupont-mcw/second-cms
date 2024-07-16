@@ -2,7 +2,7 @@
 title: Deferred Judgement Outcomes
 sidenav: false
 ---
-# Diversion and Deferred Judgments
+# Diversion and Deferral
 
 This section presents data on cases granted diversion or deferred judgment. <a href="/2nd/technical-notes#diversion">Diversion</a> and <a href="/2nd/technical-notes#deferred">deferred judgments</a> are alternatives to traditional prosecution that attempt to address individuals’ needs. If programmatic requirements are met, the case will be dismissed.
 
@@ -85,7 +85,7 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\*
+\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\\[This metric does not appear accurate and does not include data past Q1 2020.]\\\\\\\\\\\\\\\\\\*\\\\\\\\\\\\\\\\\\*
 
 <br>
 
