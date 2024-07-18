@@ -106,7 +106,7 @@ The Denver DA's Office's goal is to reduce differences in case dismissals by rac
 
 <br>
 
-<iframe title="Addressing Violent Victimization of Children" aria-label="Interactive line chart" id="datawrapper-chart-EH3sa" src="https://datawrapper.dwcdn.net/EH3sa/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Monitoring Violent Victimization of Children" aria-label="Interactive line chart" id="datawrapper-chart-crLj1" src="https://datawrapper.dwcdn.net/crLj1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="454" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
 </script>
 
 <br>
