@@ -6,8 +6,6 @@ sidenav: false
 
 ### **Why did we develop this dashboard?**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vcYGG_PyB4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In developing this dashboard, we seek to provide the community with insight in to our work through:
 
 * **Transparency.** Ensuring that we are providing visibility into the processes, procedures and outcomes of our work to the community.
