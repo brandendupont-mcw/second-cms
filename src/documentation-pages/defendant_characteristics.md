@@ -16,8 +16,31 @@ This section presents information on defendant characteristics, including <a hre
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Gender" aria-label="Interactive line chart" id="datawrapper-chart-WqXyE" src="https://datawrapper.dwcdn.net/WqXyE/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
+<iframe title="Number of Cases Filed, by Defendant Gender" 
+        aria-label="Interactive line chart" 
+        id="datawrapper-chart-WqXyE" 
+        src="https://datawrapper.dwcdn.net/WqXyE/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="400">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        var i = e.data["datawrapper-height"][a] + "px";
+                        t[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -33,8 +56,31 @@ The Denver DA's Office recognizes that not all individuals identify with binary 
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Gender 2021" aria-label="Donut Chart" id="datawrapper-chart-Dl0Yl" src="https://datawrapper.dwcdn.net/Dl0Yl/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="450"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
+<iframe title="Cases Filed, by Defendant Gender 2021" 
+        aria-label="Donut Chart" 
+        id="datawrapper-chart-Dl0Yl" 
+        src="https://datawrapper.dwcdn.net/Dl0Yl/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="450">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        var i = e.data["datawrapper-height"][a] + "px";
+                        t[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -46,7 +92,31 @@ The Denver DA's Office recognizes that not all individuals identify with binary 
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" aria-label="Interactive line chart" id="datawrapper-chart-Ik6Ug" src="https://datawrapper.dwcdn.net/Ik6Ug/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Number of Cases Filed, by Defendant Race/Ethnicity (Copy)" 
+        aria-label="Interactive line chart" 
+        id="datawrapper-chart-Ik6Ug" 
+        src="https://datawrapper.dwcdn.net/Ik6Ug/1/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="400" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        var i = e.data["datawrapper-height"][a] + "px";
+                        t[r].style.height = i;
+                    }
+        }
+    });
+}();
 </script>
 
 <br>
@@ -63,7 +133,31 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" aria-label="Donut Chart" id="datawrapper-chart-he4c1" src="https://datawrapper.dwcdn.net/he4c1/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="495" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Filed, by Defendant Race/Ethnicity 2022 (Copy)" 
+        aria-label="Donut Chart" 
+        id="datawrapper-chart-he4c1" 
+        src="https://datawrapper.dwcdn.net/he4c1/1/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="495" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        var i = e.data["datawrapper-height"][a] + "px";
+                        t[r].style.height = i;
+                    }
+        }
+    });
+}();
 </script>
 
 <br>
@@ -80,7 +174,32 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 
 <br id="census"> 
 
-<iframe title="District Population, by Race/Ethnicity 2022 Census" aria-label="Donut Chart" id="datawrapper-chart-Kd9sz" src="https://datawrapper.dwcdn.net/Kd9sz/5/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="410" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="District Population, by Race/Ethnicity 2022 Census" 
+        aria-label="Donut Chart" 
+        id="datawrapper-chart-Kd9sz" 
+        src="https://datawrapper.dwcdn.net/Kd9sz/5/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="410" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -88,8 +207,31 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 
 <br>
 
-<iframe title="Number of Cases Filed, by Defendant Age" aria-label="Interactive line chart" id="datawrapper-chart-qJerH" src="https://datawrapper.dwcdn.net/qJerH/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="430"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
+<iframe title="Number of Cases Filed, by Defendant Age" 
+        aria-label="Interactive line chart" 
+        id="datawrapper-chart-qJerH" 
+        src="https://datawrapper.dwcdn.net/qJerH/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="430">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        var i = e.data["datawrapper-height"][a] + "px";
+                        t[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -97,7 +239,31 @@ The Denver DA's Office's goal is to achieve equity in filing decisions across al
 
 <br>
 
-<iframe title="Cases Filed, by Defendant Age, 2023" aria-label="Donut Chart" id="datawrapper-chart-E9DZe" src="https://datawrapper.dwcdn.net/E9DZe/19/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="443" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script> 
+<iframe title="Cases Filed, by Defendant Age, 2023" 
+        aria-label="Donut Chart" 
+        id="datawrapper-chart-E9DZe" 
+        src="https://datawrapper.dwcdn.net/E9DZe/19/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="443" data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
