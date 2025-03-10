@@ -12,14 +12,44 @@ After an individual is found guilty of a crime, a judge imposes a sentence which
 
 <br>
 
-<iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="290"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Sentences Imposed" aria-label="Table" id="datawrapper-chart-C09sC" src="https://datawrapper.dwcdn.net/C09sC/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="290"></iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++) {
+                    if (t[r].contentWindow === e.source) 
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                }
+        }
+    });
+}();
 </script>
 
 <br>
 
 <br>
 
-<iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Columns" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Felony Sentences Imposed, by Sentence Type" aria-label="Stacked Columns" id="datawrapper-chart-FzhYr" src="https://datawrapper.dwcdn.net/FzhYr/17/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="422" data-external="1"></iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -31,8 +61,22 @@ A new case management system was implemented in August 2021. Due to this change,
 
 <br>
 
-<iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-iik00" src="https://datawrapper.dwcdn.net/iik00/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script> 
+<iframe title="Misdemeanor Sentences Imposed, by Sentence Type" aria-label="Stacked Column Chart" id="datawrapper-chart-iik00" src="https://datawrapper.dwcdn.net/iik00/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -44,7 +88,21 @@ Due to a change in the Denver DA's case management system in August of 2021, we 
 
 <br>
 
-<iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-yGJrV" src="https://datawrapper.dwcdn.net/yGJrV/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Outcomes of Non-Incarcerative Sentences" aria-label="Interactive line chart" id="datawrapper-chart-yGJrV" src="https://datawrapper.dwcdn.net/yGJrV/" scrolling="no" frameborder="0" style="width: 100%; border: none;" height="400"></iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+        }
+    });
+}();
 </script> <br>
 
 Due to a change in the Denver DA's case management system in August of 2021, we have more confidence in data after the fourth quarter of 2021.
@@ -59,7 +117,29 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 
 <br>
 
-<iframe title="Reserving Incarceration for Serious Offenses" aria-label="Interactive area chart" id="datawrapper-chart-PQcog" src="https://datawrapper.dwcdn.net/PQcog/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Reserving Incarceration for Serious Offenses" 
+        aria-label="Interactive area chart" 
+        id="datawrapper-chart-PQcog" 
+        src="https://datawrapper.dwcdn.net/PQcog/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="400">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+        }
+    });
+}();
 </script>
 
 <br>
@@ -72,13 +152,62 @@ Our goal is to increase the percentage of custodial sentences for serious offens
 
 <br>
 
-<iframe title="Community Corrections as an Alternative to Prison for Felonies" aria-label="Interactive line chart" id="datawrapper-chart-PZzEG" src="https://datawrapper.dwcdn.net/PZzEG/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Community Corrections as an Alternative to Prison for Felonies" 
+        aria-label="Interactive line chart" 
+        id="datawrapper-chart-PZzEG" 
+        src="https://datawrapper.dwcdn.net/PZzEG/17/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="463" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-H8unK" src="https://datawrapper.dwcdn.net/H8unK/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="421" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Black Defendants" 
+        aria-label="Grouped Bars" 
+        id="datawrapper-chart-H8unK" 
+        src="https://datawrapper.dwcdn.net/H8unK/7/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="421" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -90,7 +219,32 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Grouped Bars" id="datawrapper-chart-VZqkP" src="https://datawrapper.dwcdn.net/VZqkP/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="421" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Felony Incarceration Differences by Defendant Race/Ethnicity - Hispanic Defendants" 
+        aria-label="Grouped Bars" 
+        id="datawrapper-chart-VZqkP" 
+        src="https://datawrapper.dwcdn.net/VZqkP/6/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="421" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -104,7 +258,30 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Defendant Income - Defense Attorney Type" aria-label="Bullet Bars" id="datawrapper-chart-V4TpG" src="https://datawrapper.dwcdn.net/V4TpG/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="500"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Incarceration Differences by Defendant Income - Defense Attorney Type" 
+        aria-label="Bullet Bars" 
+        id="datawrapper-chart-V4TpG" 
+        src="https://datawrapper.dwcdn.net/V4TpG/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="500">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        var i = e.data["datawrapper-height"][a] + "px";
+                        t[r].style.height = i;
+                    }
+        }
+    });
+}();
 </script> 
 
 <br>
@@ -119,7 +296,32 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 <br>
 
-<iframe title="Felony Incarceration Differences by Socioeconomic Status - Median Household Income" aria-label="Grouped Bars" id="datawrapper-chart-z9ErX" src="https://datawrapper.dwcdn.net/z9ErX/21/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="435" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Felony Incarceration Differences by Socioeconomic Status - Median Household Income" 
+        aria-label="Grouped Bars" 
+        id="datawrapper-chart-z9ErX" 
+        src="https://datawrapper.dwcdn.net/z9ErX/21/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="435" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -133,14 +335,61 @@ Below are a set of indicators that provide additional context about pretrial det
 
 <br>
 
-<iframe title="Reducing Pretrial Detention for Non-Traffic Cases" aria-label="Interactive line chart" id="datawrapper-chart-CFPyn" src="https://datawrapper.dwcdn.net/CFPyn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Reducing Pretrial Detention for Non-Traffic Cases" 
+        aria-label="Interactive line chart" 
+        id="datawrapper-chart-CFPyn" 
+        src="https://datawrapper.dwcdn.net/CFPyn/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="400">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(e) {
+        if (void 0 !== e.data["datawrapper-height"]) {
+            var t = document.querySelectorAll("iframe");
+            for (var a in e.data["datawrapper-height"])
+                for (var r = 0; r < t.length; r++)
+                    if (t[r].contentWindow === e.source) {
+                        t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+        }
+    });
+}();
 </script> <br>
 
 <br>
 
 <br>
 
-<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-uP394" src="https://datawrapper.dwcdn.net/uP394/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="418" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Black Defendants" 
+        aria-label="Grouped Bars" 
+        id="datawrapper-chart-uP394" 
+        src="https://datawrapper.dwcdn.net/uP394/7/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="418" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
@@ -152,7 +401,32 @@ Our goal is to achieve equity in plea outcomes across all defendants. There are 
 
 <br>
 
-<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Grouped Bars" id="datawrapper-chart-C2X91" src="https://datawrapper.dwcdn.net/C2X91/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="418" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
+<iframe title="Pretrial Detention Differences for Non-Traffic Cases by Defendant Race/Ethnicity - Hispanic Defendants" 
+        aria-label="Grouped Bars" 
+        id="datawrapper-chart-C2X91" 
+        src="https://datawrapper.dwcdn.net/C2X91/6/" 
+        scrolling="no" 
+        frameborder="0" 
+        style="width: 100%; border: none;" 
+        height="418" 
+        data-external="1">
+</iframe>
+<script type="text/javascript">
+!function() {
+    "use strict";
+    window.addEventListener("message", function(a) {
+        if (void 0 !== a.data["datawrapper-height"]) {
+            var e = document.querySelectorAll("iframe");
+            for (var t in a.data["datawrapper-height"])
+                for (var r = 0; r < e.length; r++)
+                    if (e[r].contentWindow === a.source) {
+                        var i = a.data["datawrapper-height"][t] + "px";
+                        e[r].style.height = i;
+                    }
+        }
+    });
+}();
+</script>
 
 <br>
 
