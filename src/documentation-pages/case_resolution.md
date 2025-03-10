@@ -12,21 +12,63 @@ This section presents data on all cases prosecuted by the DA's Office that have 
 
 <br>
 
-<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t97qQ" src="https://datawrapper.dwcdn.net/t97qQ/4/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="356"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Cases Resolved" aria-label="Table" id="datawrapper-chart-t97qQ" src="https://datawrapper.dwcdn.net/t97qQ/4/" scrolling="no" frameborder="0" style="width: 100%; min-height: 356px; border: none;" height="356"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
 
 <br>
 
-<iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Columns" id="datawrapper-chart-tl8vr" src="https://datawrapper.dwcdn.net/tl8vr/17/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="463" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Felony Cases Resolved, by Disposition Type" aria-label="Stacked Columns" id="datawrapper-chart-tl8vr" src="https://datawrapper.dwcdn.net/tl8vr/17/" scrolling="no" frameborder="0" style="width: 100%; min-height: 463px; border: none;" height="463"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(a) {
+            if (void 0 !== a.data["datawrapper-height"]) {
+                var e = document.querySelectorAll("iframe");
+                for (var t in a.data["datawrapper-height"])
+                    for (var r = 0; r < e.length; r++) {
+                        if (e[r].contentWindow === a.source)
+                            e[r].style.height = a.data["datawrapper-height"][t] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
 
 <br>
 
-<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Columns" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/20/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="477" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Columns" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/20/" scrolling="no" frameborder="0" style="width: 100%; min-height: 477px; border: none;" height="477"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(a) {
+            if (void 0 !== a.data["datawrapper-height"]) {
+                var e = document.querySelectorAll("iframe");
+                for (var t in a.data["datawrapper-height"])
+                    for (var r = 0; r < e.length; r++) {
+                        if (e[r].contentWindow === a.source)
+                            e[r].style.height = a.data["datawrapper-height"][t] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
@@ -37,7 +79,21 @@ Below are a set of <a href="/2nd/technical-notes#indicators">indicators</a>  tha
 
 <br>
 
-<iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-ZD5RF" src="https://datawrapper.dwcdn.net/ZD5RF/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felonies Resolved as Misdemeanors" aria-label="Interactive line chart" id="datawrapper-chart-ZD5RF" src="https://datawrapper.dwcdn.net/ZD5RF/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
@@ -50,7 +106,21 @@ There are many reasons a felony may resolve as a misdemeanor. For example, as a 
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-d20Y5" src="https://datawrapper.dwcdn.net/d20Y5/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Black Defendants" aria-label="Grouped Bars" id="datawrapper-chart-d20Y5" src="https://datawrapper.dwcdn.net/d20Y5/7/" scrolling="no" frameborder="0" style="width: 100%; min-height: 616px; border: none;" height="616"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(a) {
+            if (void 0 !== a.data["datawrapper-height"]) {
+                var e = document.querySelectorAll("iframe");
+                for (var t in a.data["datawrapper-height"])
+                    for (var r = 0; r < e.length; r++) {
+                        if (e[r].contentWindow === a.source)
+                            e[r].style.height = a.data["datawrapper-height"][t] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
@@ -63,7 +133,21 @@ Our goal is to achieve equity in plea outcomes for all defendants. There are wel
 
 <br>
 
-<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Grouped Bars" id="datawrapper-chart-JC2F5" src="https://datawrapper.dwcdn.net/JC2F5/7/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="616" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+<iframe title="Plea Differences by Defendant Race/Ethnicity - Hispanic Defendants" aria-label="Grouped Bars" id="datawrapper-chart-JC2F5" src="https://datawrapper.dwcdn.net/JC2F5/7/" scrolling="no" frameborder="0" style="width: 100%; min-height: 616px; border: none;" height="616"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(a) {
+            if (void 0 !== a.data["datawrapper-height"]) {
+                var e = document.querySelectorAll("iframe");
+                for (var t in a.data["datawrapper-height"])
+                    for (var r = 0; r < e.length; r++) {
+                        if (e[r].contentWindow === a.source)
+                            e[r].style.height = a.data["datawrapper-height"][t] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
@@ -78,7 +162,21 @@ The Denver DA's Office's goal is to achieve equity in plea outcomes across all d
 
 <br>
 
-<iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-HdJNz" src="https://datawrapper.dwcdn.net/HdJNz/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Time to Felony Resolution" aria-label="Interactive line chart" id="datawrapper-chart-HdJNz" src="https://datawrapper.dwcdn.net/HdJNz/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 <br>
@@ -98,21 +196,63 @@ Our goal is to improve efficiency by resolving cases as soon as possible. The ar
 
 <!---
 
-<iframe title="Conforming to ABA Time Standards - Felonies" aria-label="Interactive area chart" id="datawrapper-chart-Vn8pm" src="https://datawrapper.dwcdn.net/Vn8pm/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Conforming to ABA Time Standards - Felonies" aria-label="Interactive area chart" id="datawrapper-chart-Vn8pm" src="https://datawrapper.dwcdn.net/Vn8pm/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script> <br>
 
 --->
 
 <!--
 
-<iframe title="Conforming to ABA Time Standards - Misdemeanors" aria-label="Interactive area chart" id="datawrapper-chart-ZNYiM" src="https://datawrapper.dwcdn.net/ZNYiM/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Conforming to ABA Time Standards - Misdemeanors" aria-label="Interactive area chart" id="datawrapper-chart-ZNYiM" src="https://datawrapper.dwcdn.net/ZNYiM/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script> <br>
 
 --->
 
 <!--
 
-<iframe title="Felony Dismissal Timeliness" aria-label="Interactive line chart" id="datawrapper-chart-xJVSt" src="https://datawrapper.dwcdn.net/xJVSt/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Felony Dismissal Timeliness" aria-label="Interactive line chart" id="datawrapper-chart-xJVSt" src="https://datawrapper.dwcdn.net/xJVSt/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script> <br>
 
 <br>
@@ -125,7 +265,21 @@ This metric includes cases that are dismissed upon acceptance into diversion.
 
 <br>
 
-<iframe title="Minimizing Delays in Felony Case Processing by Limiting Hearings" aria-label="Interactive line chart" id="datawrapper-chart-VIxBZ" src="https://datawrapper.dwcdn.net/VIxBZ/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Minimizing Delays in Felony Case Processing by Limiting Hearings" aria-label="Interactive line chart" id="datawrapper-chart-VIxBZ" src="https://datawrapper.dwcdn.net/VIxBZ/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script> <br>
 
 In general, we would like to decrease the number of hearings to avoid prolonged case processing.
@@ -134,7 +288,21 @@ In general, we would like to decrease the number of hearings to avoid prolonged 
 
 <!---
 
-<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="Misdemeanor Cases Resolved, by Disposition Type" aria-label="Stacked Column Chart" id="datawrapper-chart-sTaWn" src="https://datawrapper.dwcdn.net/sTaWn/" scrolling="no" frameborder="0" style="width: 100%; min-height: 400px; border: none;" height="400"></iframe>
+<script type="text/javascript">
+    !function() {
+        "use strict";
+        window.addEventListener("message", function(e) {
+            if (void 0 !== e.data["datawrapper-height"]) {
+                var t = document.querySelectorAll("iframe");
+                for (var a in e.data["datawrapper-height"])
+                    for (var r = 0; r < t.length; r++) {
+                        if (t[r].contentWindow === e.source)
+                            t[r].style.height = e.data["datawrapper-height"][a] + "px";
+                    }
+            }
+        });
+    }();
 </script>
 
 \--->
